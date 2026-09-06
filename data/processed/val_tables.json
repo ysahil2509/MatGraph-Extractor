@@ -1,0 +1,352 @@
+[
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "caption": "Stoichiometric composition and elemental mass fractions of representative lithium battery cathodes.",
+    "footnote": "Compositions verified via ICP-OES spectroscopy with accuracy +/- 0.5%.",
+    "headers": [
+      "Cathode Material",
+      "Li (wt.%)",
+      "Co (wt.%)",
+      "Ni (wt.%)",
+      "Mn (wt.%)",
+      "Fe (wt.%)",
+      "P (wt.%)",
+      "O (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Cathode Material": "LiCoO2 (LCO)",
+        "Li (wt.%)": "7.09",
+        "Co (wt.%)": "60.22",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "32.69"
+      },
+      {
+        "Cathode Material": "LiFePO4 (LFP)",
+        "Li (wt.%)": "4.40",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "35.39",
+        "P (wt.%)": "19.63",
+        "O (wt.%)": "40.58"
+      },
+      {
+        "Cathode Material": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Li (wt.%)": "7.25",
+        "Co (wt.%)": "9.24",
+        "Ni (wt.%)": "49.12",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.45"
+      },
+      {
+        "Cathode Material": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Li (wt.%)": "7.19",
+        "Co (wt.%)": "20.37",
+        "Ni (wt.%)": "20.29",
+        "Mn (wt.%)": "18.99",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.16"
+      },
+      {
+        "Cathode Material": "LiMn2O4 (LMO)",
+        "Li (wt.%)": "3.84",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "60.77",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "35.39"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Cathode Material": "LiCoO2 (LCO)",
+        "Li (wt.%)": "7.09",
+        "Co (wt.%)": "60.22",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "32.69"
+      },
+      {
+        "Cathode Material": "LiFePO4 (LFP)",
+        "Li (wt.%)": "4.40",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "35.39",
+        "P (wt.%)": "19.63",
+        "O (wt.%)": "40.58"
+      },
+      {
+        "Cathode Material": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Li (wt.%)": "7.25",
+        "Co (wt.%)": "9.24",
+        "Ni (wt.%)": "49.12",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.45"
+      },
+      {
+        "Cathode Material": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Li (wt.%)": "7.19",
+        "Co (wt.%)": "20.37",
+        "Ni (wt.%)": "20.29",
+        "Mn (wt.%)": "18.99",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.16"
+      },
+      {
+        "Cathode Material": "LiMn2O4 (LMO)",
+        "Li (wt.%)": "3.84",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "60.77",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "35.39"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "caption": "Nominal dopant composition (mol%) and stoichiometry of SOFC electrolyte and electrode ceramics.",
+    "footnote": "Powders synthesized via co-precipitation and sintered at 1400 deg C for 4 hours.",
+    "headers": [
+      "Ceramic Formulation",
+      "ZrO2 (mol%)",
+      "Y2O3 (mol%)",
+      "CeO2 (mol%)",
+      "Gd2O3 (mol%)",
+      "La2O3 (mol%)",
+      "SrO (mol%)",
+      "NiO (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Ceramic Formulation": "8YSZ (8 mol% Y2O3-ZrO2)",
+        "ZrO2 (mol%)": "92.0",
+        "Y2O3 (mol%)": "8.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "10CGO (Ce0.9Gd0.1O1.95)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "90.0",
+        "Gd2O3 (mol%)": "10.0",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "Ni-8YSZ Anode Cermet (50:50)",
+        "ZrO2 (mol%)": "46.0",
+        "Y2O3 (mol%)": "4.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "50.0"
+      },
+      {
+        "Ceramic Formulation": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "40.0",
+        "SrO (mol%)": "10.0",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "30.0",
+        "SrO (mol%)": "20.0",
+        "NiO (wt.%)": "-"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Ceramic Formulation": "8YSZ (8 mol% Y2O3-ZrO2)",
+        "ZrO2 (mol%)": "92.0",
+        "Y2O3 (mol%)": "8.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "10CGO (Ce0.9Gd0.1O1.95)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "90.0",
+        "Gd2O3 (mol%)": "10.0",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "Ni-8YSZ Anode Cermet (50:50)",
+        "ZrO2 (mol%)": "46.0",
+        "Y2O3 (mol%)": "4.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "50.0"
+      },
+      {
+        "Ceramic Formulation": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "40.0",
+        "SrO (mol%)": "10.0",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "30.0",
+        "SrO (mol%)": "20.0",
+        "NiO (wt.%)": "-"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "caption": "Mechanical properties and density of high-entropy alloys in as-cast condition.",
+    "footnote": "Compression testing performed with cylindrical samples of aspect ratio 2:1 at 10^-4 s^-1 strain rate.",
+    "headers": [
+      "Alloy System",
+      "Vickers Hardness (HV)",
+      "Yield Strength (MPa)",
+      "Compressive Strength (MPa)",
+      "Plastic Strain (%)",
+      "Density (g/cm3)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Alloy System": "CoCrFeNi (Base 4-HEA)",
+        "Vickers Hardness (HV)": "145",
+        "Yield Strength (MPa)": "185",
+        "Compressive Strength (MPa)": "790",
+        "Plastic Strain (%)": "52.0",
+        "Density (g/cm3)": "8.25"
+      },
+      {
+        "Alloy System": "CoCrFeMnNi (Cantor Alloy)",
+        "Vickers Hardness (HV)": "160",
+        "Yield Strength (MPa)": "215",
+        "Compressive Strength (MPa)": "840",
+        "Plastic Strain (%)": "48.5",
+        "Density (g/cm3)": "8.04"
+      },
+      {
+        "Alloy System": "Al0.3CoCrFeNi",
+        "Vickers Hardness (HV)": "220",
+        "Yield Strength (MPa)": "310",
+        "Compressive Strength (MPa)": "980",
+        "Plastic Strain (%)": "39.0",
+        "Density (g/cm3)": "7.78"
+      },
+      {
+        "Alloy System": "Al0.7CoCrFeNi",
+        "Vickers Hardness (HV)": "380",
+        "Yield Strength (MPa)": "780",
+        "Compressive Strength (MPa)": "1420",
+        "Plastic Strain (%)": "21.5",
+        "Density (g/cm3)": "7.45"
+      },
+      {
+        "Alloy System": "AlCoCrFeNi (Equimolar)",
+        "Vickers Hardness (HV)": "510",
+        "Yield Strength (MPa)": "1250",
+        "Compressive Strength (MPa)": "2050",
+        "Plastic Strain (%)": "14.0",
+        "Density (g/cm3)": "7.15"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy System": "CoCrFeNi (Base 4-HEA)",
+        "Vickers Hardness (HV)": "145",
+        "Yield Strength (MPa)": "185",
+        "Compressive Strength (MPa)": "790",
+        "Plastic Strain (%)": "52.0",
+        "Density (g/cm3)": "8.25"
+      },
+      {
+        "Alloy System": "CoCrFeMnNi (Cantor Alloy)",
+        "Vickers Hardness (HV)": "160",
+        "Yield Strength (MPa)": "215",
+        "Compressive Strength (MPa)": "840",
+        "Plastic Strain (%)": "48.5",
+        "Density (g/cm3)": "8.04"
+      },
+      {
+        "Alloy System": "Al0.3CoCrFeNi",
+        "Vickers Hardness (HV)": "220",
+        "Yield Strength (MPa)": "310",
+        "Compressive Strength (MPa)": "980",
+        "Plastic Strain (%)": "39.0",
+        "Density (g/cm3)": "7.78"
+      },
+      {
+        "Alloy System": "Al0.7CoCrFeNi",
+        "Vickers Hardness (HV)": "380",
+        "Yield Strength (MPa)": "780",
+        "Compressive Strength (MPa)": "1420",
+        "Plastic Strain (%)": "21.5",
+        "Density (g/cm3)": "7.45"
+      },
+      {
+        "Alloy System": "AlCoCrFeNi (Equimolar)",
+        "Vickers Hardness (HV)": "510",
+        "Yield Strength (MPa)": "1250",
+        "Compressive Strength (MPa)": "2050",
+        "Plastic Strain (%)": "14.0",
+        "Density (g/cm3)": "7.15"
+      }
+    ]
+  }
+]

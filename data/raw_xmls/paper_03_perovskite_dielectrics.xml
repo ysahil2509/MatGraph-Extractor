@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.jeurceramsoc.2023.05.012</ce:doi>
+    <ce:pii>S095522192300318X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Lead-free and lead-based perovskite ceramics for high-performance dielectric and piezoelectric devices</ce:title>
+    <ce:abstract>
+      <ce:simple-para>Perovskite structure oxides ABO3 offer tunable dielectric permittivity and piezoelectric coefficients. This work documents chemical compositions and electrical/ferroelectric parameters across lead-free and standard PZT ceramic systems.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Lead-free and lead-based perovskite ceramics for high-performance dielectric and piezoelectric devices. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Nominal molar composition (mol%) of ferroelectric perovskite ceramics.</ce:caption>
+          <tgroup cols="8">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <colspec colname="col8" colnum="8" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Material Name</entry>
+                <entry align="center">BaO (mol%)</entry>
+                <entry align="center">TiO2 (mol%)</entry>
+                <entry align="center">PbO (mol%)</entry>
+                <entry align="center">ZrO2 (mol%)</entry>
+                <entry align="center">K2O (mol%)</entry>
+                <entry align="center">Na2O (mol%)</entry>
+                <entry align="center">Nb2O5 (mol%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">BaTiO3 (BT)</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Pb(Zr0.52Ti0.48)O3 (PZT-5H)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">24.0</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">26.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">(K0.5Na0.5)NbO3 (KNN)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">25.0</entry>
+                <entry align="center">25.0</entry>
+                <entry align="center">50.0</entry>
+              </row>
+              <row>
+                <entry align="center">0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)</entry>
+                <entry align="center">3.0</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">23.5</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">BiFeO3 (BFO)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Synthesized via standard solid-state reaction method sintered at 1150-1280 deg C.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Dielectric permittivity, Curie temperature, and piezoelectric coefficients.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Ceramic System</entry>
+                <entry align="center">Dielectric Constant</entry>
+                <entry align="center">Dielectric Loss (tan delta)</entry>
+                <entry align="center">Curie Temperature (deg C)</entry>
+                <entry align="center">Piezoelectric Coefficient d33 (pC/N)</entry>
+                <entry align="center">Remanent Polarization (uC/cm2)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">BaTiO3 (BT)</entry>
+                <entry align="center">1800</entry>
+                <entry align="center">0.015</entry>
+                <entry align="center">120</entry>
+                <entry align="center">190</entry>
+                <entry align="center">16.0</entry>
+              </row>
+              <row>
+                <entry align="center">Pb(Zr0.52Ti0.48)O3 (PZT-5H)</entry>
+                <entry align="center">3400</entry>
+                <entry align="center">0.020</entry>
+                <entry align="center">230</entry>
+                <entry align="center">590</entry>
+                <entry align="center">32.0</entry>
+              </row>
+              <row>
+                <entry align="center">(K0.5Na0.5)NbO3 (KNN)</entry>
+                <entry align="center">850</entry>
+                <entry align="center">0.035</entry>
+                <entry align="center">420</entry>
+                <entry align="center">160</entry>
+                <entry align="center">22.5</entry>
+              </row>
+              <row>
+                <entry align="center">0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)</entry>
+                <entry align="center">1250</entry>
+                <entry align="center">0.040</entry>
+                <entry align="center">288</entry>
+                <entry align="center">175</entry>
+                <entry align="center">38.0</entry>
+              </row>
+              <row>
+                <entry align="center">BiFeO3 (BFO)</entry>
+                <entry align="center">150</entry>
+                <entry align="center">0.080</entry>
+                <entry align="center">830</entry>
+                <entry align="center">45</entry>
+                <entry align="center">65.0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Measured at 1 kHz frequency and room temperature (25 deg C).</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

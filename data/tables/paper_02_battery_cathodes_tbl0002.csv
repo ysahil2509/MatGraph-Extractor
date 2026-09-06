@@ -1,0 +1,6 @@
+Cathode Formula,Specific Capacity (mAh/g),Nominal Voltage (V),Energy Density (Wh/kg),Cycle Retention (%),Tap Density (g/cm3)
+LiCoO2 (LCO),160,3.90,624,92.0,2.80
+LiFePO4 (LFP),165,3.45,569,98.5,1.30
+LiNi0.8Co0.15Al0.05O2 (NCA),200,3.75,750,88.0,2.60
+LiNi1/3Mn1/3Co1/3O2 (NMC111),160,3.80,608,94.0,2.40
+LiMn2O4 (LMO),120,4.05,486,82.0,2.10

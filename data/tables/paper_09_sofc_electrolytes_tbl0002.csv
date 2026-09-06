@@ -1,0 +1,6 @@
+Material Name,Ionic Conductivity at 800C (S/cm),Activation Energy (eV),Thermal Expansion CTE (10^-6 /K),Relative Density (%),Vickers Hardness (GPa)
+8YSZ (8 mol% Y2O3-ZrO2),0.100,0.92,10.5,98.5,12.5
+10CGO (Ce0.9Gd0.1O1.95),0.180,0.76,12.2,97.8,9.2
+Ni-8YSZ Anode Cermet (50:50),0.045,1.10,12.8,94.2,8.0
+LSGM (La0.8Sr0.2Ga0.8Mg0.2O3),0.170,0.85,11.4,96.5,10.8
+LSCF (La0.6Sr0.4Co0.2Fe0.8O3),0.030,1.25,15.3,95.0,7.5

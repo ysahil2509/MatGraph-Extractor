@@ -1,0 +1,2042 @@
+[
+  {
+    "head_entity": "Ti-6Al-4V (Grade 5)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=4.43 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-4V (Grade 5) possesses Density of 4.43 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ti-6Al-4V (Grade 5)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=880 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-4V (Grade 5) possesses Yield Strength of 880 MPa."
+  },
+  {
+    "head_entity": "Ti-6Al-4V (Grade 5)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ultimate Tensile Strength=950 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-4V (Grade 5) possesses Ultimate Tensile Strength of 950 MPa."
+  },
+  {
+    "head_entity": "Ti-6Al-4V (Grade 5)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=14.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-4V (Grade 5) possesses Elongation of 14.0 %."
+  },
+  {
+    "head_entity": "Ti-6Al-4V (Grade 5)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=340 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-4V (Grade 5) possesses Hardness of 340 HV."
+  },
+  {
+    "head_entity": "Ti-6Al-2Sn-4Zr-2Mo",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=4.54 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-2Sn-4Zr-2Mo possesses Density of 4.54 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ti-6Al-2Sn-4Zr-2Mo",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=990 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-2Sn-4Zr-2Mo possesses Yield Strength of 990 MPa."
+  },
+  {
+    "head_entity": "Ti-6Al-2Sn-4Zr-2Mo",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ultimate Tensile Strength=1050 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-2Sn-4Zr-2Mo possesses Ultimate Tensile Strength of 1050 MPa."
+  },
+  {
+    "head_entity": "Ti-6Al-2Sn-4Zr-2Mo",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=13.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-2Sn-4Zr-2Mo possesses Elongation of 13.0 %."
+  },
+  {
+    "head_entity": "Ti-6Al-2Sn-4Zr-2Mo",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=365 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-6Al-2Sn-4Zr-2Mo possesses Hardness of 365 HV."
+  },
+  {
+    "head_entity": "Ti-10V-2Fe-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=4.65 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-10V-2Fe-3Al possesses Density of 4.65 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ti-10V-2Fe-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=1100 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-10V-2Fe-3Al possesses Yield Strength of 1100 MPa."
+  },
+  {
+    "head_entity": "Ti-10V-2Fe-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ultimate Tensile Strength=1180 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-10V-2Fe-3Al possesses Ultimate Tensile Strength of 1180 MPa."
+  },
+  {
+    "head_entity": "Ti-10V-2Fe-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=10.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-10V-2Fe-3Al possesses Elongation of 10.5 %."
+  },
+  {
+    "head_entity": "Ti-10V-2Fe-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=390 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-10V-2Fe-3Al possesses Hardness of 390 HV."
+  },
+  {
+    "head_entity": "Ti-5Al-2.5Sn (Grade 6)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=4.48 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-5Al-2.5Sn (Grade 6) possesses Density of 4.48 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ti-5Al-2.5Sn (Grade 6)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=820 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-5Al-2.5Sn (Grade 6) possesses Yield Strength of 820 MPa."
+  },
+  {
+    "head_entity": "Ti-5Al-2.5Sn (Grade 6)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ultimate Tensile Strength=890 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-5Al-2.5Sn (Grade 6) possesses Ultimate Tensile Strength of 890 MPa."
+  },
+  {
+    "head_entity": "Ti-5Al-2.5Sn (Grade 6)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=16.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-5Al-2.5Sn (Grade 6) possesses Elongation of 16.0 %."
+  },
+  {
+    "head_entity": "Ti-5Al-2.5Sn (Grade 6)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=310 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-5Al-2.5Sn (Grade 6) possesses Hardness of 310 HV."
+  },
+  {
+    "head_entity": "Ti-15V-3Cr-3Sn-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=4.76 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-15V-3Cr-3Sn-3Al possesses Density of 4.76 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ti-15V-3Cr-3Sn-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=1020 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-15V-3Cr-3Sn-3Al possesses Yield Strength of 1020 MPa."
+  },
+  {
+    "head_entity": "Ti-15V-3Cr-3Sn-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ultimate Tensile Strength=1110 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-15V-3Cr-3Sn-3Al possesses Ultimate Tensile Strength of 1110 MPa."
+  },
+  {
+    "head_entity": "Ti-15V-3Cr-3Sn-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=11.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-15V-3Cr-3Sn-3Al possesses Elongation of 11.0 %."
+  },
+  {
+    "head_entity": "Ti-15V-3Cr-3Sn-3Al",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=375 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Room-temperature mechanical properties and density of investigated titanium alloys.' in paper 10.1016/j.msea.2023.144890 specifies that Ti-15V-3Cr-3Sn-3Al possesses Hardness of 375 HV."
+  },
+  {
+    "head_entity": "LiCoO2 (LCO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Specific Capacity=160 mAh/g",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiCoO2 (LCO) possesses Specific Capacity of 160 mAh/g."
+  },
+  {
+    "head_entity": "LiCoO2 (LCO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Nominal Voltage=3.90 V",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiCoO2 (LCO) possesses Nominal Voltage of 3.90 V."
+  },
+  {
+    "head_entity": "LiCoO2 (LCO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=624 Wh/kg",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiCoO2 (LCO) possesses Density of 624 Wh/kg."
+  },
+  {
+    "head_entity": "LiCoO2 (LCO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Cycle Retention=92.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiCoO2 (LCO) possesses Cycle Retention of 92.0 %."
+  },
+  {
+    "head_entity": "LiCoO2 (LCO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.80 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiCoO2 (LCO) possesses Density of 2.80 g/cm\u00b3."
+  },
+  {
+    "head_entity": "LiFePO4 (LFP)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Specific Capacity=165 mAh/g",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiFePO4 (LFP) possesses Specific Capacity of 165 mAh/g."
+  },
+  {
+    "head_entity": "LiFePO4 (LFP)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Nominal Voltage=3.45 V",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiFePO4 (LFP) possesses Nominal Voltage of 3.45 V."
+  },
+  {
+    "head_entity": "LiFePO4 (LFP)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=569 Wh/kg",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiFePO4 (LFP) possesses Density of 569 Wh/kg."
+  },
+  {
+    "head_entity": "LiFePO4 (LFP)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Cycle Retention=98.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiFePO4 (LFP) possesses Cycle Retention of 98.5 %."
+  },
+  {
+    "head_entity": "LiFePO4 (LFP)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=1.30 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiFePO4 (LFP) possesses Density of 1.30 g/cm\u00b3."
+  },
+  {
+    "head_entity": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Specific Capacity=200 mAh/g",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi0.8Co0.15Al0.05O2 (NCA) possesses Specific Capacity of 200 mAh/g."
+  },
+  {
+    "head_entity": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Nominal Voltage=3.75 V",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi0.8Co0.15Al0.05O2 (NCA) possesses Nominal Voltage of 3.75 V."
+  },
+  {
+    "head_entity": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=750 Wh/kg",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi0.8Co0.15Al0.05O2 (NCA) possesses Density of 750 Wh/kg."
+  },
+  {
+    "head_entity": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Cycle Retention=88.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi0.8Co0.15Al0.05O2 (NCA) possesses Cycle Retention of 88.0 %."
+  },
+  {
+    "head_entity": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.60 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi0.8Co0.15Al0.05O2 (NCA) possesses Density of 2.60 g/cm\u00b3."
+  },
+  {
+    "head_entity": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Specific Capacity=160 mAh/g",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi1/3Mn1/3Co1/3O2 (NMC111) possesses Specific Capacity of 160 mAh/g."
+  },
+  {
+    "head_entity": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Nominal Voltage=3.80 V",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi1/3Mn1/3Co1/3O2 (NMC111) possesses Nominal Voltage of 3.80 V."
+  },
+  {
+    "head_entity": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=608 Wh/kg",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi1/3Mn1/3Co1/3O2 (NMC111) possesses Density of 608 Wh/kg."
+  },
+  {
+    "head_entity": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Cycle Retention=94.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi1/3Mn1/3Co1/3O2 (NMC111) possesses Cycle Retention of 94.0 %."
+  },
+  {
+    "head_entity": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.40 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiNi1/3Mn1/3Co1/3O2 (NMC111) possesses Density of 2.40 g/cm\u00b3."
+  },
+  {
+    "head_entity": "LiMn2O4 (LMO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Specific Capacity=120 mAh/g",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiMn2O4 (LMO) possesses Specific Capacity of 120 mAh/g."
+  },
+  {
+    "head_entity": "LiMn2O4 (LMO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Nominal Voltage=4.05 V",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiMn2O4 (LMO) possesses Nominal Voltage of 4.05 V."
+  },
+  {
+    "head_entity": "LiMn2O4 (LMO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=486 Wh/kg",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiMn2O4 (LMO) possesses Density of 486 Wh/kg."
+  },
+  {
+    "head_entity": "LiMn2O4 (LMO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Cycle Retention=82.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiMn2O4 (LMO) possesses Cycle Retention of 82.0 %."
+  },
+  {
+    "head_entity": "LiMn2O4 (LMO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.10 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Electrochemical performance parameters and energy density of lithium cathode materials.' in paper 10.1016/j.ensm.2023.102844 specifies that LiMn2O4 (LMO) possesses Density of 2.10 g/cm\u00b3."
+  },
+  {
+    "head_entity": "BaTiO3 (BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Constant=1800 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BaTiO3 (BT) possesses Dielectric Constant of 1800 T."
+  },
+  {
+    "head_entity": "BaTiO3 (BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Loss=0.015 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BaTiO3 (BT) possesses Dielectric Loss of 0.015 T."
+  },
+  {
+    "head_entity": "BaTiO3 (BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Curie Temperature=120 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BaTiO3 (BT) possesses Curie Temperature of 120 \u00b0C."
+  },
+  {
+    "head_entity": "BaTiO3 (BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Piezoelectric Coefficient d33=190 pC/N",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BaTiO3 (BT) possesses Piezoelectric Coefficient d33 of 190 pC/N."
+  },
+  {
+    "head_entity": "BaTiO3 (BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Remanent Polarization=16.0 \u00b5C/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BaTiO3 (BT) possesses Remanent Polarization of 16.0 \u00b5C/cm\u00b2."
+  },
+  {
+    "head_entity": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Constant=3400 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that Pb(Zr0.52Ti0.48)O3 (PZT-5H) possesses Dielectric Constant of 3400 T."
+  },
+  {
+    "head_entity": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Loss=0.020 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that Pb(Zr0.52Ti0.48)O3 (PZT-5H) possesses Dielectric Loss of 0.020 T."
+  },
+  {
+    "head_entity": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Curie Temperature=230 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that Pb(Zr0.52Ti0.48)O3 (PZT-5H) possesses Curie Temperature of 230 \u00b0C."
+  },
+  {
+    "head_entity": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Piezoelectric Coefficient d33=590 pC/N",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that Pb(Zr0.52Ti0.48)O3 (PZT-5H) possesses Piezoelectric Coefficient d33 of 590 pC/N."
+  },
+  {
+    "head_entity": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Remanent Polarization=32.0 \u00b5C/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that Pb(Zr0.52Ti0.48)O3 (PZT-5H) possesses Remanent Polarization of 32.0 \u00b5C/cm\u00b2."
+  },
+  {
+    "head_entity": "(K0.5Na0.5)NbO3 (KNN)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Constant=850 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that (K0.5Na0.5)NbO3 (KNN) possesses Dielectric Constant of 850 T."
+  },
+  {
+    "head_entity": "(K0.5Na0.5)NbO3 (KNN)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Loss=0.035 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that (K0.5Na0.5)NbO3 (KNN) possesses Dielectric Loss of 0.035 T."
+  },
+  {
+    "head_entity": "(K0.5Na0.5)NbO3 (KNN)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Curie Temperature=420 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that (K0.5Na0.5)NbO3 (KNN) possesses Curie Temperature of 420 \u00b0C."
+  },
+  {
+    "head_entity": "(K0.5Na0.5)NbO3 (KNN)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Piezoelectric Coefficient d33=160 pC/N",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that (K0.5Na0.5)NbO3 (KNN) possesses Piezoelectric Coefficient d33 of 160 pC/N."
+  },
+  {
+    "head_entity": "(K0.5Na0.5)NbO3 (KNN)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Remanent Polarization=22.5 \u00b5C/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that (K0.5Na0.5)NbO3 (KNN) possesses Remanent Polarization of 22.5 \u00b5C/cm\u00b2."
+  },
+  {
+    "head_entity": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Constant=1250 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that 0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT) possesses Dielectric Constant of 1250 T."
+  },
+  {
+    "head_entity": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Loss=0.040 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that 0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT) possesses Dielectric Loss of 0.040 T."
+  },
+  {
+    "head_entity": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Curie Temperature=288 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that 0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT) possesses Curie Temperature of 288 \u00b0C."
+  },
+  {
+    "head_entity": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Piezoelectric Coefficient d33=175 pC/N",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that 0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT) possesses Piezoelectric Coefficient d33 of 175 pC/N."
+  },
+  {
+    "head_entity": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Remanent Polarization=38.0 \u00b5C/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that 0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT) possesses Remanent Polarization of 38.0 \u00b5C/cm\u00b2."
+  },
+  {
+    "head_entity": "BiFeO3 (BFO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Constant=150 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BiFeO3 (BFO) possesses Dielectric Constant of 150 T."
+  },
+  {
+    "head_entity": "BiFeO3 (BFO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Dielectric Loss=0.080 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BiFeO3 (BFO) possesses Dielectric Loss of 0.080 T."
+  },
+  {
+    "head_entity": "BiFeO3 (BFO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Curie Temperature=830 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BiFeO3 (BFO) possesses Curie Temperature of 830 \u00b0C."
+  },
+  {
+    "head_entity": "BiFeO3 (BFO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Piezoelectric Coefficient d33=45 pC/N",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BiFeO3 (BFO) possesses Piezoelectric Coefficient d33 of 45 pC/N."
+  },
+  {
+    "head_entity": "BiFeO3 (BFO)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Remanent Polarization=65.0 \u00b5C/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Dielectric permittivity, Curie temperature, and piezoelectric coefficients.' in paper 10.1016/j.jeurceramsoc.2023.05.012 specifies that BiFeO3 (BFO) possesses Remanent Polarization of 65.0 \u00b5C/cm\u00b2."
+  },
+  {
+    "head_entity": "CoCrFeNi (Base 4-HEA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=Single FCC",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Chemical composition (at.%) and crystal structure of synthesized high-entropy alloys.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeNi (Base 4-HEA) possesses Yield Strength of Single FCC ."
+  },
+  {
+    "head_entity": "CoCrFeMnNi (Cantor Alloy)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=Single FCC",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Chemical composition (at.%) and crystal structure of synthesized high-entropy alloys.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeMnNi (Cantor Alloy) possesses Yield Strength of Single FCC ."
+  },
+  {
+    "head_entity": "Al0.3CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=FCC + minor BCC",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Chemical composition (at.%) and crystal structure of synthesized high-entropy alloys.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.3CoCrFeNi possesses Yield Strength of FCC + minor BCC ."
+  },
+  {
+    "head_entity": "Al0.7CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=BCC + B2 + FCC",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Chemical composition (at.%) and crystal structure of synthesized high-entropy alloys.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.7CoCrFeNi possesses Yield Strength of BCC + B2 + FCC ."
+  },
+  {
+    "head_entity": "AlCoCrFeNi (Equimolar)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=BCC + B2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Chemical composition (at.%) and crystal structure of synthesized high-entropy alloys.' in paper 10.1016/j.actamat.2023.118942 specifies that AlCoCrFeNi (Equimolar) possesses Yield Strength of BCC + B2 ."
+  },
+  {
+    "head_entity": "CoCrFeNi (Base 4-HEA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=145 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeNi (Base 4-HEA) possesses Hardness of 145 HV."
+  },
+  {
+    "head_entity": "CoCrFeNi (Base 4-HEA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=185 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeNi (Base 4-HEA) possesses Yield Strength of 185 MPa."
+  },
+  {
+    "head_entity": "CoCrFeNi (Base 4-HEA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Compressive Strength=790 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeNi (Base 4-HEA) possesses Compressive Strength of 790 MPa."
+  },
+  {
+    "head_entity": "CoCrFeNi (Base 4-HEA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=52.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeNi (Base 4-HEA) possesses Plastic Strain of 52.0 %."
+  },
+  {
+    "head_entity": "CoCrFeNi (Base 4-HEA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=8.25 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeNi (Base 4-HEA) possesses Density of 8.25 g/cm\u00b3."
+  },
+  {
+    "head_entity": "CoCrFeMnNi (Cantor Alloy)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=160 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeMnNi (Cantor Alloy) possesses Hardness of 160 HV."
+  },
+  {
+    "head_entity": "CoCrFeMnNi (Cantor Alloy)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=215 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeMnNi (Cantor Alloy) possesses Yield Strength of 215 MPa."
+  },
+  {
+    "head_entity": "CoCrFeMnNi (Cantor Alloy)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Compressive Strength=840 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeMnNi (Cantor Alloy) possesses Compressive Strength of 840 MPa."
+  },
+  {
+    "head_entity": "CoCrFeMnNi (Cantor Alloy)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=48.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeMnNi (Cantor Alloy) possesses Plastic Strain of 48.5 %."
+  },
+  {
+    "head_entity": "CoCrFeMnNi (Cantor Alloy)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=8.04 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that CoCrFeMnNi (Cantor Alloy) possesses Density of 8.04 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Al0.3CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=220 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.3CoCrFeNi possesses Hardness of 220 HV."
+  },
+  {
+    "head_entity": "Al0.3CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=310 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.3CoCrFeNi possesses Yield Strength of 310 MPa."
+  },
+  {
+    "head_entity": "Al0.3CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Compressive Strength=980 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.3CoCrFeNi possesses Compressive Strength of 980 MPa."
+  },
+  {
+    "head_entity": "Al0.3CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=39.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.3CoCrFeNi possesses Plastic Strain of 39.0 %."
+  },
+  {
+    "head_entity": "Al0.3CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=7.78 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.3CoCrFeNi possesses Density of 7.78 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Al0.7CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=380 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.7CoCrFeNi possesses Hardness of 380 HV."
+  },
+  {
+    "head_entity": "Al0.7CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=780 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.7CoCrFeNi possesses Yield Strength of 780 MPa."
+  },
+  {
+    "head_entity": "Al0.7CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Compressive Strength=1420 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.7CoCrFeNi possesses Compressive Strength of 1420 MPa."
+  },
+  {
+    "head_entity": "Al0.7CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=21.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.7CoCrFeNi possesses Plastic Strain of 21.5 %."
+  },
+  {
+    "head_entity": "Al0.7CoCrFeNi",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=7.45 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that Al0.7CoCrFeNi possesses Density of 7.45 g/cm\u00b3."
+  },
+  {
+    "head_entity": "AlCoCrFeNi (Equimolar)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=510 HV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that AlCoCrFeNi (Equimolar) possesses Hardness of 510 HV."
+  },
+  {
+    "head_entity": "AlCoCrFeNi (Equimolar)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=1250 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that AlCoCrFeNi (Equimolar) possesses Yield Strength of 1250 MPa."
+  },
+  {
+    "head_entity": "AlCoCrFeNi (Equimolar)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Compressive Strength=2050 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that AlCoCrFeNi (Equimolar) possesses Compressive Strength of 2050 MPa."
+  },
+  {
+    "head_entity": "AlCoCrFeNi (Equimolar)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=14.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that AlCoCrFeNi (Equimolar) possesses Plastic Strain of 14.0 %."
+  },
+  {
+    "head_entity": "AlCoCrFeNi (Equimolar)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=7.15 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical properties and density of high-entropy alloys in as-cast condition.' in paper 10.1016/j.actamat.2023.118942 specifies that AlCoCrFeNi (Equimolar) possesses Density of 7.15 g/cm\u00b3."
+  },
+  {
+    "head_entity": "45S5 Bioglass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.73 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 45S5 Bioglass possesses Density of 2.73 g/cm\u00b3."
+  },
+  {
+    "head_entity": "45S5 Bioglass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Glass Transition Tg=535 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 45S5 Bioglass possesses Glass Transition Tg of 535 \u00b0C."
+  },
+  {
+    "head_entity": "45S5 Bioglass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=15.1 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 45S5 Bioglass possesses Thermal Expansion CTE of 15.1 K."
+  },
+  {
+    "head_entity": "45S5 Bioglass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Young's Modulus=35.0 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 45S5 Bioglass possesses Young's Modulus of 35.0 GPa."
+  },
+  {
+    "head_entity": "45S5 Bioglass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=4.5 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 45S5 Bioglass possesses Hardness of 4.5 GPa."
+  },
+  {
+    "head_entity": "13-93 Bioactive Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.68 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 13-93 Bioactive Glass possesses Density of 2.68 g/cm\u00b3."
+  },
+  {
+    "head_entity": "13-93 Bioactive Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Glass Transition Tg=605 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 13-93 Bioactive Glass possesses Glass Transition Tg of 605 \u00b0C."
+  },
+  {
+    "head_entity": "13-93 Bioactive Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=12.8 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 13-93 Bioactive Glass possesses Thermal Expansion CTE of 12.8 K."
+  },
+  {
+    "head_entity": "13-93 Bioactive Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Young's Modulus=68.0 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 13-93 Bioactive Glass possesses Young's Modulus of 68.0 GPa."
+  },
+  {
+    "head_entity": "13-93 Bioactive Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=5.8 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that 13-93 Bioactive Glass possesses Hardness of 5.8 GPa."
+  },
+  {
+    "head_entity": "Borate 01 Glass (B-1)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.61 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Borate 01 Glass (B-1) possesses Density of 2.61 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Borate 01 Glass (B-1)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Glass Transition Tg=495 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Borate 01 Glass (B-1) possesses Glass Transition Tg of 495 \u00b0C."
+  },
+  {
+    "head_entity": "Borate 01 Glass (B-1)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=14.2 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Borate 01 Glass (B-1) possesses Thermal Expansion CTE of 14.2 K."
+  },
+  {
+    "head_entity": "Borate 01 Glass (B-1)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Young's Modulus=42.0 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Borate 01 Glass (B-1) possesses Young's Modulus of 42.0 GPa."
+  },
+  {
+    "head_entity": "Borate 01 Glass (B-1)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=4.1 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Borate 01 Glass (B-1) possesses Hardness of 4.1 GPa."
+  },
+  {
+    "head_entity": "ICIE16 Silicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.78 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that ICIE16 Silicate Glass possesses Density of 2.78 g/cm\u00b3."
+  },
+  {
+    "head_entity": "ICIE16 Silicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Glass Transition Tg=560 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that ICIE16 Silicate Glass possesses Glass Transition Tg of 560 \u00b0C."
+  },
+  {
+    "head_entity": "ICIE16 Silicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=13.5 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that ICIE16 Silicate Glass possesses Thermal Expansion CTE of 13.5 K."
+  },
+  {
+    "head_entity": "ICIE16 Silicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Young's Modulus=52.0 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that ICIE16 Silicate Glass possesses Young's Modulus of 52.0 GPa."
+  },
+  {
+    "head_entity": "ICIE16 Silicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=5.2 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that ICIE16 Silicate Glass possesses Hardness of 5.2 GPa."
+  },
+  {
+    "head_entity": "Pyrex Borosilicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.23 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Pyrex Borosilicate Glass possesses Density of 2.23 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Pyrex Borosilicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Glass Transition Tg=525 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Pyrex Borosilicate Glass possesses Glass Transition Tg of 525 \u00b0C."
+  },
+  {
+    "head_entity": "Pyrex Borosilicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=3.3 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Pyrex Borosilicate Glass possesses Thermal Expansion CTE of 3.3 K."
+  },
+  {
+    "head_entity": "Pyrex Borosilicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Young's Modulus=64.0 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Pyrex Borosilicate Glass possesses Young's Modulus of 64.0 GPa."
+  },
+  {
+    "head_entity": "Pyrex Borosilicate Glass",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=5.9 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Physical, thermal, and mechanical properties of investigated glass formulations.' in paper 10.1016/j.jnoncrysol.2023.122119 specifies that Pyrex Borosilicate Glass possesses Hardness of 5.9 GPa."
+  },
+  {
+    "head_entity": "YBa2Cu3O7-delta (YBCO-123)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Critical Temp Tc=92.0 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that YBa2Cu3O7-delta (YBCO-123) possesses Critical Temp Tc of 92.0 K."
+  },
+  {
+    "head_entity": "YBa2Cu3O7-delta (YBCO-123)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Upper Critical Field Hc2=120 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that YBa2Cu3O7-delta (YBCO-123) possesses Upper Critical Field Hc2 of 120 T."
+  },
+  {
+    "head_entity": "YBa2Cu3O7-delta (YBCO-123)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=3.5 MA/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that YBa2Cu3O7-delta (YBCO-123) possesses Density of 3.5 MA/cm\u00b2."
+  },
+  {
+    "head_entity": "YBa2Cu3O7-delta (YBCO-123)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Coherence Length xi=1.5 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that YBa2Cu3O7-delta (YBCO-123) possesses Coherence Length xi of 1.5 nm."
+  },
+  {
+    "head_entity": "YBa2Cu3O7-delta (YBCO-123)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Penetration Depth lambda=140 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that YBa2Cu3O7-delta (YBCO-123) possesses Penetration Depth lambda of 140 nm."
+  },
+  {
+    "head_entity": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Critical Temp Tc=110.0 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2Ca2Cu3O10 (Bi-2223) possesses Critical Temp Tc of 110.0 K."
+  },
+  {
+    "head_entity": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Upper Critical Field Hc2=100 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2Ca2Cu3O10 (Bi-2223) possesses Upper Critical Field Hc2 of 100 T."
+  },
+  {
+    "head_entity": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.1 MA/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2Ca2Cu3O10 (Bi-2223) possesses Density of 2.1 MA/cm\u00b2."
+  },
+  {
+    "head_entity": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Coherence Length xi=1.3 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2Ca2Cu3O10 (Bi-2223) possesses Coherence Length xi of 1.3 nm."
+  },
+  {
+    "head_entity": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Penetration Depth lambda=200 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2Ca2Cu3O10 (Bi-2223) possesses Penetration Depth lambda of 200 nm."
+  },
+  {
+    "head_entity": "MgB2 (Magnesium Diboride)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Critical Temp Tc=39.0 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that MgB2 (Magnesium Diboride) possesses Critical Temp Tc of 39.0 K."
+  },
+  {
+    "head_entity": "MgB2 (Magnesium Diboride)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Upper Critical Field Hc2=40 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that MgB2 (Magnesium Diboride) possesses Upper Critical Field Hc2 of 40 T."
+  },
+  {
+    "head_entity": "MgB2 (Magnesium Diboride)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=10.0 MA/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that MgB2 (Magnesium Diboride) possesses Density of 10.0 MA/cm\u00b2."
+  },
+  {
+    "head_entity": "MgB2 (Magnesium Diboride)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Coherence Length xi=5.2 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that MgB2 (Magnesium Diboride) possesses Coherence Length xi of 5.2 nm."
+  },
+  {
+    "head_entity": "MgB2 (Magnesium Diboride)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Penetration Depth lambda=85 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that MgB2 (Magnesium Diboride) possesses Penetration Depth lambda of 85 nm."
+  },
+  {
+    "head_entity": "FeSe (Iron Selenide)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Critical Temp Tc=8.5 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that FeSe (Iron Selenide) possesses Critical Temp Tc of 8.5 K."
+  },
+  {
+    "head_entity": "FeSe (Iron Selenide)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Upper Critical Field Hc2=16 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that FeSe (Iron Selenide) possesses Upper Critical Field Hc2 of 16 T."
+  },
+  {
+    "head_entity": "FeSe (Iron Selenide)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=0.5 MA/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that FeSe (Iron Selenide) possesses Density of 0.5 MA/cm\u00b2."
+  },
+  {
+    "head_entity": "FeSe (Iron Selenide)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Coherence Length xi=4.0 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that FeSe (Iron Selenide) possesses Coherence Length xi of 4.0 nm."
+  },
+  {
+    "head_entity": "FeSe (Iron Selenide)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Penetration Depth lambda=390 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that FeSe (Iron Selenide) possesses Penetration Depth lambda of 390 nm."
+  },
+  {
+    "head_entity": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Critical Temp Tc=85.0 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2CaCu2O8 (Bi-2212) possesses Critical Temp Tc of 85.0 K."
+  },
+  {
+    "head_entity": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Upper Critical Field Hc2=90 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2CaCu2O8 (Bi-2212) possesses Upper Critical Field Hc2 of 90 T."
+  },
+  {
+    "head_entity": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=1.8 MA/cm\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2CaCu2O8 (Bi-2212) possesses Density of 1.8 MA/cm\u00b2."
+  },
+  {
+    "head_entity": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Coherence Length xi=1.6 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2CaCu2O8 (Bi-2212) possesses Coherence Length xi of 1.6 nm."
+  },
+  {
+    "head_entity": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Penetration Depth lambda=220 nm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Superconducting transition parameters and critical current capabilities.' in paper 10.1016/j.physc.2023.1354180 specifies that Bi2Sr2CaCu2O8 (Bi-2212) possesses Penetration Depth lambda of 220 nm."
+  },
+  {
+    "head_entity": "p-type (Bi0.25Sb0.75)2Te3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Seebeck Coefficient=225 \u00b5V/K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type (Bi0.25Sb0.75)2Te3 possesses Seebeck Coefficient of 225 \u00b5V/K."
+  },
+  {
+    "head_entity": "p-type (Bi0.25Sb0.75)2Te3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Electrical Conductivity=980 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type (Bi0.25Sb0.75)2Te3 possesses Electrical Conductivity of 980 S/cm."
+  },
+  {
+    "head_entity": "p-type (Bi0.25Sb0.75)2Te3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Conductivity=1.20 W/m\u00b7K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type (Bi0.25Sb0.75)2Te3 possesses Thermal Conductivity of 1.20 W/m\u00b7K."
+  },
+  {
+    "head_entity": "p-type (Bi0.25Sb0.75)2Te3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Power Factor=49.6 \u00b5W/cm\u00b7K\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type (Bi0.25Sb0.75)2Te3 possesses Power Factor of 49.6 \u00b5W/cm\u00b7K\u00b2."
+  },
+  {
+    "head_entity": "p-type (Bi0.25Sb0.75)2Te3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=1.25 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type (Bi0.25Sb0.75)2Te3 possesses Activation Energy of 1.25 T."
+  },
+  {
+    "head_entity": "n-type Bi2(Te0.95Se0.05)3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Seebeck Coefficient=-210 \u00b5V/K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type Bi2(Te0.95Se0.05)3 possesses Seebeck Coefficient of -210 \u00b5V/K."
+  },
+  {
+    "head_entity": "n-type Bi2(Te0.95Se0.05)3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Electrical Conductivity=1150 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type Bi2(Te0.95Se0.05)3 possesses Electrical Conductivity of 1150 S/cm."
+  },
+  {
+    "head_entity": "n-type Bi2(Te0.95Se0.05)3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Conductivity=1.35 W/m\u00b7K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type Bi2(Te0.95Se0.05)3 possesses Thermal Conductivity of 1.35 W/m\u00b7K."
+  },
+  {
+    "head_entity": "n-type Bi2(Te0.95Se0.05)3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Power Factor=50.7 \u00b5W/cm\u00b7K\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type Bi2(Te0.95Se0.05)3 possesses Power Factor of 50.7 \u00b5W/cm\u00b7K\u00b2."
+  },
+  {
+    "head_entity": "n-type Bi2(Te0.95Se0.05)3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=1.10 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type Bi2(Te0.95Se0.05)3 possesses Activation Energy of 1.10 T."
+  },
+  {
+    "head_entity": "p-type Pb0.98Na0.02Te",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Seebeck Coefficient=240 \u00b5V/K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type Pb0.98Na0.02Te possesses Seebeck Coefficient of 240 \u00b5V/K."
+  },
+  {
+    "head_entity": "p-type Pb0.98Na0.02Te",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Electrical Conductivity=620 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type Pb0.98Na0.02Te possesses Electrical Conductivity of 620 S/cm."
+  },
+  {
+    "head_entity": "p-type Pb0.98Na0.02Te",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Conductivity=1.45 W/m\u00b7K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type Pb0.98Na0.02Te possesses Thermal Conductivity of 1.45 W/m\u00b7K."
+  },
+  {
+    "head_entity": "p-type Pb0.98Na0.02Te",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Power Factor=35.7 \u00b5W/cm\u00b7K\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type Pb0.98Na0.02Te possesses Power Factor of 35.7 \u00b5W/cm\u00b7K\u00b2."
+  },
+  {
+    "head_entity": "p-type Pb0.98Na0.02Te",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=1.70 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type Pb0.98Na0.02Te possesses Activation Energy of 1.70 T."
+  },
+  {
+    "head_entity": "n-type PbTe-0.02PbI2",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Seebeck Coefficient=-195 \u00b5V/K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type PbTe-0.02PbI2 possesses Seebeck Coefficient of -195 \u00b5V/K."
+  },
+  {
+    "head_entity": "n-type PbTe-0.02PbI2",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Electrical Conductivity=850 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type PbTe-0.02PbI2 possesses Electrical Conductivity of 850 S/cm."
+  },
+  {
+    "head_entity": "n-type PbTe-0.02PbI2",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Conductivity=1.60 W/m\u00b7K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type PbTe-0.02PbI2 possesses Thermal Conductivity of 1.60 W/m\u00b7K."
+  },
+  {
+    "head_entity": "n-type PbTe-0.02PbI2",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Power Factor=32.3 \u00b5W/cm\u00b7K\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type PbTe-0.02PbI2 possesses Power Factor of 32.3 \u00b5W/cm\u00b7K\u00b2."
+  },
+  {
+    "head_entity": "n-type PbTe-0.02PbI2",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=1.40 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that n-type PbTe-0.02PbI2 possesses Activation Energy of 1.40 T."
+  },
+  {
+    "head_entity": "p-type SnSe single-crystal",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Seebeck Coefficient=480 \u00b5V/K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type SnSe single-crystal possesses Seebeck Coefficient of 480 \u00b5V/K."
+  },
+  {
+    "head_entity": "p-type SnSe single-crystal",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Electrical Conductivity=45 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type SnSe single-crystal possesses Electrical Conductivity of 45 S/cm."
+  },
+  {
+    "head_entity": "p-type SnSe single-crystal",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Conductivity=0.45 W/m\u00b7K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type SnSe single-crystal possesses Thermal Conductivity of 0.45 W/m\u00b7K."
+  },
+  {
+    "head_entity": "p-type SnSe single-crystal",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Power Factor=10.4 \u00b5W/cm\u00b7K\u00b2",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type SnSe single-crystal possesses Power Factor of 10.4 \u00b5W/cm\u00b7K\u00b2."
+  },
+  {
+    "head_entity": "p-type SnSe single-crystal",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=2.60 T",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.' in paper 10.1016/j.nanoen.2023.108711 specifies that p-type SnSe single-crystal possesses Activation Energy of 2.60 T."
+  },
+  {
+    "head_entity": "Al 2024-T3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.78 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 2024-T3 possesses Density of 2.78 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Al 2024-T3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=345 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 2024-T3 possesses Yield Strength of 345 MPa."
+  },
+  {
+    "head_entity": "Al 2024-T3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Tensile Strength=485 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 2024-T3 possesses Tensile Strength of 485 MPa."
+  },
+  {
+    "head_entity": "Al 2024-T3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=18.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 2024-T3 possesses Elongation of 18.0 %."
+  },
+  {
+    "head_entity": "Al 2024-T3",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Fracture Toughness=36.0 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 2024-T3 possesses Fracture Toughness of 36.0 MPa."
+  },
+  {
+    "head_entity": "Al 7075-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.81 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7075-T6 possesses Density of 2.81 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Al 7075-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=505 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7075-T6 possesses Yield Strength of 505 MPa."
+  },
+  {
+    "head_entity": "Al 7075-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Tensile Strength=570 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7075-T6 possesses Tensile Strength of 570 MPa."
+  },
+  {
+    "head_entity": "Al 7075-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=11.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7075-T6 possesses Elongation of 11.0 %."
+  },
+  {
+    "head_entity": "Al 7075-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Fracture Toughness=29.0 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7075-T6 possesses Fracture Toughness of 29.0 MPa."
+  },
+  {
+    "head_entity": "Al 6061-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.70 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 6061-T6 possesses Density of 2.70 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Al 6061-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=275 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 6061-T6 possesses Yield Strength of 275 MPa."
+  },
+  {
+    "head_entity": "Al 6061-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Tensile Strength=310 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 6061-T6 possesses Tensile Strength of 310 MPa."
+  },
+  {
+    "head_entity": "Al 6061-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=14.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 6061-T6 possesses Elongation of 14.0 %."
+  },
+  {
+    "head_entity": "Al 6061-T6",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Fracture Toughness=30.0 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 6061-T6 possesses Fracture Toughness of 30.0 MPa."
+  },
+  {
+    "head_entity": "Al-Li 2195-T8",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.71 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al-Li 2195-T8 possesses Density of 2.71 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Al-Li 2195-T8",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=565 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al-Li 2195-T8 possesses Yield Strength of 565 MPa."
+  },
+  {
+    "head_entity": "Al-Li 2195-T8",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Tensile Strength=605 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al-Li 2195-T8 possesses Tensile Strength of 605 MPa."
+  },
+  {
+    "head_entity": "Al-Li 2195-T8",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=9.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al-Li 2195-T8 possesses Elongation of 9.5 %."
+  },
+  {
+    "head_entity": "Al-Li 2195-T8",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Fracture Toughness=34.0 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al-Li 2195-T8 possesses Fracture Toughness of 34.0 MPa."
+  },
+  {
+    "head_entity": "Al 7050-T7451",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=2.83 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7050-T7451 possesses Density of 2.83 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Al 7050-T7451",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Yield Strength=470 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7050-T7451 possesses Yield Strength of 470 MPa."
+  },
+  {
+    "head_entity": "Al 7050-T7451",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Tensile Strength=525 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7050-T7451 possesses Tensile Strength of 525 MPa."
+  },
+  {
+    "head_entity": "Al 7050-T7451",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Elongation=12.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7050-T7451 possesses Elongation of 12.0 %."
+  },
+  {
+    "head_entity": "Al 7050-T7451",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Fracture Toughness=38.5 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Mechanical tensile properties, density, and fracture toughness (K1c).' in paper 10.1016/j.matdes.2023.111820 specifies that Al 7050-T7451 possesses Fracture Toughness of 38.5 MPa."
+  },
+  {
+    "head_entity": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ionic Conductivity at 800C=0.100 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 8YSZ (8 mol% Y2O3-ZrO2) possesses Ionic Conductivity at 800C of 0.100 S/cm."
+  },
+  {
+    "head_entity": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=0.92 eV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 8YSZ (8 mol% Y2O3-ZrO2) possesses Activation Energy of 0.92 eV."
+  },
+  {
+    "head_entity": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=10.5 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 8YSZ (8 mol% Y2O3-ZrO2) possesses Thermal Expansion CTE of 10.5 K."
+  },
+  {
+    "head_entity": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=98.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 8YSZ (8 mol% Y2O3-ZrO2) possesses Density of 98.5 %."
+  },
+  {
+    "head_entity": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=12.5 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 8YSZ (8 mol% Y2O3-ZrO2) possesses Hardness of 12.5 GPa."
+  },
+  {
+    "head_entity": "10CGO (Ce0.9Gd0.1O1.95)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ionic Conductivity at 800C=0.180 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 10CGO (Ce0.9Gd0.1O1.95) possesses Ionic Conductivity at 800C of 0.180 S/cm."
+  },
+  {
+    "head_entity": "10CGO (Ce0.9Gd0.1O1.95)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=0.76 eV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 10CGO (Ce0.9Gd0.1O1.95) possesses Activation Energy of 0.76 eV."
+  },
+  {
+    "head_entity": "10CGO (Ce0.9Gd0.1O1.95)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=12.2 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 10CGO (Ce0.9Gd0.1O1.95) possesses Thermal Expansion CTE of 12.2 K."
+  },
+  {
+    "head_entity": "10CGO (Ce0.9Gd0.1O1.95)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=97.8 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 10CGO (Ce0.9Gd0.1O1.95) possesses Density of 97.8 %."
+  },
+  {
+    "head_entity": "10CGO (Ce0.9Gd0.1O1.95)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=9.2 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that 10CGO (Ce0.9Gd0.1O1.95) possesses Hardness of 9.2 GPa."
+  },
+  {
+    "head_entity": "Ni-8YSZ Anode Cermet (50:50)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ionic Conductivity at 800C=0.045 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that Ni-8YSZ Anode Cermet (50:50) possesses Ionic Conductivity at 800C of 0.045 S/cm."
+  },
+  {
+    "head_entity": "Ni-8YSZ Anode Cermet (50:50)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=1.10 eV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that Ni-8YSZ Anode Cermet (50:50) possesses Activation Energy of 1.10 eV."
+  },
+  {
+    "head_entity": "Ni-8YSZ Anode Cermet (50:50)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=12.8 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that Ni-8YSZ Anode Cermet (50:50) possesses Thermal Expansion CTE of 12.8 K."
+  },
+  {
+    "head_entity": "Ni-8YSZ Anode Cermet (50:50)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=94.2 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that Ni-8YSZ Anode Cermet (50:50) possesses Density of 94.2 %."
+  },
+  {
+    "head_entity": "Ni-8YSZ Anode Cermet (50:50)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=8.0 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that Ni-8YSZ Anode Cermet (50:50) possesses Hardness of 8.0 GPa."
+  },
+  {
+    "head_entity": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ionic Conductivity at 800C=0.170 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSGM (La0.8Sr0.2Ga0.8Mg0.2O3) possesses Ionic Conductivity at 800C of 0.170 S/cm."
+  },
+  {
+    "head_entity": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=0.85 eV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSGM (La0.8Sr0.2Ga0.8Mg0.2O3) possesses Activation Energy of 0.85 eV."
+  },
+  {
+    "head_entity": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=11.4 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSGM (La0.8Sr0.2Ga0.8Mg0.2O3) possesses Thermal Expansion CTE of 11.4 K."
+  },
+  {
+    "head_entity": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=96.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSGM (La0.8Sr0.2Ga0.8Mg0.2O3) possesses Density of 96.5 %."
+  },
+  {
+    "head_entity": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=10.8 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSGM (La0.8Sr0.2Ga0.8Mg0.2O3) possesses Hardness of 10.8 GPa."
+  },
+  {
+    "head_entity": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Ionic Conductivity at 800C=0.030 S/cm",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSCF (La0.6Sr0.4Co0.2Fe0.8O3) possesses Ionic Conductivity at 800C of 0.030 S/cm."
+  },
+  {
+    "head_entity": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=1.25 eV",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSCF (La0.6Sr0.4Co0.2Fe0.8O3) possesses Activation Energy of 1.25 eV."
+  },
+  {
+    "head_entity": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Thermal Expansion CTE=15.3 K",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSCF (La0.6Sr0.4Co0.2Fe0.8O3) possesses Thermal Expansion CTE of 15.3 K."
+  },
+  {
+    "head_entity": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=95.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSCF (La0.6Sr0.4Co0.2Fe0.8O3) possesses Density of 95.0 %."
+  },
+  {
+    "head_entity": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Hardness=7.5 GPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Ionic conductivity, activation energy, and thermal expansion coefficients.' in paper 10.1016/j.ssi.2023.116240 specifies that LSCF (La0.6Sr0.4Co0.2Fe0.8O3) possesses Hardness of 7.5 GPa."
+  },
+  {
+    "head_entity": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Martensite Start Ms=-15.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50.2Ti49.8 (Nitinol SE508) possesses Martensite Start Ms of -15.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Austenite Finish Af=12.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50.2Ti49.8 (Nitinol SE508) possesses Austenite Finish Af of 12.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=8.2 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50.2Ti49.8 (Nitinol SE508) possesses Plastic Strain of 8.2 %."
+  },
+  {
+    "head_entity": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=420 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50.2Ti49.8 (Nitinol SE508) possesses Activation Energy of 420 MPa."
+  },
+  {
+    "head_entity": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=6.45 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50.2Ti49.8 (Nitinol SE508) possesses Density of 6.45 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Martensite Start Ms=22.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50Ti45Cu5 (Ternary Nitinol) possesses Martensite Start Ms of 22.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Austenite Finish Af=48.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50Ti45Cu5 (Ternary Nitinol) possesses Austenite Finish Af of 48.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=6.5 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50Ti45Cu5 (Ternary Nitinol) possesses Plastic Strain of 6.5 %."
+  },
+  {
+    "head_entity": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=350 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50Ti45Cu5 (Ternary Nitinol) possesses Activation Energy of 350 MPa."
+  },
+  {
+    "head_entity": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=6.50 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni50Ti45Cu5 (Ternary Nitinol) possesses Density of 6.50 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Cu72Al18Ni10 (Cu-based SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Martensite Start Ms=-40.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Cu72Al18Ni10 (Cu-based SMA) possesses Martensite Start Ms of -40.0 \u00b0C."
+  },
+  {
+    "head_entity": "Cu72Al18Ni10 (Cu-based SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Austenite Finish Af=-10.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Cu72Al18Ni10 (Cu-based SMA) possesses Austenite Finish Af of -10.0 \u00b0C."
+  },
+  {
+    "head_entity": "Cu72Al18Ni10 (Cu-based SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=4.8 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Cu72Al18Ni10 (Cu-based SMA) possesses Plastic Strain of 4.8 %."
+  },
+  {
+    "head_entity": "Cu72Al18Ni10 (Cu-based SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=280 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Cu72Al18Ni10 (Cu-based SMA) possesses Activation Energy of 280 MPa."
+  },
+  {
+    "head_entity": "Cu72Al18Ni10 (Cu-based SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=7.12 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Cu72Al18Ni10 (Cu-based SMA) possesses Density of 7.12 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Martensite Start Ms=-85.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni45Ti50Fe5 (Low-hysteresis) possesses Martensite Start Ms of -85.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Austenite Finish Af=-55.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni45Ti50Fe5 (Low-hysteresis) possesses Austenite Finish Af of -55.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=5.0 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni45Ti50Fe5 (Low-hysteresis) possesses Plastic Strain of 5.0 %."
+  },
+  {
+    "head_entity": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=510 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni45Ti50Fe5 (Low-hysteresis) possesses Activation Energy of 510 MPa."
+  },
+  {
+    "head_entity": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=6.42 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni45Ti50Fe5 (Low-hysteresis) possesses Density of 6.42 g/cm\u00b3."
+  },
+  {
+    "head_entity": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Martensite Start Ms=180.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni30Ti50Pd20 (High-temperature SMA) possesses Martensite Start Ms of 180.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Austenite Finish Af=215.0 \u00b0C",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni30Ti50Pd20 (High-temperature SMA) possesses Austenite Finish Af of 215.0 \u00b0C."
+  },
+  {
+    "head_entity": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Plastic Strain=3.8 %",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni30Ti50Pd20 (High-temperature SMA) possesses Plastic Strain of 3.8 %."
+  },
+  {
+    "head_entity": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Activation Energy=620 MPa",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni30Ti50Pd20 (High-temperature SMA) possesses Activation Energy of 620 MPa."
+  },
+  {
+    "head_entity": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "head_type": "MATERIAL",
+    "relation": "has_property",
+    "tail_entity": "Density=7.28 g/cm\u00b3",
+    "tail_type": "PROPERTY_VALUE",
+    "context": "Table 'Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.' in paper 10.1016/j.intermet.2023.107932 specifies that Ni30Ti50Pd20 (High-temperature SMA) possesses Density of 7.28 g/cm\u00b3."
+  }
+]

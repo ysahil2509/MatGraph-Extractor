@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.nanoen.2023.108711</ce:doi>
+    <ce:pii>S221128552300582X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Thermoelectric transport properties, Seebeck coefficient, and figure of merit ZT in doped bismuth telluride and lead chalcogenides</ce:title>
+    <ce:abstract>
+      <ce:simple-para>Direct thermal-to-electrical energy conversion depends on maximizing the dimensionless thermoelectric figure of merit ZT = S^2 sigma T / kappa. This paper examines the compositional variation and transport properties across Bi2Te3 and PbTe-based semiconductors.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Thermoelectric transport properties, Seebeck coefficient, and figure of merit ZT in doped bismuth telluride and lead chalcogenides. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Doping concentration and nominal chemical composition (mol%) of thermoelectric alloys.</ce:caption>
+          <tgroup cols="7">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Thermoelectric Sample</entry>
+                <entry align="center">Bi (mol%)</entry>
+                <entry align="center">Sb (mol%)</entry>
+                <entry align="center">Te (mol%)</entry>
+                <entry align="center">Se (mol%)</entry>
+                <entry align="center">Pb (mol%)</entry>
+                <entry align="center">Sn (mol%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">p-type (Bi0.25Sb0.75)2Te3</entry>
+                <entry align="center">10.0</entry>
+                <entry align="center">30.0</entry>
+                <entry align="center">60.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">n-type Bi2(Te0.95Se0.05)3</entry>
+                <entry align="center">40.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">57.0</entry>
+                <entry align="center">3.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">p-type Pb0.98Na0.02Te</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">48.0</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">n-type PbTe-0.02PbI2</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">49.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">49.0</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">p-type SnSe single-crystal</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">50.0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Materials consolidated using Spark Plasma Sintering (SPS) at 450-550 deg C under 50 MPa pressure.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Material Identification</entry>
+                <entry align="center">Seebeck Coefficient (uV/K)</entry>
+                <entry align="center">Electrical Conductivity (S/cm)</entry>
+                <entry align="center">Thermal Conductivity (W/mK)</entry>
+                <entry align="center">Power Factor (uW/cmK2)</entry>
+                <entry align="center">Peak Figure of Merit ZT</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">p-type (Bi0.25Sb0.75)2Te3</entry>
+                <entry align="center">225</entry>
+                <entry align="center">980</entry>
+                <entry align="center">1.20</entry>
+                <entry align="center">49.6</entry>
+                <entry align="center">1.25</entry>
+              </row>
+              <row>
+                <entry align="center">n-type Bi2(Te0.95Se0.05)3</entry>
+                <entry align="center">-210</entry>
+                <entry align="center">1150</entry>
+                <entry align="center">1.35</entry>
+                <entry align="center">50.7</entry>
+                <entry align="center">1.10</entry>
+              </row>
+              <row>
+                <entry align="center">p-type Pb0.98Na0.02Te</entry>
+                <entry align="center">240</entry>
+                <entry align="center">620</entry>
+                <entry align="center">1.45</entry>
+                <entry align="center">35.7</entry>
+                <entry align="center">1.70</entry>
+              </row>
+              <row>
+                <entry align="center">n-type PbTe-0.02PbI2</entry>
+                <entry align="center">-195</entry>
+                <entry align="center">850</entry>
+                <entry align="center">1.60</entry>
+                <entry align="center">32.3</entry>
+                <entry align="center">1.40</entry>
+              </row>
+              <row>
+                <entry align="center">p-type SnSe single-crystal</entry>
+                <entry align="center">480</entry>
+                <entry align="center">45</entry>
+                <entry align="center">0.45</entry>
+                <entry align="center">10.4</entry>
+                <entry align="center">2.60</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Seebeck coefficient and electrical conductivity measured via four-probe differential method.</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

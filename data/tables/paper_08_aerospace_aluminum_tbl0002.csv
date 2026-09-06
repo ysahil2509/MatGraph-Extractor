@@ -1,0 +1,6 @@
+Alloy Specification,Density (g/cm3),Yield Strength (MPa),Tensile Strength (MPa),Elongation (%),Fracture Toughness K1c (MPa m^0.5)
+Al 2024-T3,2.78,345,485,18.0,36.0
+Al 7075-T6,2.81,505,570,11.0,29.0
+Al 6061-T6,2.70,275,310,14.0,30.0
+Al-Li 2195-T8,2.71,565,605,9.5,34.0
+Al 7050-T7451,2.83,470,525,12.0,38.5

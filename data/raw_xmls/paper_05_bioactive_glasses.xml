@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.jnoncrysol.2023.122119</ce:doi>
+    <ce:pii>S002230932300104X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Bioactive silicate and borate glass matrices: Compositional dependence of thermal stability, density, and elastic modulus</ce:title>
+    <ce:abstract>
+      <ce:simple-para>Silicate glasses with osteogenic potential are widely utilized in biomedical implants. This investigation reports the oxide compositions, density, glass transition temperature, and Young's modulus across silicate and borosilicate bioglass systems.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Bioactive silicate and borate glass matrices: Compositional dependence of thermal stability, density, and elastic modulus. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Oxide composition (wt.%) of synthesized bioactive and specialty glass systems.</ce:caption>
+          <tgroup cols="8">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <colspec colname="col8" colnum="8" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Glass Code</entry>
+                <entry align="center">SiO2 (wt.%)</entry>
+                <entry align="center">Na2O (wt.%)</entry>
+                <entry align="center">CaO (wt.%)</entry>
+                <entry align="center">P2O5 (wt.%)</entry>
+                <entry align="center">B2O3 (wt.%)</entry>
+                <entry align="center">MgO (wt.%)</entry>
+                <entry align="center">K2O (wt.%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">45S5 Bioglass</entry>
+                <entry align="center">45.0</entry>
+                <entry align="center">24.5</entry>
+                <entry align="center">24.5</entry>
+                <entry align="center">6.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">13-93 Bioactive Glass</entry>
+                <entry align="center">53.0</entry>
+                <entry align="center">6.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">4.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">5.0</entry>
+                <entry align="center">12.0</entry>
+              </row>
+              <row>
+                <entry align="center">Borate 01 Glass (B-1)</entry>
+                <entry align="center">15.0</entry>
+                <entry align="center">15.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">4.0</entry>
+                <entry align="center">46.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">ICIE16 Silicate Glass</entry>
+                <entry align="center">48.0</entry>
+                <entry align="center">12.0</entry>
+                <entry align="center">32.0</entry>
+                <entry align="center">3.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">5.0</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Pyrex Borosilicate Glass</entry>
+                <entry align="center">81.0</entry>
+                <entry align="center">4.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">13.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">2.0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Glasses melted in platinum crucibles at 1400-1450 deg C and annealed near glass transition.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Physical, thermal, and mechanical properties of investigated glass formulations.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Glass Designation</entry>
+                <entry align="center">Density (g/cm3)</entry>
+                <entry align="center">Glass Transition Tg (deg C)</entry>
+                <entry align="center">Thermal Expansion CTE (10^-6 /K)</entry>
+                <entry align="center">Young's Modulus (GPa)</entry>
+                <entry align="center">Vickers Hardness (GPa)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">45S5 Bioglass</entry>
+                <entry align="center">2.73</entry>
+                <entry align="center">535</entry>
+                <entry align="center">15.1</entry>
+                <entry align="center">35.0</entry>
+                <entry align="center">4.5</entry>
+              </row>
+              <row>
+                <entry align="center">13-93 Bioactive Glass</entry>
+                <entry align="center">2.68</entry>
+                <entry align="center">605</entry>
+                <entry align="center">12.8</entry>
+                <entry align="center">68.0</entry>
+                <entry align="center">5.8</entry>
+              </row>
+              <row>
+                <entry align="center">Borate 01 Glass (B-1)</entry>
+                <entry align="center">2.61</entry>
+                <entry align="center">495</entry>
+                <entry align="center">14.2</entry>
+                <entry align="center">42.0</entry>
+                <entry align="center">4.1</entry>
+              </row>
+              <row>
+                <entry align="center">ICIE16 Silicate Glass</entry>
+                <entry align="center">2.78</entry>
+                <entry align="center">560</entry>
+                <entry align="center">13.5</entry>
+                <entry align="center">52.0</entry>
+                <entry align="center">5.2</entry>
+              </row>
+              <row>
+                <entry align="center">Pyrex Borosilicate Glass</entry>
+                <entry align="center">2.23</entry>
+                <entry align="center">525</entry>
+                <entry align="center">3.3</entry>
+                <entry align="center">64.0</entry>
+                <entry align="center">5.9</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Glass transition determined via differential thermal analysis (DTA) at 10 K/min heating rate.</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

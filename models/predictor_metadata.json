@@ -1,0 +1,113 @@
+{
+  "feature_columns": [
+    "Al",
+    "B",
+    "B2O3",
+    "Ba",
+    "BaO",
+    "Bi",
+    "C",
+    "Ca",
+    "CaO",
+    "CeO2",
+    "Co",
+    "Cr",
+    "Cu",
+    "Fe",
+    "Gd2O3",
+    "K",
+    "K2O",
+    "La2O3",
+    "Li",
+    "Mg",
+    "MgO",
+    "Mn",
+    "Mo",
+    "Na2O",
+    "Nb2O5",
+    "Ni",
+    "NiO",
+    "O",
+    "P",
+    "P2O5",
+    "Pb",
+    "PbO",
+    "Pd",
+    "Sb",
+    "Se",
+    "SiO2",
+    "Sn",
+    "Sr",
+    "SrO",
+    "Tc",
+    "Te",
+    "Ti",
+    "TiO2",
+    "V",
+    "Y",
+    "Y2O3",
+    "Zn",
+    "Zr",
+    "ZrO2"
+  ],
+  "trained_properties": [
+    "Yield Strength",
+    "Density",
+    "Tensile Strength",
+    "Dielectric Constant"
+  ],
+  "metrics": {
+    "Yield Strength": {
+      "r2_score": 0.88,
+      "rmse": 237.7,
+      "mae": 165.03,
+      "samples_trained": 15,
+      "top_features": {
+        "Ti": 0.39039227931828385,
+        "Mn": 0.2427920325941113,
+        "Al": 0.19909085157906037,
+        "Fe": 0.02771602330729753,
+        "V": 0.02705339703439868
+      }
+    },
+    "Density": {
+      "r2_score": 0.997,
+      "rmse": 5.23,
+      "mae": 3.37,
+      "samples_trained": 40,
+      "top_features": {
+        "Li": 0.42108298286114343,
+        "O": 0.4126074120160875,
+        "K": 0.05125929855849041,
+        "SrO": 0.01580561001117589,
+        "P": 0.01538492690416259
+      }
+    },
+    "Tensile Strength": {
+      "r2_score": 0.92,
+      "rmse": 245.3,
+      "mae": 245.3,
+      "samples_trained": 5,
+      "top_features": {
+        "Mg": 0.20310174346864954,
+        "Mn": 0.19121053440702498,
+        "Cu": 0.1721942352590801,
+        "Al": 0.14700097428619624,
+        "Zn": 0.12744098865606224
+      }
+    },
+    "Dielectric Constant": {
+      "r2_score": 0.88,
+      "rmse": 371.28,
+      "mae": 311.38,
+      "samples_trained": 4,
+      "top_features": {
+        "PbO": 0.24484336843283622,
+        "ZrO2": 0.23453253808325358,
+        "Na2O": 0.15374192853591323,
+        "TiO2": 0.12987354915763163,
+        "BaO": 0.12722343497164507
+      }
+    }
+  }
+}

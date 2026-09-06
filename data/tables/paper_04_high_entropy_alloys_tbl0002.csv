@@ -1,0 +1,6 @@
+Alloy System,Vickers Hardness (HV),Yield Strength (MPa),Compressive Strength (MPa),Plastic Strain (%),Density (g/cm3)
+CoCrFeNi (Base 4-HEA),145,185,790,52.0,8.25
+CoCrFeMnNi (Cantor Alloy),160,215,840,48.5,8.04
+Al0.3CoCrFeNi,220,310,980,39.0,7.78
+Al0.7CoCrFeNi,380,780,1420,21.5,7.45
+AlCoCrFeNi (Equimolar),510,1250,2050,14.0,7.15

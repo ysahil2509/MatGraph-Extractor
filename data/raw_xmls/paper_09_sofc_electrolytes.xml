@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.ssi.2023.116240</ce:doi>
+    <ce:pii>S016727382300139X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Oxygen ion conductivity, thermal expansion, and mechanical stability of ceramic electrolyte and anode materials for solid oxide fuel cells</ce:title>
+    <ce:abstract>
+      <ce:simple-para>Solid oxide fuel cell (SOFC) reliability requires compatibility between ionic electrolytes and catalytic cermet electrodes. We compile oxide compositions, ionic conductivity at 800 deg C, activation energy, and thermal expansion coefficients for stabilized zirconia, ceria, and anode cermets.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Oxygen ion conductivity, thermal expansion, and mechanical stability of ceramic electrolyte and anode materials for solid oxide fuel cells. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Nominal dopant composition (mol%) and stoichiometry of SOFC electrolyte and electrode ceramics.</ce:caption>
+          <tgroup cols="8">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <colspec colname="col8" colnum="8" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Ceramic Formulation</entry>
+                <entry align="center">ZrO2 (mol%)</entry>
+                <entry align="center">Y2O3 (mol%)</entry>
+                <entry align="center">CeO2 (mol%)</entry>
+                <entry align="center">Gd2O3 (mol%)</entry>
+                <entry align="center">La2O3 (mol%)</entry>
+                <entry align="center">SrO (mol%)</entry>
+                <entry align="center">NiO (wt.%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">8YSZ (8 mol% Y2O3-ZrO2)</entry>
+                <entry align="center">92.0</entry>
+                <entry align="center">8.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">10CGO (Ce0.9Gd0.1O1.95)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">90.0</entry>
+                <entry align="center">10.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Ni-8YSZ Anode Cermet (50:50)</entry>
+                <entry align="center">46.0</entry>
+                <entry align="center">4.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">50.0</entry>
+              </row>
+              <row>
+                <entry align="center">LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">40.0</entry>
+                <entry align="center">10.0</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">LSCF (La0.6Sr0.4Co0.2Fe0.8O3)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">30.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">-</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Powders synthesized via co-precipitation and sintered at 1400 deg C for 4 hours.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Ionic conductivity, activation energy, and thermal expansion coefficients.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Material Name</entry>
+                <entry align="center">Ionic Conductivity at 800C (S/cm)</entry>
+                <entry align="center">Activation Energy (eV)</entry>
+                <entry align="center">Thermal Expansion CTE (10^-6 /K)</entry>
+                <entry align="center">Relative Density (%)</entry>
+                <entry align="center">Vickers Hardness (GPa)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">8YSZ (8 mol% Y2O3-ZrO2)</entry>
+                <entry align="center">0.100</entry>
+                <entry align="center">0.92</entry>
+                <entry align="center">10.5</entry>
+                <entry align="center">98.5</entry>
+                <entry align="center">12.5</entry>
+              </row>
+              <row>
+                <entry align="center">10CGO (Ce0.9Gd0.1O1.95)</entry>
+                <entry align="center">0.180</entry>
+                <entry align="center">0.76</entry>
+                <entry align="center">12.2</entry>
+                <entry align="center">97.8</entry>
+                <entry align="center">9.2</entry>
+              </row>
+              <row>
+                <entry align="center">Ni-8YSZ Anode Cermet (50:50)</entry>
+                <entry align="center">0.045</entry>
+                <entry align="center">1.10</entry>
+                <entry align="center">12.8</entry>
+                <entry align="center">94.2</entry>
+                <entry align="center">8.0</entry>
+              </row>
+              <row>
+                <entry align="center">LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)</entry>
+                <entry align="center">0.170</entry>
+                <entry align="center">0.85</entry>
+                <entry align="center">11.4</entry>
+                <entry align="center">96.5</entry>
+                <entry align="center">10.8</entry>
+              </row>
+              <row>
+                <entry align="center">LSCF (La0.6Sr0.4Co0.2Fe0.8O3)</entry>
+                <entry align="center">0.030</entry>
+                <entry align="center">1.25</entry>
+                <entry align="center">15.3</entry>
+                <entry align="center">95.0</entry>
+                <entry align="center">7.5</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Electrical conductivity determined by AC impedance spectroscopy from 500 to 900 deg C in air.</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

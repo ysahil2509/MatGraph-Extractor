@@ -1,0 +1,6 @@
+SMA Designation,Ni (at.%),Ti (at.%),Cu (at.%),Al (at.%),Fe (at.%),Pd (at.%)
+Ni50.2Ti49.8 (Nitinol SE508),50.2,49.8,-,-,-,-
+Ni50Ti45Cu5 (Ternary Nitinol),50.0,45.0,5.0,-,-,-
+Cu72Al18Ni10 (Cu-based SMA),10.0,-,72.0,18.0,-,-
+Ni45Ti50Fe5 (Low-hysteresis),45.0,50.0,-,-,5.0,-
+Ni30Ti50Pd20 (High-temperature SMA),30.0,50.0,-,-,-,20.0

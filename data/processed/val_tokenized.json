@@ -1,0 +1,1522 @@
+[
+  {
+    "source": "header",
+    "text": "Cathode Material",
+    "tokens": [
+      "Cathode",
+      "Material"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Li (wt.%)",
+    "tokens": [
+      "Li",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Co (wt.%)",
+    "tokens": [
+      "Co",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ni (wt.%)",
+    "tokens": [
+      "Ni",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Mn (wt.%)",
+    "tokens": [
+      "Mn",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Fe (wt.%)",
+    "tokens": [
+      "Fe",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "P (wt.%)",
+    "tokens": [
+      "P",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "O (wt.%)",
+    "tokens": [
+      "O",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Material",
+    "text": "LiCoO2 (LCO)",
+    "tokens": [
+      "LiCoO2",
+      "(LCO)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "7.09",
+    "tokens": [
+      "7.09"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (wt.%)",
+    "text": "60.22",
+    "tokens": [
+      "60.22"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "O (wt.%)",
+    "text": "32.69",
+    "tokens": [
+      "32.69"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Material",
+    "text": "LiFePO4 (LFP)",
+    "tokens": [
+      "LiFePO4",
+      "(LFP)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "4.40",
+    "tokens": [
+      "4.40"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "35.39",
+    "tokens": [
+      "35.39"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P (wt.%)",
+    "text": "19.63",
+    "tokens": [
+      "19.63"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "O (wt.%)",
+    "text": "40.58",
+    "tokens": [
+      "40.58"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Material",
+    "text": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "tokens": [
+      "LiNi0.8Co0.15Al0.05O2",
+      "(NCA)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "7.25",
+    "tokens": [
+      "7.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (wt.%)",
+    "text": "9.24",
+    "tokens": [
+      "9.24"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (wt.%)",
+    "text": "49.12",
+    "tokens": [
+      "49.12"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "O (wt.%)",
+    "text": "33.45",
+    "tokens": [
+      "33.45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Material",
+    "text": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "tokens": [
+      "LiNi1/3Mn1/3Co1/3O2",
+      "(NMC111)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "7.19",
+    "tokens": [
+      "7.19"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (wt.%)",
+    "text": "20.37",
+    "tokens": [
+      "20.37"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (wt.%)",
+    "text": "20.29",
+    "tokens": [
+      "20.29"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "18.99",
+    "tokens": [
+      "18.99"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "O (wt.%)",
+    "text": "33.16",
+    "tokens": [
+      "33.16"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Material",
+    "text": "LiMn2O4 (LMO)",
+    "tokens": [
+      "LiMn2O4",
+      "(LMO)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "3.84",
+    "tokens": [
+      "3.84"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "60.77",
+    "tokens": [
+      "60.77"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "O (wt.%)",
+    "text": "35.39",
+    "tokens": [
+      "35.39"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ceramic Formulation",
+    "tokens": [
+      "Ceramic",
+      "Formulation"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "ZrO2 (mol%)",
+    "tokens": [
+      "ZrO2",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Y2O3 (mol%)",
+    "tokens": [
+      "Y2O3",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "CeO2 (mol%)",
+    "tokens": [
+      "CeO2",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Gd2O3 (mol%)",
+    "tokens": [
+      "Gd2O3",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "La2O3 (mol%)",
+    "tokens": [
+      "La2O3",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "SrO (mol%)",
+    "tokens": [
+      "SrO",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "NiO (wt.%)",
+    "tokens": [
+      "NiO",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic Formulation",
+    "text": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "tokens": [
+      "8YSZ",
+      "(8",
+      "mol%",
+      "Y2O3-ZrO2)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "92.0",
+    "tokens": [
+      "92.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y2O3 (mol%)",
+    "text": "8.0",
+    "tokens": [
+      "8.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CeO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Gd2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "La2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SrO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "NiO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic Formulation",
+    "text": "10CGO (Ce0.9Gd0.1O1.95)",
+    "tokens": [
+      "10CGO",
+      "(Ce0.9Gd0.1O1.95)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CeO2 (mol%)",
+    "text": "90.0",
+    "tokens": [
+      "90.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Gd2O3 (mol%)",
+    "text": "10.0",
+    "tokens": [
+      "10.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "La2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SrO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "NiO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic Formulation",
+    "text": "Ni-8YSZ Anode Cermet (50:50)",
+    "tokens": [
+      "Ni-8YSZ",
+      "Anode",
+      "Cermet",
+      "(50:50)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "46.0",
+    "tokens": [
+      "46.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y2O3 (mol%)",
+    "text": "4.0",
+    "tokens": [
+      "4.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CeO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Gd2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "La2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SrO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "NiO (wt.%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic Formulation",
+    "text": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "tokens": [
+      "LSGM",
+      "(La0.8Sr0.2Ga0.8Mg0.2O3)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CeO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Gd2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "La2O3 (mol%)",
+    "text": "40.0",
+    "tokens": [
+      "40.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SrO (mol%)",
+    "text": "10.0",
+    "tokens": [
+      "10.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "NiO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic Formulation",
+    "text": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "tokens": [
+      "LSCF",
+      "(La0.6Sr0.4Co0.2Fe0.8O3)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CeO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Gd2O3 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "La2O3 (mol%)",
+    "text": "30.0",
+    "tokens": [
+      "30.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SrO (mol%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "NiO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Alloy System",
+    "tokens": [
+      "Alloy",
+      "System"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Vickers Hardness (HV)",
+    "tokens": [
+      "Vickers",
+      "Hardness",
+      "(HV)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Yield Strength (MPa)",
+    "tokens": [
+      "Yield",
+      "Strength",
+      "(MPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Compressive Strength (MPa)",
+    "tokens": [
+      "Compressive",
+      "Strength",
+      "(MPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Plastic Strain (%)",
+    "tokens": [
+      "Plastic",
+      "Strain",
+      "(%)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Density (g/cm3)",
+    "tokens": [
+      "Density",
+      "(g/cm3)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "CoCrFeNi (Base 4-HEA)",
+    "tokens": [
+      "CoCrFeNi",
+      "(Base",
+      "4-HEA)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (HV)",
+    "text": "145",
+    "tokens": [
+      "145"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "185",
+    "tokens": [
+      "185"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compressive Strength (MPa)",
+    "text": "790",
+    "tokens": [
+      "790"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plastic Strain (%)",
+    "text": "52.0",
+    "tokens": [
+      "52.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "8.25",
+    "tokens": [
+      "8.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "CoCrFeMnNi (Cantor Alloy)",
+    "tokens": [
+      "CoCrFeMnNi",
+      "(Cantor",
+      "Alloy)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (HV)",
+    "text": "160",
+    "tokens": [
+      "160"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "215",
+    "tokens": [
+      "215"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compressive Strength (MPa)",
+    "text": "840",
+    "tokens": [
+      "840"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plastic Strain (%)",
+    "text": "48.5",
+    "tokens": [
+      "48.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "8.04",
+    "tokens": [
+      "8.04"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "Al0.3CoCrFeNi",
+    "tokens": [
+      "Al0.3CoCrFeNi"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (HV)",
+    "text": "220",
+    "tokens": [
+      "220"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "310",
+    "tokens": [
+      "310"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compressive Strength (MPa)",
+    "text": "980",
+    "tokens": [
+      "980"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plastic Strain (%)",
+    "text": "39.0",
+    "tokens": [
+      "39.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "7.78",
+    "tokens": [
+      "7.78"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "Al0.7CoCrFeNi",
+    "tokens": [
+      "Al0.7CoCrFeNi"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (HV)",
+    "text": "380",
+    "tokens": [
+      "380"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "780",
+    "tokens": [
+      "780"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compressive Strength (MPa)",
+    "text": "1420",
+    "tokens": [
+      "1420"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plastic Strain (%)",
+    "text": "21.5",
+    "tokens": [
+      "21.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "7.45",
+    "tokens": [
+      "7.45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "AlCoCrFeNi (Equimolar)",
+    "tokens": [
+      "AlCoCrFeNi",
+      "(Equimolar)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (HV)",
+    "text": "510",
+    "tokens": [
+      "510"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "1250",
+    "tokens": [
+      "1250"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compressive Strength (MPa)",
+    "text": "2050",
+    "tokens": [
+      "2050"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plastic Strain (%)",
+    "text": "14.0",
+    "tokens": [
+      "14.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "7.15",
+    "tokens": [
+      "7.15"
+    ],
+    "tags": [
+      "O"
+    ]
+  }
+]

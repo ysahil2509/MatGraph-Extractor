@@ -1,0 +1,2273 @@
+[
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.msea.2023.144890",
+    "caption": "Chemical nominal composition (wt.%) of investigated titanium alloys.",
+    "footnote": "Balance is Ti in all alloy compositions. Impurities (O, N, C, H, Fe) remain below 0.15 wt.%.",
+    "headers": [
+      "Alloy Designation",
+      "Ti (wt.%)",
+      "Al (wt.%)",
+      "V (wt.%)",
+      "Mo (wt.%)",
+      "Fe (wt.%)",
+      "Sn (wt.%)",
+      "Zr (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Alloy Designation": "Ti-6Al-4V (Grade 5)",
+        "Ti (wt.%)": "89.0",
+        "Al (wt.%)": "6.2",
+        "V (wt.%)": "4.1",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-6Al-2Sn-4Zr-2Mo",
+        "Ti (wt.%)": "86.0",
+        "Al (wt.%)": "6.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "2.0",
+        "Fe (wt.%)": "0.1",
+        "Sn (wt.%)": "2.0",
+        "Zr (wt.%)": "4.0"
+      },
+      {
+        "Alloy Designation": "Ti-10V-2Fe-3Al",
+        "Ti (wt.%)": "85.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "10.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "2.0",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-5Al-2.5Sn (Grade 6)",
+        "Ti (wt.%)": "92.5",
+        "Al (wt.%)": "5.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "2.5",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-15V-3Cr-3Sn-3Al",
+        "Ti (wt.%)": "76.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "15.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "3.0",
+        "Zr (wt.%)": "-"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy Designation": "Ti-6Al-4V (Grade 5)",
+        "Ti (wt.%)": "89.0",
+        "Al (wt.%)": "6.2",
+        "V (wt.%)": "4.1",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-6Al-2Sn-4Zr-2Mo",
+        "Ti (wt.%)": "86.0",
+        "Al (wt.%)": "6.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "2.0",
+        "Fe (wt.%)": "0.1",
+        "Sn (wt.%)": "2.0",
+        "Zr (wt.%)": "4.0"
+      },
+      {
+        "Alloy Designation": "Ti-10V-2Fe-3Al",
+        "Ti (wt.%)": "85.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "10.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "2.0",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-5Al-2.5Sn (Grade 6)",
+        "Ti (wt.%)": "92.5",
+        "Al (wt.%)": "5.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "2.5",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-15V-3Cr-3Sn-3Al",
+        "Ti (wt.%)": "76.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "15.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "3.0",
+        "Zr (wt.%)": "-"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.msea.2023.144890",
+    "caption": "Room-temperature mechanical properties and density of investigated titanium alloys.",
+    "footnote": "Tensile tests conducted at strain rate of 10^-3 s^-1. Hardness measured using Vickers indenter (HV30).",
+    "headers": [
+      "Alloy Name",
+      "Density (g/cm3)",
+      "Yield Strength (MPa)",
+      "Ultimate Tensile Strength (MPa)",
+      "Elongation (%)",
+      "Hardness (HV)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Alloy Name": "Ti-6Al-4V (Grade 5)",
+        "Density (g/cm3)": "4.43",
+        "Yield Strength (MPa)": "880",
+        "Ultimate Tensile Strength (MPa)": "950",
+        "Elongation (%)": "14.0",
+        "Hardness (HV)": "340"
+      },
+      {
+        "Alloy Name": "Ti-6Al-2Sn-4Zr-2Mo",
+        "Density (g/cm3)": "4.54",
+        "Yield Strength (MPa)": "990",
+        "Ultimate Tensile Strength (MPa)": "1050",
+        "Elongation (%)": "13.0",
+        "Hardness (HV)": "365"
+      },
+      {
+        "Alloy Name": "Ti-10V-2Fe-3Al",
+        "Density (g/cm3)": "4.65",
+        "Yield Strength (MPa)": "1100",
+        "Ultimate Tensile Strength (MPa)": "1180",
+        "Elongation (%)": "10.5",
+        "Hardness (HV)": "390"
+      },
+      {
+        "Alloy Name": "Ti-5Al-2.5Sn (Grade 6)",
+        "Density (g/cm3)": "4.48",
+        "Yield Strength (MPa)": "820",
+        "Ultimate Tensile Strength (MPa)": "890",
+        "Elongation (%)": "16.0",
+        "Hardness (HV)": "310"
+      },
+      {
+        "Alloy Name": "Ti-15V-3Cr-3Sn-3Al",
+        "Density (g/cm3)": "4.76",
+        "Yield Strength (MPa)": "1020",
+        "Ultimate Tensile Strength (MPa)": "1110",
+        "Elongation (%)": "11.0",
+        "Hardness (HV)": "375"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy Name": "Ti-6Al-4V (Grade 5)",
+        "Density (g/cm3)": "4.43",
+        "Yield Strength (MPa)": "880",
+        "Ultimate Tensile Strength (MPa)": "950",
+        "Elongation (%)": "14.0",
+        "Hardness (HV)": "340"
+      },
+      {
+        "Alloy Name": "Ti-6Al-2Sn-4Zr-2Mo",
+        "Density (g/cm3)": "4.54",
+        "Yield Strength (MPa)": "990",
+        "Ultimate Tensile Strength (MPa)": "1050",
+        "Elongation (%)": "13.0",
+        "Hardness (HV)": "365"
+      },
+      {
+        "Alloy Name": "Ti-10V-2Fe-3Al",
+        "Density (g/cm3)": "4.65",
+        "Yield Strength (MPa)": "1100",
+        "Ultimate Tensile Strength (MPa)": "1180",
+        "Elongation (%)": "10.5",
+        "Hardness (HV)": "390"
+      },
+      {
+        "Alloy Name": "Ti-5Al-2.5Sn (Grade 6)",
+        "Density (g/cm3)": "4.48",
+        "Yield Strength (MPa)": "820",
+        "Ultimate Tensile Strength (MPa)": "890",
+        "Elongation (%)": "16.0",
+        "Hardness (HV)": "310"
+      },
+      {
+        "Alloy Name": "Ti-15V-3Cr-3Sn-3Al",
+        "Density (g/cm3)": "4.76",
+        "Yield Strength (MPa)": "1020",
+        "Ultimate Tensile Strength (MPa)": "1110",
+        "Elongation (%)": "11.0",
+        "Hardness (HV)": "375"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "caption": "Stoichiometric composition and elemental mass fractions of representative lithium battery cathodes.",
+    "footnote": "Compositions verified via ICP-OES spectroscopy with accuracy +/- 0.5%.",
+    "headers": [
+      "Cathode Material",
+      "Li (wt.%)",
+      "Co (wt.%)",
+      "Ni (wt.%)",
+      "Mn (wt.%)",
+      "Fe (wt.%)",
+      "P (wt.%)",
+      "O (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Cathode Material": "LiCoO2 (LCO)",
+        "Li (wt.%)": "7.09",
+        "Co (wt.%)": "60.22",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "32.69"
+      },
+      {
+        "Cathode Material": "LiFePO4 (LFP)",
+        "Li (wt.%)": "4.40",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "35.39",
+        "P (wt.%)": "19.63",
+        "O (wt.%)": "40.58"
+      },
+      {
+        "Cathode Material": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Li (wt.%)": "7.25",
+        "Co (wt.%)": "9.24",
+        "Ni (wt.%)": "49.12",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.45"
+      },
+      {
+        "Cathode Material": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Li (wt.%)": "7.19",
+        "Co (wt.%)": "20.37",
+        "Ni (wt.%)": "20.29",
+        "Mn (wt.%)": "18.99",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.16"
+      },
+      {
+        "Cathode Material": "LiMn2O4 (LMO)",
+        "Li (wt.%)": "3.84",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "60.77",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "35.39"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Cathode Material": "LiCoO2 (LCO)",
+        "Li (wt.%)": "7.09",
+        "Co (wt.%)": "60.22",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "32.69"
+      },
+      {
+        "Cathode Material": "LiFePO4 (LFP)",
+        "Li (wt.%)": "4.40",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "35.39",
+        "P (wt.%)": "19.63",
+        "O (wt.%)": "40.58"
+      },
+      {
+        "Cathode Material": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Li (wt.%)": "7.25",
+        "Co (wt.%)": "9.24",
+        "Ni (wt.%)": "49.12",
+        "Mn (wt.%)": "-",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.45"
+      },
+      {
+        "Cathode Material": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Li (wt.%)": "7.19",
+        "Co (wt.%)": "20.37",
+        "Ni (wt.%)": "20.29",
+        "Mn (wt.%)": "18.99",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "33.16"
+      },
+      {
+        "Cathode Material": "LiMn2O4 (LMO)",
+        "Li (wt.%)": "3.84",
+        "Co (wt.%)": "-",
+        "Ni (wt.%)": "-",
+        "Mn (wt.%)": "60.77",
+        "Fe (wt.%)": "-",
+        "P (wt.%)": "-",
+        "O (wt.%)": "35.39"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "caption": "Electrochemical performance parameters and energy density of lithium cathode materials.",
+    "footnote": "Tested in 2032 coin cells against metallic Lithium counter electrode between 2.5V and 4.3V vs Li/Li+ at 0.1C rate.",
+    "headers": [
+      "Cathode Formula",
+      "Specific Capacity (mAh/g)",
+      "Nominal Voltage (V)",
+      "Energy Density (Wh/kg)",
+      "Cycle Retention (%)",
+      "Tap Density (g/cm3)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Cathode Formula": "LiCoO2 (LCO)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.90",
+        "Energy Density (Wh/kg)": "624",
+        "Cycle Retention (%)": "92.0",
+        "Tap Density (g/cm3)": "2.80"
+      },
+      {
+        "Cathode Formula": "LiFePO4 (LFP)",
+        "Specific Capacity (mAh/g)": "165",
+        "Nominal Voltage (V)": "3.45",
+        "Energy Density (Wh/kg)": "569",
+        "Cycle Retention (%)": "98.5",
+        "Tap Density (g/cm3)": "1.30"
+      },
+      {
+        "Cathode Formula": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Specific Capacity (mAh/g)": "200",
+        "Nominal Voltage (V)": "3.75",
+        "Energy Density (Wh/kg)": "750",
+        "Cycle Retention (%)": "88.0",
+        "Tap Density (g/cm3)": "2.60"
+      },
+      {
+        "Cathode Formula": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.80",
+        "Energy Density (Wh/kg)": "608",
+        "Cycle Retention (%)": "94.0",
+        "Tap Density (g/cm3)": "2.40"
+      },
+      {
+        "Cathode Formula": "LiMn2O4 (LMO)",
+        "Specific Capacity (mAh/g)": "120",
+        "Nominal Voltage (V)": "4.05",
+        "Energy Density (Wh/kg)": "486",
+        "Cycle Retention (%)": "82.0",
+        "Tap Density (g/cm3)": "2.10"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Cathode Formula": "LiCoO2 (LCO)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.90",
+        "Energy Density (Wh/kg)": "624",
+        "Cycle Retention (%)": "92.0",
+        "Tap Density (g/cm3)": "2.80"
+      },
+      {
+        "Cathode Formula": "LiFePO4 (LFP)",
+        "Specific Capacity (mAh/g)": "165",
+        "Nominal Voltage (V)": "3.45",
+        "Energy Density (Wh/kg)": "569",
+        "Cycle Retention (%)": "98.5",
+        "Tap Density (g/cm3)": "1.30"
+      },
+      {
+        "Cathode Formula": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Specific Capacity (mAh/g)": "200",
+        "Nominal Voltage (V)": "3.75",
+        "Energy Density (Wh/kg)": "750",
+        "Cycle Retention (%)": "88.0",
+        "Tap Density (g/cm3)": "2.60"
+      },
+      {
+        "Cathode Formula": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.80",
+        "Energy Density (Wh/kg)": "608",
+        "Cycle Retention (%)": "94.0",
+        "Tap Density (g/cm3)": "2.40"
+      },
+      {
+        "Cathode Formula": "LiMn2O4 (LMO)",
+        "Specific Capacity (mAh/g)": "120",
+        "Nominal Voltage (V)": "4.05",
+        "Energy Density (Wh/kg)": "486",
+        "Cycle Retention (%)": "82.0",
+        "Tap Density (g/cm3)": "2.10"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "caption": "Nominal molar composition (mol%) of ferroelectric perovskite ceramics.",
+    "footnote": "Synthesized via standard solid-state reaction method sintered at 1150-1280 deg C.",
+    "headers": [
+      "Material Name",
+      "BaO (mol%)",
+      "TiO2 (mol%)",
+      "PbO (mol%)",
+      "ZrO2 (mol%)",
+      "K2O (mol%)",
+      "Na2O (mol%)",
+      "Nb2O5 (mol%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Material Name": "BaTiO3 (BT)",
+        "BaO (mol%)": "50.0",
+        "TiO2 (mol%)": "50.0",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "-",
+        "Nb2O5 (mol%)": "-"
+      },
+      {
+        "Material Name": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+        "BaO (mol%)": "-",
+        "TiO2 (mol%)": "24.0",
+        "PbO (mol%)": "50.0",
+        "ZrO2 (mol%)": "26.0",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "-",
+        "Nb2O5 (mol%)": "-"
+      },
+      {
+        "Material Name": "(K0.5Na0.5)NbO3 (KNN)",
+        "BaO (mol%)": "-",
+        "TiO2 (mol%)": "-",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "25.0",
+        "Na2O (mol%)": "25.0",
+        "Nb2O5 (mol%)": "50.0"
+      },
+      {
+        "Material Name": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+        "BaO (mol%)": "3.0",
+        "TiO2 (mol%)": "50.0",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "23.5",
+        "Nb2O5 (mol%)": "-"
+      },
+      {
+        "Material Name": "BiFeO3 (BFO)",
+        "BaO (mol%)": "-",
+        "TiO2 (mol%)": "-",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "-",
+        "Nb2O5 (mol%)": "-"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Material Name": "BaTiO3 (BT)",
+        "BaO (mol%)": "50.0",
+        "TiO2 (mol%)": "50.0",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "-",
+        "Nb2O5 (mol%)": "-"
+      },
+      {
+        "Material Name": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+        "BaO (mol%)": "-",
+        "TiO2 (mol%)": "24.0",
+        "PbO (mol%)": "50.0",
+        "ZrO2 (mol%)": "26.0",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "-",
+        "Nb2O5 (mol%)": "-"
+      },
+      {
+        "Material Name": "(K0.5Na0.5)NbO3 (KNN)",
+        "BaO (mol%)": "-",
+        "TiO2 (mol%)": "-",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "25.0",
+        "Na2O (mol%)": "25.0",
+        "Nb2O5 (mol%)": "50.0"
+      },
+      {
+        "Material Name": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+        "BaO (mol%)": "3.0",
+        "TiO2 (mol%)": "50.0",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "23.5",
+        "Nb2O5 (mol%)": "-"
+      },
+      {
+        "Material Name": "BiFeO3 (BFO)",
+        "BaO (mol%)": "-",
+        "TiO2 (mol%)": "-",
+        "PbO (mol%)": "-",
+        "ZrO2 (mol%)": "-",
+        "K2O (mol%)": "-",
+        "Na2O (mol%)": "-",
+        "Nb2O5 (mol%)": "-"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "caption": "Dielectric permittivity, Curie temperature, and piezoelectric coefficients.",
+    "footnote": "Measured at 1 kHz frequency and room temperature (25 deg C).",
+    "headers": [
+      "Ceramic System",
+      "Dielectric Constant",
+      "Dielectric Loss (tan delta)",
+      "Curie Temperature (deg C)",
+      "Piezoelectric Coefficient d33 (pC/N)",
+      "Remanent Polarization (uC/cm2)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Ceramic System": "BaTiO3 (BT)",
+        "Dielectric Constant": "1800",
+        "Dielectric Loss (tan delta)": "0.015",
+        "Curie Temperature (deg C)": "120",
+        "Piezoelectric Coefficient d33 (pC/N)": "190",
+        "Remanent Polarization (uC/cm2)": "16.0"
+      },
+      {
+        "Ceramic System": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+        "Dielectric Constant": "3400",
+        "Dielectric Loss (tan delta)": "0.020",
+        "Curie Temperature (deg C)": "230",
+        "Piezoelectric Coefficient d33 (pC/N)": "590",
+        "Remanent Polarization (uC/cm2)": "32.0"
+      },
+      {
+        "Ceramic System": "(K0.5Na0.5)NbO3 (KNN)",
+        "Dielectric Constant": "850",
+        "Dielectric Loss (tan delta)": "0.035",
+        "Curie Temperature (deg C)": "420",
+        "Piezoelectric Coefficient d33 (pC/N)": "160",
+        "Remanent Polarization (uC/cm2)": "22.5"
+      },
+      {
+        "Ceramic System": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+        "Dielectric Constant": "1250",
+        "Dielectric Loss (tan delta)": "0.040",
+        "Curie Temperature (deg C)": "288",
+        "Piezoelectric Coefficient d33 (pC/N)": "175",
+        "Remanent Polarization (uC/cm2)": "38.0"
+      },
+      {
+        "Ceramic System": "BiFeO3 (BFO)",
+        "Dielectric Constant": "150",
+        "Dielectric Loss (tan delta)": "0.080",
+        "Curie Temperature (deg C)": "830",
+        "Piezoelectric Coefficient d33 (pC/N)": "45",
+        "Remanent Polarization (uC/cm2)": "65.0"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Ceramic System": "BaTiO3 (BT)",
+        "Dielectric Constant": "1800",
+        "Dielectric Loss (tan delta)": "0.015",
+        "Curie Temperature (deg C)": "120",
+        "Piezoelectric Coefficient d33 (pC/N)": "190",
+        "Remanent Polarization (uC/cm2)": "16.0"
+      },
+      {
+        "Ceramic System": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+        "Dielectric Constant": "3400",
+        "Dielectric Loss (tan delta)": "0.020",
+        "Curie Temperature (deg C)": "230",
+        "Piezoelectric Coefficient d33 (pC/N)": "590",
+        "Remanent Polarization (uC/cm2)": "32.0"
+      },
+      {
+        "Ceramic System": "(K0.5Na0.5)NbO3 (KNN)",
+        "Dielectric Constant": "850",
+        "Dielectric Loss (tan delta)": "0.035",
+        "Curie Temperature (deg C)": "420",
+        "Piezoelectric Coefficient d33 (pC/N)": "160",
+        "Remanent Polarization (uC/cm2)": "22.5"
+      },
+      {
+        "Ceramic System": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+        "Dielectric Constant": "1250",
+        "Dielectric Loss (tan delta)": "0.040",
+        "Curie Temperature (deg C)": "288",
+        "Piezoelectric Coefficient d33 (pC/N)": "175",
+        "Remanent Polarization (uC/cm2)": "38.0"
+      },
+      {
+        "Ceramic System": "BiFeO3 (BFO)",
+        "Dielectric Constant": "150",
+        "Dielectric Loss (tan delta)": "0.080",
+        "Curie Temperature (deg C)": "830",
+        "Piezoelectric Coefficient d33 (pC/N)": "45",
+        "Remanent Polarization (uC/cm2)": "65.0"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "caption": "Chemical composition (at.%) and crystal structure of synthesized high-entropy alloys.",
+    "footnote": "Ingots prepared by vacuum arc melting under high-purity argon atmosphere.",
+    "headers": [
+      "Alloy Formulation",
+      "Al (at.%)",
+      "Co (at.%)",
+      "Cr (at.%)",
+      "Fe (at.%)",
+      "Ni (at.%)",
+      "Mn (at.%)",
+      "Crystal Structure"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Alloy Formulation": "CoCrFeNi (Base 4-HEA)",
+        "Al (at.%)": "-",
+        "Co (at.%)": "25.0",
+        "Cr (at.%)": "25.0",
+        "Fe (at.%)": "25.0",
+        "Ni (at.%)": "25.0",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "Single FCC"
+      },
+      {
+        "Alloy Formulation": "CoCrFeMnNi (Cantor Alloy)",
+        "Al (at.%)": "-",
+        "Co (at.%)": "20.0",
+        "Cr (at.%)": "20.0",
+        "Fe (at.%)": "20.0",
+        "Ni (at.%)": "20.0",
+        "Mn (at.%)": "20.0",
+        "Crystal Structure": "Single FCC"
+      },
+      {
+        "Alloy Formulation": "Al0.3CoCrFeNi",
+        "Al (at.%)": "6.98",
+        "Co (at.%)": "23.25",
+        "Cr (at.%)": "23.25",
+        "Fe (at.%)": "23.25",
+        "Ni (at.%)": "23.25",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "FCC + minor BCC"
+      },
+      {
+        "Alloy Formulation": "Al0.7CoCrFeNi",
+        "Al (at.%)": "14.89",
+        "Co (at.%)": "21.28",
+        "Cr (at.%)": "21.28",
+        "Fe (at.%)": "21.28",
+        "Ni (at.%)": "21.28",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "BCC + B2 + FCC"
+      },
+      {
+        "Alloy Formulation": "AlCoCrFeNi (Equimolar)",
+        "Al (at.%)": "20.0",
+        "Co (at.%)": "20.0",
+        "Cr (at.%)": "20.0",
+        "Fe (at.%)": "20.0",
+        "Ni (at.%)": "20.0",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "BCC + B2"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy Formulation": "CoCrFeNi (Base 4-HEA)",
+        "Al (at.%)": "-",
+        "Co (at.%)": "25.0",
+        "Cr (at.%)": "25.0",
+        "Fe (at.%)": "25.0",
+        "Ni (at.%)": "25.0",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "Single FCC"
+      },
+      {
+        "Alloy Formulation": "CoCrFeMnNi (Cantor Alloy)",
+        "Al (at.%)": "-",
+        "Co (at.%)": "20.0",
+        "Cr (at.%)": "20.0",
+        "Fe (at.%)": "20.0",
+        "Ni (at.%)": "20.0",
+        "Mn (at.%)": "20.0",
+        "Crystal Structure": "Single FCC"
+      },
+      {
+        "Alloy Formulation": "Al0.3CoCrFeNi",
+        "Al (at.%)": "6.98",
+        "Co (at.%)": "23.25",
+        "Cr (at.%)": "23.25",
+        "Fe (at.%)": "23.25",
+        "Ni (at.%)": "23.25",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "FCC + minor BCC"
+      },
+      {
+        "Alloy Formulation": "Al0.7CoCrFeNi",
+        "Al (at.%)": "14.89",
+        "Co (at.%)": "21.28",
+        "Cr (at.%)": "21.28",
+        "Fe (at.%)": "21.28",
+        "Ni (at.%)": "21.28",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "BCC + B2 + FCC"
+      },
+      {
+        "Alloy Formulation": "AlCoCrFeNi (Equimolar)",
+        "Al (at.%)": "20.0",
+        "Co (at.%)": "20.0",
+        "Cr (at.%)": "20.0",
+        "Fe (at.%)": "20.0",
+        "Ni (at.%)": "20.0",
+        "Mn (at.%)": "-",
+        "Crystal Structure": "BCC + B2"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "caption": "Mechanical properties and density of high-entropy alloys in as-cast condition.",
+    "footnote": "Compression testing performed with cylindrical samples of aspect ratio 2:1 at 10^-4 s^-1 strain rate.",
+    "headers": [
+      "Alloy System",
+      "Vickers Hardness (HV)",
+      "Yield Strength (MPa)",
+      "Compressive Strength (MPa)",
+      "Plastic Strain (%)",
+      "Density (g/cm3)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Alloy System": "CoCrFeNi (Base 4-HEA)",
+        "Vickers Hardness (HV)": "145",
+        "Yield Strength (MPa)": "185",
+        "Compressive Strength (MPa)": "790",
+        "Plastic Strain (%)": "52.0",
+        "Density (g/cm3)": "8.25"
+      },
+      {
+        "Alloy System": "CoCrFeMnNi (Cantor Alloy)",
+        "Vickers Hardness (HV)": "160",
+        "Yield Strength (MPa)": "215",
+        "Compressive Strength (MPa)": "840",
+        "Plastic Strain (%)": "48.5",
+        "Density (g/cm3)": "8.04"
+      },
+      {
+        "Alloy System": "Al0.3CoCrFeNi",
+        "Vickers Hardness (HV)": "220",
+        "Yield Strength (MPa)": "310",
+        "Compressive Strength (MPa)": "980",
+        "Plastic Strain (%)": "39.0",
+        "Density (g/cm3)": "7.78"
+      },
+      {
+        "Alloy System": "Al0.7CoCrFeNi",
+        "Vickers Hardness (HV)": "380",
+        "Yield Strength (MPa)": "780",
+        "Compressive Strength (MPa)": "1420",
+        "Plastic Strain (%)": "21.5",
+        "Density (g/cm3)": "7.45"
+      },
+      {
+        "Alloy System": "AlCoCrFeNi (Equimolar)",
+        "Vickers Hardness (HV)": "510",
+        "Yield Strength (MPa)": "1250",
+        "Compressive Strength (MPa)": "2050",
+        "Plastic Strain (%)": "14.0",
+        "Density (g/cm3)": "7.15"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy System": "CoCrFeNi (Base 4-HEA)",
+        "Vickers Hardness (HV)": "145",
+        "Yield Strength (MPa)": "185",
+        "Compressive Strength (MPa)": "790",
+        "Plastic Strain (%)": "52.0",
+        "Density (g/cm3)": "8.25"
+      },
+      {
+        "Alloy System": "CoCrFeMnNi (Cantor Alloy)",
+        "Vickers Hardness (HV)": "160",
+        "Yield Strength (MPa)": "215",
+        "Compressive Strength (MPa)": "840",
+        "Plastic Strain (%)": "48.5",
+        "Density (g/cm3)": "8.04"
+      },
+      {
+        "Alloy System": "Al0.3CoCrFeNi",
+        "Vickers Hardness (HV)": "220",
+        "Yield Strength (MPa)": "310",
+        "Compressive Strength (MPa)": "980",
+        "Plastic Strain (%)": "39.0",
+        "Density (g/cm3)": "7.78"
+      },
+      {
+        "Alloy System": "Al0.7CoCrFeNi",
+        "Vickers Hardness (HV)": "380",
+        "Yield Strength (MPa)": "780",
+        "Compressive Strength (MPa)": "1420",
+        "Plastic Strain (%)": "21.5",
+        "Density (g/cm3)": "7.45"
+      },
+      {
+        "Alloy System": "AlCoCrFeNi (Equimolar)",
+        "Vickers Hardness (HV)": "510",
+        "Yield Strength (MPa)": "1250",
+        "Compressive Strength (MPa)": "2050",
+        "Plastic Strain (%)": "14.0",
+        "Density (g/cm3)": "7.15"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "caption": "Oxide composition (wt.%) of synthesized bioactive and specialty glass systems.",
+    "footnote": "Glasses melted in platinum crucibles at 1400-1450 deg C and annealed near glass transition.",
+    "headers": [
+      "Glass Code",
+      "SiO2 (wt.%)",
+      "Na2O (wt.%)",
+      "CaO (wt.%)",
+      "P2O5 (wt.%)",
+      "B2O3 (wt.%)",
+      "MgO (wt.%)",
+      "K2O (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Glass Code": "45S5 Bioglass",
+        "SiO2 (wt.%)": "45.0",
+        "Na2O (wt.%)": "24.5",
+        "CaO (wt.%)": "24.5",
+        "P2O5 (wt.%)": "6.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "13-93 Bioactive Glass",
+        "SiO2 (wt.%)": "53.0",
+        "Na2O (wt.%)": "6.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "12.0"
+      },
+      {
+        "Glass Code": "Borate 01 Glass (B-1)",
+        "SiO2 (wt.%)": "15.0",
+        "Na2O (wt.%)": "15.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "46.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "ICIE16 Silicate Glass",
+        "SiO2 (wt.%)": "48.0",
+        "Na2O (wt.%)": "12.0",
+        "CaO (wt.%)": "32.0",
+        "P2O5 (wt.%)": "3.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "Pyrex Borosilicate Glass",
+        "SiO2 (wt.%)": "81.0",
+        "Na2O (wt.%)": "4.0",
+        "CaO (wt.%)": "-",
+        "P2O5 (wt.%)": "-",
+        "B2O3 (wt.%)": "13.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "2.0"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Glass Code": "45S5 Bioglass",
+        "SiO2 (wt.%)": "45.0",
+        "Na2O (wt.%)": "24.5",
+        "CaO (wt.%)": "24.5",
+        "P2O5 (wt.%)": "6.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "13-93 Bioactive Glass",
+        "SiO2 (wt.%)": "53.0",
+        "Na2O (wt.%)": "6.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "12.0"
+      },
+      {
+        "Glass Code": "Borate 01 Glass (B-1)",
+        "SiO2 (wt.%)": "15.0",
+        "Na2O (wt.%)": "15.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "46.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "ICIE16 Silicate Glass",
+        "SiO2 (wt.%)": "48.0",
+        "Na2O (wt.%)": "12.0",
+        "CaO (wt.%)": "32.0",
+        "P2O5 (wt.%)": "3.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "Pyrex Borosilicate Glass",
+        "SiO2 (wt.%)": "81.0",
+        "Na2O (wt.%)": "4.0",
+        "CaO (wt.%)": "-",
+        "P2O5 (wt.%)": "-",
+        "B2O3 (wt.%)": "13.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "2.0"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "caption": "Physical, thermal, and mechanical properties of investigated glass formulations.",
+    "footnote": "Glass transition determined via differential thermal analysis (DTA) at 10 K/min heating rate.",
+    "headers": [
+      "Glass Designation",
+      "Density (g/cm3)",
+      "Glass Transition Tg (deg C)",
+      "Thermal Expansion CTE (10^-6 /K)",
+      "Young's Modulus (GPa)",
+      "Vickers Hardness (GPa)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Glass Designation": "45S5 Bioglass",
+        "Density (g/cm3)": "2.73",
+        "Glass Transition Tg (deg C)": "535",
+        "Thermal Expansion CTE (10^-6 /K)": "15.1",
+        "Young's Modulus (GPa)": "35.0",
+        "Vickers Hardness (GPa)": "4.5"
+      },
+      {
+        "Glass Designation": "13-93 Bioactive Glass",
+        "Density (g/cm3)": "2.68",
+        "Glass Transition Tg (deg C)": "605",
+        "Thermal Expansion CTE (10^-6 /K)": "12.8",
+        "Young's Modulus (GPa)": "68.0",
+        "Vickers Hardness (GPa)": "5.8"
+      },
+      {
+        "Glass Designation": "Borate 01 Glass (B-1)",
+        "Density (g/cm3)": "2.61",
+        "Glass Transition Tg (deg C)": "495",
+        "Thermal Expansion CTE (10^-6 /K)": "14.2",
+        "Young's Modulus (GPa)": "42.0",
+        "Vickers Hardness (GPa)": "4.1"
+      },
+      {
+        "Glass Designation": "ICIE16 Silicate Glass",
+        "Density (g/cm3)": "2.78",
+        "Glass Transition Tg (deg C)": "560",
+        "Thermal Expansion CTE (10^-6 /K)": "13.5",
+        "Young's Modulus (GPa)": "52.0",
+        "Vickers Hardness (GPa)": "5.2"
+      },
+      {
+        "Glass Designation": "Pyrex Borosilicate Glass",
+        "Density (g/cm3)": "2.23",
+        "Glass Transition Tg (deg C)": "525",
+        "Thermal Expansion CTE (10^-6 /K)": "3.3",
+        "Young's Modulus (GPa)": "64.0",
+        "Vickers Hardness (GPa)": "5.9"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Glass Designation": "45S5 Bioglass",
+        "Density (g/cm3)": "2.73",
+        "Glass Transition Tg (deg C)": "535",
+        "Thermal Expansion CTE (10^-6 /K)": "15.1",
+        "Young's Modulus (GPa)": "35.0",
+        "Vickers Hardness (GPa)": "4.5"
+      },
+      {
+        "Glass Designation": "13-93 Bioactive Glass",
+        "Density (g/cm3)": "2.68",
+        "Glass Transition Tg (deg C)": "605",
+        "Thermal Expansion CTE (10^-6 /K)": "12.8",
+        "Young's Modulus (GPa)": "68.0",
+        "Vickers Hardness (GPa)": "5.8"
+      },
+      {
+        "Glass Designation": "Borate 01 Glass (B-1)",
+        "Density (g/cm3)": "2.61",
+        "Glass Transition Tg (deg C)": "495",
+        "Thermal Expansion CTE (10^-6 /K)": "14.2",
+        "Young's Modulus (GPa)": "42.0",
+        "Vickers Hardness (GPa)": "4.1"
+      },
+      {
+        "Glass Designation": "ICIE16 Silicate Glass",
+        "Density (g/cm3)": "2.78",
+        "Glass Transition Tg (deg C)": "560",
+        "Thermal Expansion CTE (10^-6 /K)": "13.5",
+        "Young's Modulus (GPa)": "52.0",
+        "Vickers Hardness (GPa)": "5.2"
+      },
+      {
+        "Glass Designation": "Pyrex Borosilicate Glass",
+        "Density (g/cm3)": "2.23",
+        "Glass Transition Tg (deg C)": "525",
+        "Thermal Expansion CTE (10^-6 /K)": "3.3",
+        "Young's Modulus (GPa)": "64.0",
+        "Vickers Hardness (GPa)": "5.9"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "caption": "Chemical stoichiometry and atomic ratios of cuprate, pnictide, and diboride superconductors.",
+    "footnote": "Compounds characterized using powder X-ray diffraction at room temperature.",
+    "headers": [
+      "Superconductor Phase",
+      "Y (at.%)",
+      "Ba (at.%)",
+      "Cu (at.%)",
+      "Bi (at.%)",
+      "Sr (at.%)",
+      "Ca (at.%)",
+      "Mg (at.%)",
+      "B (at.%)",
+      "Fe (at.%)",
+      "Se (at.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 11,
+    "raw_records": [
+      {
+        "Superconductor Phase": "YBa2Cu3O7-delta (YBCO-123)",
+        "Y (at.%)": "7.7",
+        "Ba (at.%)": "15.4",
+        "Cu (at.%)": "23.1",
+        "Bi (at.%)": "-",
+        "Sr (at.%)": "-",
+        "Ca (at.%)": "-",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      },
+      {
+        "Superconductor Phase": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "15.8",
+        "Bi (at.%)": "10.5",
+        "Sr (at.%)": "10.5",
+        "Ca (at.%)": "10.5",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      },
+      {
+        "Superconductor Phase": "MgB2 (Magnesium Diboride)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "-",
+        "Bi (at.%)": "-",
+        "Sr (at.%)": "-",
+        "Ca (at.%)": "-",
+        "Mg (at.%)": "33.3",
+        "B (at.%)": "66.7",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      },
+      {
+        "Superconductor Phase": "FeSe (Iron Selenide)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "-",
+        "Bi (at.%)": "-",
+        "Sr (at.%)": "-",
+        "Ca (at.%)": "-",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "50.0",
+        "Se (at.%)": "50.0"
+      },
+      {
+        "Superconductor Phase": "Bi2Sr2CaCu2O8 (Bi-2212)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "13.3",
+        "Bi (at.%)": "13.3",
+        "Sr (at.%)": "13.3",
+        "Ca (at.%)": "6.7",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Superconductor Phase": "YBa2Cu3O7-delta (YBCO-123)",
+        "Y (at.%)": "7.7",
+        "Ba (at.%)": "15.4",
+        "Cu (at.%)": "23.1",
+        "Bi (at.%)": "-",
+        "Sr (at.%)": "-",
+        "Ca (at.%)": "-",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      },
+      {
+        "Superconductor Phase": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "15.8",
+        "Bi (at.%)": "10.5",
+        "Sr (at.%)": "10.5",
+        "Ca (at.%)": "10.5",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      },
+      {
+        "Superconductor Phase": "MgB2 (Magnesium Diboride)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "-",
+        "Bi (at.%)": "-",
+        "Sr (at.%)": "-",
+        "Ca (at.%)": "-",
+        "Mg (at.%)": "33.3",
+        "B (at.%)": "66.7",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      },
+      {
+        "Superconductor Phase": "FeSe (Iron Selenide)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "-",
+        "Bi (at.%)": "-",
+        "Sr (at.%)": "-",
+        "Ca (at.%)": "-",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "50.0",
+        "Se (at.%)": "50.0"
+      },
+      {
+        "Superconductor Phase": "Bi2Sr2CaCu2O8 (Bi-2212)",
+        "Y (at.%)": "-",
+        "Ba (at.%)": "-",
+        "Cu (at.%)": "13.3",
+        "Bi (at.%)": "13.3",
+        "Sr (at.%)": "13.3",
+        "Ca (at.%)": "6.7",
+        "Mg (at.%)": "-",
+        "B (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Se (at.%)": "-"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "caption": "Superconducting transition parameters and critical current capabilities.",
+    "footnote": "Critical temperature Tc determined at 50% resistive transition drop. Jc measured at 4.2 K in self-field.",
+    "headers": [
+      "Compound Name",
+      "Critical Temp Tc (K)",
+      "Upper Critical Field Hc2 (Tesla)",
+      "Critical Current Density Jc (MA/cm2)",
+      "Coherence Length xi (nm)",
+      "Penetration Depth lambda (nm)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Compound Name": "YBa2Cu3O7-delta (YBCO-123)",
+        "Critical Temp Tc (K)": "92.0",
+        "Upper Critical Field Hc2 (Tesla)": "120",
+        "Critical Current Density Jc (MA/cm2)": "3.5",
+        "Coherence Length xi (nm)": "1.5",
+        "Penetration Depth lambda (nm)": "140"
+      },
+      {
+        "Compound Name": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+        "Critical Temp Tc (K)": "110.0",
+        "Upper Critical Field Hc2 (Tesla)": "100",
+        "Critical Current Density Jc (MA/cm2)": "2.1",
+        "Coherence Length xi (nm)": "1.3",
+        "Penetration Depth lambda (nm)": "200"
+      },
+      {
+        "Compound Name": "MgB2 (Magnesium Diboride)",
+        "Critical Temp Tc (K)": "39.0",
+        "Upper Critical Field Hc2 (Tesla)": "40",
+        "Critical Current Density Jc (MA/cm2)": "10.0",
+        "Coherence Length xi (nm)": "5.2",
+        "Penetration Depth lambda (nm)": "85"
+      },
+      {
+        "Compound Name": "FeSe (Iron Selenide)",
+        "Critical Temp Tc (K)": "8.5",
+        "Upper Critical Field Hc2 (Tesla)": "16",
+        "Critical Current Density Jc (MA/cm2)": "0.5",
+        "Coherence Length xi (nm)": "4.0",
+        "Penetration Depth lambda (nm)": "390"
+      },
+      {
+        "Compound Name": "Bi2Sr2CaCu2O8 (Bi-2212)",
+        "Critical Temp Tc (K)": "85.0",
+        "Upper Critical Field Hc2 (Tesla)": "90",
+        "Critical Current Density Jc (MA/cm2)": "1.8",
+        "Coherence Length xi (nm)": "1.6",
+        "Penetration Depth lambda (nm)": "220"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Compound Name": "YBa2Cu3O7-delta (YBCO-123)",
+        "Critical Temp Tc (K)": "92.0",
+        "Upper Critical Field Hc2 (Tesla)": "120",
+        "Critical Current Density Jc (MA/cm2)": "3.5",
+        "Coherence Length xi (nm)": "1.5",
+        "Penetration Depth lambda (nm)": "140"
+      },
+      {
+        "Compound Name": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+        "Critical Temp Tc (K)": "110.0",
+        "Upper Critical Field Hc2 (Tesla)": "100",
+        "Critical Current Density Jc (MA/cm2)": "2.1",
+        "Coherence Length xi (nm)": "1.3",
+        "Penetration Depth lambda (nm)": "200"
+      },
+      {
+        "Compound Name": "MgB2 (Magnesium Diboride)",
+        "Critical Temp Tc (K)": "39.0",
+        "Upper Critical Field Hc2 (Tesla)": "40",
+        "Critical Current Density Jc (MA/cm2)": "10.0",
+        "Coherence Length xi (nm)": "5.2",
+        "Penetration Depth lambda (nm)": "85"
+      },
+      {
+        "Compound Name": "FeSe (Iron Selenide)",
+        "Critical Temp Tc (K)": "8.5",
+        "Upper Critical Field Hc2 (Tesla)": "16",
+        "Critical Current Density Jc (MA/cm2)": "0.5",
+        "Coherence Length xi (nm)": "4.0",
+        "Penetration Depth lambda (nm)": "390"
+      },
+      {
+        "Compound Name": "Bi2Sr2CaCu2O8 (Bi-2212)",
+        "Critical Temp Tc (K)": "85.0",
+        "Upper Critical Field Hc2 (Tesla)": "90",
+        "Critical Current Density Jc (MA/cm2)": "1.8",
+        "Coherence Length xi (nm)": "1.6",
+        "Penetration Depth lambda (nm)": "220"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "caption": "Doping concentration and nominal chemical composition (mol%) of thermoelectric alloys.",
+    "footnote": "Materials consolidated using Spark Plasma Sintering (SPS) at 450-550 deg C under 50 MPa pressure.",
+    "headers": [
+      "Thermoelectric Sample",
+      "Bi (mol%)",
+      "Sb (mol%)",
+      "Te (mol%)",
+      "Se (mol%)",
+      "Pb (mol%)",
+      "Sn (mol%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 7,
+    "raw_records": [
+      {
+        "Thermoelectric Sample": "p-type (Bi0.25Sb0.75)2Te3",
+        "Bi (mol%)": "10.0",
+        "Sb (mol%)": "30.0",
+        "Te (mol%)": "60.0",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "-",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "n-type Bi2(Te0.95Se0.05)3",
+        "Bi (mol%)": "40.0",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "57.0",
+        "Se (mol%)": "3.0",
+        "Pb (mol%)": "-",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "p-type Pb0.98Na0.02Te",
+        "Bi (mol%)": "-",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "50.0",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "48.0",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "n-type PbTe-0.02PbI2",
+        "Bi (mol%)": "-",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "49.0",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "49.0",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "p-type SnSe single-crystal",
+        "Bi (mol%)": "-",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "-",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "-",
+        "Sn (mol%)": "50.0"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Thermoelectric Sample": "p-type (Bi0.25Sb0.75)2Te3",
+        "Bi (mol%)": "10.0",
+        "Sb (mol%)": "30.0",
+        "Te (mol%)": "60.0",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "-",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "n-type Bi2(Te0.95Se0.05)3",
+        "Bi (mol%)": "40.0",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "57.0",
+        "Se (mol%)": "3.0",
+        "Pb (mol%)": "-",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "p-type Pb0.98Na0.02Te",
+        "Bi (mol%)": "-",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "50.0",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "48.0",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "n-type PbTe-0.02PbI2",
+        "Bi (mol%)": "-",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "49.0",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "49.0",
+        "Sn (mol%)": "-"
+      },
+      {
+        "Thermoelectric Sample": "p-type SnSe single-crystal",
+        "Bi (mol%)": "-",
+        "Sb (mol%)": "-",
+        "Te (mol%)": "-",
+        "Se (mol%)": "-",
+        "Pb (mol%)": "-",
+        "Sn (mol%)": "50.0"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "caption": "Thermoelectric transport coefficients, thermal conductivity, and ZT values at 300 K and peak temperature.",
+    "footnote": "Seebeck coefficient and electrical conductivity measured via four-probe differential method.",
+    "headers": [
+      "Material Identification",
+      "Seebeck Coefficient (uV/K)",
+      "Electrical Conductivity (S/cm)",
+      "Thermal Conductivity (W/mK)",
+      "Power Factor (uW/cmK2)",
+      "Peak Figure of Merit ZT"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Material Identification": "p-type (Bi0.25Sb0.75)2Te3",
+        "Seebeck Coefficient (uV/K)": "225",
+        "Electrical Conductivity (S/cm)": "980",
+        "Thermal Conductivity (W/mK)": "1.20",
+        "Power Factor (uW/cmK2)": "49.6",
+        "Peak Figure of Merit ZT": "1.25"
+      },
+      {
+        "Material Identification": "n-type Bi2(Te0.95Se0.05)3",
+        "Seebeck Coefficient (uV/K)": "-210",
+        "Electrical Conductivity (S/cm)": "1150",
+        "Thermal Conductivity (W/mK)": "1.35",
+        "Power Factor (uW/cmK2)": "50.7",
+        "Peak Figure of Merit ZT": "1.10"
+      },
+      {
+        "Material Identification": "p-type Pb0.98Na0.02Te",
+        "Seebeck Coefficient (uV/K)": "240",
+        "Electrical Conductivity (S/cm)": "620",
+        "Thermal Conductivity (W/mK)": "1.45",
+        "Power Factor (uW/cmK2)": "35.7",
+        "Peak Figure of Merit ZT": "1.70"
+      },
+      {
+        "Material Identification": "n-type PbTe-0.02PbI2",
+        "Seebeck Coefficient (uV/K)": "-195",
+        "Electrical Conductivity (S/cm)": "850",
+        "Thermal Conductivity (W/mK)": "1.60",
+        "Power Factor (uW/cmK2)": "32.3",
+        "Peak Figure of Merit ZT": "1.40"
+      },
+      {
+        "Material Identification": "p-type SnSe single-crystal",
+        "Seebeck Coefficient (uV/K)": "480",
+        "Electrical Conductivity (S/cm)": "45",
+        "Thermal Conductivity (W/mK)": "0.45",
+        "Power Factor (uW/cmK2)": "10.4",
+        "Peak Figure of Merit ZT": "2.60"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Material Identification": "p-type (Bi0.25Sb0.75)2Te3",
+        "Seebeck Coefficient (uV/K)": "225",
+        "Electrical Conductivity (S/cm)": "980",
+        "Thermal Conductivity (W/mK)": "1.20",
+        "Power Factor (uW/cmK2)": "49.6",
+        "Peak Figure of Merit ZT": "1.25"
+      },
+      {
+        "Material Identification": "n-type Bi2(Te0.95Se0.05)3",
+        "Seebeck Coefficient (uV/K)": "-210",
+        "Electrical Conductivity (S/cm)": "1150",
+        "Thermal Conductivity (W/mK)": "1.35",
+        "Power Factor (uW/cmK2)": "50.7",
+        "Peak Figure of Merit ZT": "1.10"
+      },
+      {
+        "Material Identification": "p-type Pb0.98Na0.02Te",
+        "Seebeck Coefficient (uV/K)": "240",
+        "Electrical Conductivity (S/cm)": "620",
+        "Thermal Conductivity (W/mK)": "1.45",
+        "Power Factor (uW/cmK2)": "35.7",
+        "Peak Figure of Merit ZT": "1.70"
+      },
+      {
+        "Material Identification": "n-type PbTe-0.02PbI2",
+        "Seebeck Coefficient (uV/K)": "-195",
+        "Electrical Conductivity (S/cm)": "850",
+        "Thermal Conductivity (W/mK)": "1.60",
+        "Power Factor (uW/cmK2)": "32.3",
+        "Peak Figure of Merit ZT": "1.40"
+      },
+      {
+        "Material Identification": "p-type SnSe single-crystal",
+        "Seebeck Coefficient (uV/K)": "480",
+        "Electrical Conductivity (S/cm)": "45",
+        "Thermal Conductivity (W/mK)": "0.45",
+        "Power Factor (uW/cmK2)": "10.4",
+        "Peak Figure of Merit ZT": "2.60"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "caption": "Nominal alloying composition limits (wt.%) of structural aerospace aluminum alloys.",
+    "footnote": "Aluminum forms the matrix balance. Maximum limits specified for Fe (0.12%) and Si (0.10%).",
+    "headers": [
+      "Alloy System & Temper",
+      "Al (wt.%)",
+      "Cu (wt.%)",
+      "Mg (wt.%)",
+      "Zn (wt.%)",
+      "Li (wt.%)",
+      "Mn (wt.%)",
+      "Zr (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Alloy System & Temper": "Al 2024-T3",
+        "Al (wt.%)": "93.5",
+        "Cu (wt.%)": "4.4",
+        "Mg (wt.%)": "1.5",
+        "Zn (wt.%)": "0.2",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.6",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy System & Temper": "Al 7075-T6",
+        "Al (wt.%)": "90.0",
+        "Cu (wt.%)": "1.6",
+        "Mg (wt.%)": "2.5",
+        "Zn (wt.%)": "5.6",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.1",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy System & Temper": "Al 6061-T6",
+        "Al (wt.%)": "97.5",
+        "Cu (wt.%)": "0.3",
+        "Mg (wt.%)": "1.0",
+        "Zn (wt.%)": "0.1",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.15",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy System & Temper": "Al-Li 2195-T8",
+        "Al (wt.%)": "94.0",
+        "Cu (wt.%)": "4.0",
+        "Mg (wt.%)": "0.4",
+        "Zn (wt.%)": "0.1",
+        "Li (wt.%)": "1.0",
+        "Mn (wt.%)": "0.1",
+        "Zr (wt.%)": "0.11"
+      },
+      {
+        "Alloy System & Temper": "Al 7050-T7451",
+        "Al (wt.%)": "89.0",
+        "Cu (wt.%)": "2.3",
+        "Mg (wt.%)": "2.1",
+        "Zn (wt.%)": "6.2",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.05",
+        "Zr (wt.%)": "0.12"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy System & Temper": "Al 2024-T3",
+        "Al (wt.%)": "93.5",
+        "Cu (wt.%)": "4.4",
+        "Mg (wt.%)": "1.5",
+        "Zn (wt.%)": "0.2",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.6",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy System & Temper": "Al 7075-T6",
+        "Al (wt.%)": "90.0",
+        "Cu (wt.%)": "1.6",
+        "Mg (wt.%)": "2.5",
+        "Zn (wt.%)": "5.6",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.1",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy System & Temper": "Al 6061-T6",
+        "Al (wt.%)": "97.5",
+        "Cu (wt.%)": "0.3",
+        "Mg (wt.%)": "1.0",
+        "Zn (wt.%)": "0.1",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.15",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy System & Temper": "Al-Li 2195-T8",
+        "Al (wt.%)": "94.0",
+        "Cu (wt.%)": "4.0",
+        "Mg (wt.%)": "0.4",
+        "Zn (wt.%)": "0.1",
+        "Li (wt.%)": "1.0",
+        "Mn (wt.%)": "0.1",
+        "Zr (wt.%)": "0.11"
+      },
+      {
+        "Alloy System & Temper": "Al 7050-T7451",
+        "Al (wt.%)": "89.0",
+        "Cu (wt.%)": "2.3",
+        "Mg (wt.%)": "2.1",
+        "Zn (wt.%)": "6.2",
+        "Li (wt.%)": "-",
+        "Mn (wt.%)": "0.05",
+        "Zr (wt.%)": "0.12"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "caption": "Mechanical tensile properties, density, and fracture toughness (K1c).",
+    "footnote": "Tested in longitudinal (L) direction at room temperature in accordance with ASTM E8.",
+    "headers": [
+      "Alloy Specification",
+      "Density (g/cm3)",
+      "Yield Strength (MPa)",
+      "Tensile Strength (MPa)",
+      "Elongation (%)",
+      "Fracture Toughness K1c (MPa m^0.5)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Alloy Specification": "Al 2024-T3",
+        "Density (g/cm3)": "2.78",
+        "Yield Strength (MPa)": "345",
+        "Tensile Strength (MPa)": "485",
+        "Elongation (%)": "18.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "36.0"
+      },
+      {
+        "Alloy Specification": "Al 7075-T6",
+        "Density (g/cm3)": "2.81",
+        "Yield Strength (MPa)": "505",
+        "Tensile Strength (MPa)": "570",
+        "Elongation (%)": "11.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "29.0"
+      },
+      {
+        "Alloy Specification": "Al 6061-T6",
+        "Density (g/cm3)": "2.70",
+        "Yield Strength (MPa)": "275",
+        "Tensile Strength (MPa)": "310",
+        "Elongation (%)": "14.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "30.0"
+      },
+      {
+        "Alloy Specification": "Al-Li 2195-T8",
+        "Density (g/cm3)": "2.71",
+        "Yield Strength (MPa)": "565",
+        "Tensile Strength (MPa)": "605",
+        "Elongation (%)": "9.5",
+        "Fracture Toughness K1c (MPa m^0.5)": "34.0"
+      },
+      {
+        "Alloy Specification": "Al 7050-T7451",
+        "Density (g/cm3)": "2.83",
+        "Yield Strength (MPa)": "470",
+        "Tensile Strength (MPa)": "525",
+        "Elongation (%)": "12.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "38.5"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy Specification": "Al 2024-T3",
+        "Density (g/cm3)": "2.78",
+        "Yield Strength (MPa)": "345",
+        "Tensile Strength (MPa)": "485",
+        "Elongation (%)": "18.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "36.0"
+      },
+      {
+        "Alloy Specification": "Al 7075-T6",
+        "Density (g/cm3)": "2.81",
+        "Yield Strength (MPa)": "505",
+        "Tensile Strength (MPa)": "570",
+        "Elongation (%)": "11.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "29.0"
+      },
+      {
+        "Alloy Specification": "Al 6061-T6",
+        "Density (g/cm3)": "2.70",
+        "Yield Strength (MPa)": "275",
+        "Tensile Strength (MPa)": "310",
+        "Elongation (%)": "14.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "30.0"
+      },
+      {
+        "Alloy Specification": "Al-Li 2195-T8",
+        "Density (g/cm3)": "2.71",
+        "Yield Strength (MPa)": "565",
+        "Tensile Strength (MPa)": "605",
+        "Elongation (%)": "9.5",
+        "Fracture Toughness K1c (MPa m^0.5)": "34.0"
+      },
+      {
+        "Alloy Specification": "Al 7050-T7451",
+        "Density (g/cm3)": "2.83",
+        "Yield Strength (MPa)": "470",
+        "Tensile Strength (MPa)": "525",
+        "Elongation (%)": "12.0",
+        "Fracture Toughness K1c (MPa m^0.5)": "38.5"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "caption": "Nominal dopant composition (mol%) and stoichiometry of SOFC electrolyte and electrode ceramics.",
+    "footnote": "Powders synthesized via co-precipitation and sintered at 1400 deg C for 4 hours.",
+    "headers": [
+      "Ceramic Formulation",
+      "ZrO2 (mol%)",
+      "Y2O3 (mol%)",
+      "CeO2 (mol%)",
+      "Gd2O3 (mol%)",
+      "La2O3 (mol%)",
+      "SrO (mol%)",
+      "NiO (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Ceramic Formulation": "8YSZ (8 mol% Y2O3-ZrO2)",
+        "ZrO2 (mol%)": "92.0",
+        "Y2O3 (mol%)": "8.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "10CGO (Ce0.9Gd0.1O1.95)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "90.0",
+        "Gd2O3 (mol%)": "10.0",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "Ni-8YSZ Anode Cermet (50:50)",
+        "ZrO2 (mol%)": "46.0",
+        "Y2O3 (mol%)": "4.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "50.0"
+      },
+      {
+        "Ceramic Formulation": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "40.0",
+        "SrO (mol%)": "10.0",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "30.0",
+        "SrO (mol%)": "20.0",
+        "NiO (wt.%)": "-"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Ceramic Formulation": "8YSZ (8 mol% Y2O3-ZrO2)",
+        "ZrO2 (mol%)": "92.0",
+        "Y2O3 (mol%)": "8.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "10CGO (Ce0.9Gd0.1O1.95)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "90.0",
+        "Gd2O3 (mol%)": "10.0",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "Ni-8YSZ Anode Cermet (50:50)",
+        "ZrO2 (mol%)": "46.0",
+        "Y2O3 (mol%)": "4.0",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "-",
+        "SrO (mol%)": "-",
+        "NiO (wt.%)": "50.0"
+      },
+      {
+        "Ceramic Formulation": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "40.0",
+        "SrO (mol%)": "10.0",
+        "NiO (wt.%)": "-"
+      },
+      {
+        "Ceramic Formulation": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+        "ZrO2 (mol%)": "-",
+        "Y2O3 (mol%)": "-",
+        "CeO2 (mol%)": "-",
+        "Gd2O3 (mol%)": "-",
+        "La2O3 (mol%)": "30.0",
+        "SrO (mol%)": "20.0",
+        "NiO (wt.%)": "-"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "caption": "Ionic conductivity, activation energy, and thermal expansion coefficients.",
+    "footnote": "Electrical conductivity determined by AC impedance spectroscopy from 500 to 900 deg C in air.",
+    "headers": [
+      "Material Name",
+      "Ionic Conductivity at 800C (S/cm)",
+      "Activation Energy (eV)",
+      "Thermal Expansion CTE (10^-6 /K)",
+      "Relative Density (%)",
+      "Vickers Hardness (GPa)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Material Name": "8YSZ (8 mol% Y2O3-ZrO2)",
+        "Ionic Conductivity at 800C (S/cm)": "0.100",
+        "Activation Energy (eV)": "0.92",
+        "Thermal Expansion CTE (10^-6 /K)": "10.5",
+        "Relative Density (%)": "98.5",
+        "Vickers Hardness (GPa)": "12.5"
+      },
+      {
+        "Material Name": "10CGO (Ce0.9Gd0.1O1.95)",
+        "Ionic Conductivity at 800C (S/cm)": "0.180",
+        "Activation Energy (eV)": "0.76",
+        "Thermal Expansion CTE (10^-6 /K)": "12.2",
+        "Relative Density (%)": "97.8",
+        "Vickers Hardness (GPa)": "9.2"
+      },
+      {
+        "Material Name": "Ni-8YSZ Anode Cermet (50:50)",
+        "Ionic Conductivity at 800C (S/cm)": "0.045",
+        "Activation Energy (eV)": "1.10",
+        "Thermal Expansion CTE (10^-6 /K)": "12.8",
+        "Relative Density (%)": "94.2",
+        "Vickers Hardness (GPa)": "8.0"
+      },
+      {
+        "Material Name": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+        "Ionic Conductivity at 800C (S/cm)": "0.170",
+        "Activation Energy (eV)": "0.85",
+        "Thermal Expansion CTE (10^-6 /K)": "11.4",
+        "Relative Density (%)": "96.5",
+        "Vickers Hardness (GPa)": "10.8"
+      },
+      {
+        "Material Name": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+        "Ionic Conductivity at 800C (S/cm)": "0.030",
+        "Activation Energy (eV)": "1.25",
+        "Thermal Expansion CTE (10^-6 /K)": "15.3",
+        "Relative Density (%)": "95.0",
+        "Vickers Hardness (GPa)": "7.5"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Material Name": "8YSZ (8 mol% Y2O3-ZrO2)",
+        "Ionic Conductivity at 800C (S/cm)": "0.100",
+        "Activation Energy (eV)": "0.92",
+        "Thermal Expansion CTE (10^-6 /K)": "10.5",
+        "Relative Density (%)": "98.5",
+        "Vickers Hardness (GPa)": "12.5"
+      },
+      {
+        "Material Name": "10CGO (Ce0.9Gd0.1O1.95)",
+        "Ionic Conductivity at 800C (S/cm)": "0.180",
+        "Activation Energy (eV)": "0.76",
+        "Thermal Expansion CTE (10^-6 /K)": "12.2",
+        "Relative Density (%)": "97.8",
+        "Vickers Hardness (GPa)": "9.2"
+      },
+      {
+        "Material Name": "Ni-8YSZ Anode Cermet (50:50)",
+        "Ionic Conductivity at 800C (S/cm)": "0.045",
+        "Activation Energy (eV)": "1.10",
+        "Thermal Expansion CTE (10^-6 /K)": "12.8",
+        "Relative Density (%)": "94.2",
+        "Vickers Hardness (GPa)": "8.0"
+      },
+      {
+        "Material Name": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+        "Ionic Conductivity at 800C (S/cm)": "0.170",
+        "Activation Energy (eV)": "0.85",
+        "Thermal Expansion CTE (10^-6 /K)": "11.4",
+        "Relative Density (%)": "96.5",
+        "Vickers Hardness (GPa)": "10.8"
+      },
+      {
+        "Material Name": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+        "Ionic Conductivity at 800C (S/cm)": "0.030",
+        "Activation Energy (eV)": "1.25",
+        "Thermal Expansion CTE (10^-6 /K)": "15.3",
+        "Relative Density (%)": "95.0",
+        "Vickers Hardness (GPa)": "7.5"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "caption": "Nominal elemental composition (at.%) of investigated shape memory alloys.",
+    "footnote": "Alloys cast in induction skull melting furnace under purified argon.",
+    "headers": [
+      "SMA Designation",
+      "Ni (at.%)",
+      "Ti (at.%)",
+      "Cu (at.%)",
+      "Al (at.%)",
+      "Fe (at.%)",
+      "Pd (at.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 7,
+    "raw_records": [
+      {
+        "SMA Designation": "Ni50.2Ti49.8 (Nitinol SE508)",
+        "Ni (at.%)": "50.2",
+        "Ti (at.%)": "49.8",
+        "Cu (at.%)": "-",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Ni50Ti45Cu5 (Ternary Nitinol)",
+        "Ni (at.%)": "50.0",
+        "Ti (at.%)": "45.0",
+        "Cu (at.%)": "5.0",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Cu72Al18Ni10 (Cu-based SMA)",
+        "Ni (at.%)": "10.0",
+        "Ti (at.%)": "-",
+        "Cu (at.%)": "72.0",
+        "Al (at.%)": "18.0",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Ni45Ti50Fe5 (Low-hysteresis)",
+        "Ni (at.%)": "45.0",
+        "Ti (at.%)": "50.0",
+        "Cu (at.%)": "-",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "5.0",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Ni30Ti50Pd20 (High-temperature SMA)",
+        "Ni (at.%)": "30.0",
+        "Ti (at.%)": "50.0",
+        "Cu (at.%)": "-",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "20.0"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "SMA Designation": "Ni50.2Ti49.8 (Nitinol SE508)",
+        "Ni (at.%)": "50.2",
+        "Ti (at.%)": "49.8",
+        "Cu (at.%)": "-",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Ni50Ti45Cu5 (Ternary Nitinol)",
+        "Ni (at.%)": "50.0",
+        "Ti (at.%)": "45.0",
+        "Cu (at.%)": "5.0",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Cu72Al18Ni10 (Cu-based SMA)",
+        "Ni (at.%)": "10.0",
+        "Ti (at.%)": "-",
+        "Cu (at.%)": "72.0",
+        "Al (at.%)": "18.0",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Ni45Ti50Fe5 (Low-hysteresis)",
+        "Ni (at.%)": "45.0",
+        "Ti (at.%)": "50.0",
+        "Cu (at.%)": "-",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "5.0",
+        "Pd (at.%)": "-"
+      },
+      {
+        "SMA Designation": "Ni30Ti50Pd20 (High-temperature SMA)",
+        "Ni (at.%)": "30.0",
+        "Ti (at.%)": "50.0",
+        "Cu (at.%)": "-",
+        "Al (at.%)": "-",
+        "Fe (at.%)": "-",
+        "Pd (at.%)": "20.0"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "caption": "Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.",
+    "footnote": "Transformation temperatures measured via DSC at 10 K/min. Superelastic strain recorded under tensile loading at Af + 15 deg C.",
+    "headers": [
+      "Alloy System",
+      "Martensite Start Ms (deg C)",
+      "Austenite Finish Af (deg C)",
+      "Recoverable Strain (%)",
+      "Plateau Stress (MPa)",
+      "Density (g/cm3)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Alloy System": "Ni50.2Ti49.8 (Nitinol SE508)",
+        "Martensite Start Ms (deg C)": "-15.0",
+        "Austenite Finish Af (deg C)": "12.0",
+        "Recoverable Strain (%)": "8.2",
+        "Plateau Stress (MPa)": "420",
+        "Density (g/cm3)": "6.45"
+      },
+      {
+        "Alloy System": "Ni50Ti45Cu5 (Ternary Nitinol)",
+        "Martensite Start Ms (deg C)": "22.0",
+        "Austenite Finish Af (deg C)": "48.0",
+        "Recoverable Strain (%)": "6.5",
+        "Plateau Stress (MPa)": "350",
+        "Density (g/cm3)": "6.50"
+      },
+      {
+        "Alloy System": "Cu72Al18Ni10 (Cu-based SMA)",
+        "Martensite Start Ms (deg C)": "-40.0",
+        "Austenite Finish Af (deg C)": "-10.0",
+        "Recoverable Strain (%)": "4.8",
+        "Plateau Stress (MPa)": "280",
+        "Density (g/cm3)": "7.12"
+      },
+      {
+        "Alloy System": "Ni45Ti50Fe5 (Low-hysteresis)",
+        "Martensite Start Ms (deg C)": "-85.0",
+        "Austenite Finish Af (deg C)": "-55.0",
+        "Recoverable Strain (%)": "5.0",
+        "Plateau Stress (MPa)": "510",
+        "Density (g/cm3)": "6.42"
+      },
+      {
+        "Alloy System": "Ni30Ti50Pd20 (High-temperature SMA)",
+        "Martensite Start Ms (deg C)": "180.0",
+        "Austenite Finish Af (deg C)": "215.0",
+        "Recoverable Strain (%)": "3.8",
+        "Plateau Stress (MPa)": "620",
+        "Density (g/cm3)": "7.28"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy System": "Ni50.2Ti49.8 (Nitinol SE508)",
+        "Martensite Start Ms (deg C)": "-15.0",
+        "Austenite Finish Af (deg C)": "12.0",
+        "Recoverable Strain (%)": "8.2",
+        "Plateau Stress (MPa)": "420",
+        "Density (g/cm3)": "6.45"
+      },
+      {
+        "Alloy System": "Ni50Ti45Cu5 (Ternary Nitinol)",
+        "Martensite Start Ms (deg C)": "22.0",
+        "Austenite Finish Af (deg C)": "48.0",
+        "Recoverable Strain (%)": "6.5",
+        "Plateau Stress (MPa)": "350",
+        "Density (g/cm3)": "6.50"
+      },
+      {
+        "Alloy System": "Cu72Al18Ni10 (Cu-based SMA)",
+        "Martensite Start Ms (deg C)": "-40.0",
+        "Austenite Finish Af (deg C)": "-10.0",
+        "Recoverable Strain (%)": "4.8",
+        "Plateau Stress (MPa)": "280",
+        "Density (g/cm3)": "7.12"
+      },
+      {
+        "Alloy System": "Ni45Ti50Fe5 (Low-hysteresis)",
+        "Martensite Start Ms (deg C)": "-85.0",
+        "Austenite Finish Af (deg C)": "-55.0",
+        "Recoverable Strain (%)": "5.0",
+        "Plateau Stress (MPa)": "510",
+        "Density (g/cm3)": "6.42"
+      },
+      {
+        "Alloy System": "Ni30Ti50Pd20 (High-temperature SMA)",
+        "Martensite Start Ms (deg C)": "180.0",
+        "Austenite Finish Af (deg C)": "215.0",
+        "Recoverable Strain (%)": "3.8",
+        "Plateau Stress (MPa)": "620",
+        "Density (g/cm3)": "7.28"
+      }
+    ]
+  }
+]

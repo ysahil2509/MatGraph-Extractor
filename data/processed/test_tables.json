@@ -1,0 +1,352 @@
+[
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "caption": "Oxide composition (wt.%) of synthesized bioactive and specialty glass systems.",
+    "footnote": "Glasses melted in platinum crucibles at 1400-1450 deg C and annealed near glass transition.",
+    "headers": [
+      "Glass Code",
+      "SiO2 (wt.%)",
+      "Na2O (wt.%)",
+      "CaO (wt.%)",
+      "P2O5 (wt.%)",
+      "B2O3 (wt.%)",
+      "MgO (wt.%)",
+      "K2O (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Glass Code": "45S5 Bioglass",
+        "SiO2 (wt.%)": "45.0",
+        "Na2O (wt.%)": "24.5",
+        "CaO (wt.%)": "24.5",
+        "P2O5 (wt.%)": "6.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "13-93 Bioactive Glass",
+        "SiO2 (wt.%)": "53.0",
+        "Na2O (wt.%)": "6.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "12.0"
+      },
+      {
+        "Glass Code": "Borate 01 Glass (B-1)",
+        "SiO2 (wt.%)": "15.0",
+        "Na2O (wt.%)": "15.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "46.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "ICIE16 Silicate Glass",
+        "SiO2 (wt.%)": "48.0",
+        "Na2O (wt.%)": "12.0",
+        "CaO (wt.%)": "32.0",
+        "P2O5 (wt.%)": "3.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "Pyrex Borosilicate Glass",
+        "SiO2 (wt.%)": "81.0",
+        "Na2O (wt.%)": "4.0",
+        "CaO (wt.%)": "-",
+        "P2O5 (wt.%)": "-",
+        "B2O3 (wt.%)": "13.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "2.0"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Glass Code": "45S5 Bioglass",
+        "SiO2 (wt.%)": "45.0",
+        "Na2O (wt.%)": "24.5",
+        "CaO (wt.%)": "24.5",
+        "P2O5 (wt.%)": "6.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "13-93 Bioactive Glass",
+        "SiO2 (wt.%)": "53.0",
+        "Na2O (wt.%)": "6.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "12.0"
+      },
+      {
+        "Glass Code": "Borate 01 Glass (B-1)",
+        "SiO2 (wt.%)": "15.0",
+        "Na2O (wt.%)": "15.0",
+        "CaO (wt.%)": "20.0",
+        "P2O5 (wt.%)": "4.0",
+        "B2O3 (wt.%)": "46.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "ICIE16 Silicate Glass",
+        "SiO2 (wt.%)": "48.0",
+        "Na2O (wt.%)": "12.0",
+        "CaO (wt.%)": "32.0",
+        "P2O5 (wt.%)": "3.0",
+        "B2O3 (wt.%)": "-",
+        "MgO (wt.%)": "5.0",
+        "K2O (wt.%)": "-"
+      },
+      {
+        "Glass Code": "Pyrex Borosilicate Glass",
+        "SiO2 (wt.%)": "81.0",
+        "Na2O (wt.%)": "4.0",
+        "CaO (wt.%)": "-",
+        "P2O5 (wt.%)": "-",
+        "B2O3 (wt.%)": "13.0",
+        "MgO (wt.%)": "-",
+        "K2O (wt.%)": "2.0"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "table_index": 1,
+    "table_id": "tbl0001",
+    "doi": "10.1016/j.msea.2023.144890",
+    "caption": "Chemical nominal composition (wt.%) of investigated titanium alloys.",
+    "footnote": "Balance is Ti in all alloy compositions. Impurities (O, N, C, H, Fe) remain below 0.15 wt.%.",
+    "headers": [
+      "Alloy Designation",
+      "Ti (wt.%)",
+      "Al (wt.%)",
+      "V (wt.%)",
+      "Mo (wt.%)",
+      "Fe (wt.%)",
+      "Sn (wt.%)",
+      "Zr (wt.%)"
+    ],
+    "num_rows": 5,
+    "num_cols": 8,
+    "raw_records": [
+      {
+        "Alloy Designation": "Ti-6Al-4V (Grade 5)",
+        "Ti (wt.%)": "89.0",
+        "Al (wt.%)": "6.2",
+        "V (wt.%)": "4.1",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-6Al-2Sn-4Zr-2Mo",
+        "Ti (wt.%)": "86.0",
+        "Al (wt.%)": "6.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "2.0",
+        "Fe (wt.%)": "0.1",
+        "Sn (wt.%)": "2.0",
+        "Zr (wt.%)": "4.0"
+      },
+      {
+        "Alloy Designation": "Ti-10V-2Fe-3Al",
+        "Ti (wt.%)": "85.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "10.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "2.0",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-5Al-2.5Sn (Grade 6)",
+        "Ti (wt.%)": "92.5",
+        "Al (wt.%)": "5.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "2.5",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-15V-3Cr-3Sn-3Al",
+        "Ti (wt.%)": "76.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "15.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "3.0",
+        "Zr (wt.%)": "-"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Alloy Designation": "Ti-6Al-4V (Grade 5)",
+        "Ti (wt.%)": "89.0",
+        "Al (wt.%)": "6.2",
+        "V (wt.%)": "4.1",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-6Al-2Sn-4Zr-2Mo",
+        "Ti (wt.%)": "86.0",
+        "Al (wt.%)": "6.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "2.0",
+        "Fe (wt.%)": "0.1",
+        "Sn (wt.%)": "2.0",
+        "Zr (wt.%)": "4.0"
+      },
+      {
+        "Alloy Designation": "Ti-10V-2Fe-3Al",
+        "Ti (wt.%)": "85.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "10.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "2.0",
+        "Sn (wt.%)": "-",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-5Al-2.5Sn (Grade 6)",
+        "Ti (wt.%)": "92.5",
+        "Al (wt.%)": "5.0",
+        "V (wt.%)": "-",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "2.5",
+        "Zr (wt.%)": "-"
+      },
+      {
+        "Alloy Designation": "Ti-15V-3Cr-3Sn-3Al",
+        "Ti (wt.%)": "76.0",
+        "Al (wt.%)": "3.0",
+        "V (wt.%)": "15.0",
+        "Mo (wt.%)": "-",
+        "Fe (wt.%)": "0.2",
+        "Sn (wt.%)": "3.0",
+        "Zr (wt.%)": "-"
+      }
+    ]
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "table_index": 2,
+    "table_id": "tbl0002",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "caption": "Electrochemical performance parameters and energy density of lithium cathode materials.",
+    "footnote": "Tested in 2032 coin cells against metallic Lithium counter electrode between 2.5V and 4.3V vs Li/Li+ at 0.1C rate.",
+    "headers": [
+      "Cathode Formula",
+      "Specific Capacity (mAh/g)",
+      "Nominal Voltage (V)",
+      "Energy Density (Wh/kg)",
+      "Cycle Retention (%)",
+      "Tap Density (g/cm3)"
+    ],
+    "num_rows": 5,
+    "num_cols": 6,
+    "raw_records": [
+      {
+        "Cathode Formula": "LiCoO2 (LCO)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.90",
+        "Energy Density (Wh/kg)": "624",
+        "Cycle Retention (%)": "92.0",
+        "Tap Density (g/cm3)": "2.80"
+      },
+      {
+        "Cathode Formula": "LiFePO4 (LFP)",
+        "Specific Capacity (mAh/g)": "165",
+        "Nominal Voltage (V)": "3.45",
+        "Energy Density (Wh/kg)": "569",
+        "Cycle Retention (%)": "98.5",
+        "Tap Density (g/cm3)": "1.30"
+      },
+      {
+        "Cathode Formula": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Specific Capacity (mAh/g)": "200",
+        "Nominal Voltage (V)": "3.75",
+        "Energy Density (Wh/kg)": "750",
+        "Cycle Retention (%)": "88.0",
+        "Tap Density (g/cm3)": "2.60"
+      },
+      {
+        "Cathode Formula": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.80",
+        "Energy Density (Wh/kg)": "608",
+        "Cycle Retention (%)": "94.0",
+        "Tap Density (g/cm3)": "2.40"
+      },
+      {
+        "Cathode Formula": "LiMn2O4 (LMO)",
+        "Specific Capacity (mAh/g)": "120",
+        "Nominal Voltage (V)": "4.05",
+        "Energy Density (Wh/kg)": "486",
+        "Cycle Retention (%)": "82.0",
+        "Tap Density (g/cm3)": "2.10"
+      }
+    ],
+    "cleaned_records": [
+      {
+        "Cathode Formula": "LiCoO2 (LCO)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.90",
+        "Energy Density (Wh/kg)": "624",
+        "Cycle Retention (%)": "92.0",
+        "Tap Density (g/cm3)": "2.80"
+      },
+      {
+        "Cathode Formula": "LiFePO4 (LFP)",
+        "Specific Capacity (mAh/g)": "165",
+        "Nominal Voltage (V)": "3.45",
+        "Energy Density (Wh/kg)": "569",
+        "Cycle Retention (%)": "98.5",
+        "Tap Density (g/cm3)": "1.30"
+      },
+      {
+        "Cathode Formula": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+        "Specific Capacity (mAh/g)": "200",
+        "Nominal Voltage (V)": "3.75",
+        "Energy Density (Wh/kg)": "750",
+        "Cycle Retention (%)": "88.0",
+        "Tap Density (g/cm3)": "2.60"
+      },
+      {
+        "Cathode Formula": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+        "Specific Capacity (mAh/g)": "160",
+        "Nominal Voltage (V)": "3.80",
+        "Energy Density (Wh/kg)": "608",
+        "Cycle Retention (%)": "94.0",
+        "Tap Density (g/cm3)": "2.40"
+      },
+      {
+        "Cathode Formula": "LiMn2O4 (LMO)",
+        "Specific Capacity (mAh/g)": "120",
+        "Nominal Voltage (V)": "4.05",
+        "Energy Density (Wh/kg)": "486",
+        "Cycle Retention (%)": "82.0",
+        "Tap Density (g/cm3)": "2.10"
+      }
+    ]
+  }
+]

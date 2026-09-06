@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.actamat.2023.118942</ce:doi>
+    <ce:pii>S135964542300189X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Phase stability, microhardness, and compression yield strength in equiatomic and non-equiatomic multi-principal element alloys</ce:title>
+    <ce:abstract>
+      <ce:simple-para>High-entropy alloys (HEAs) composed of five or more elements in near-equimolar ratios exhibit excellent strength-ductility balance. We measure the phase composition, Vickers hardness, compressive yield strength, and density of Cantor-derivative alloys.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Phase stability, microhardness, and compression yield strength in equiatomic and non-equiatomic multi-principal element alloys. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Chemical composition (at.%) and crystal structure of synthesized high-entropy alloys.</ce:caption>
+          <tgroup cols="8">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <colspec colname="col8" colnum="8" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Alloy Formulation</entry>
+                <entry align="center">Al (at.%)</entry>
+                <entry align="center">Co (at.%)</entry>
+                <entry align="center">Cr (at.%)</entry>
+                <entry align="center">Fe (at.%)</entry>
+                <entry align="center">Ni (at.%)</entry>
+                <entry align="center">Mn (at.%)</entry>
+                <entry align="center">Crystal Structure</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">CoCrFeNi (Base 4-HEA)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">25.0</entry>
+                <entry align="center">25.0</entry>
+                <entry align="center">25.0</entry>
+                <entry align="center">25.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">Single FCC</entry>
+              </row>
+              <row>
+                <entry align="center">CoCrFeMnNi (Cantor Alloy)</entry>
+                <entry align="center">-</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">Single FCC</entry>
+              </row>
+              <row>
+                <entry align="center">Al0.3CoCrFeNi</entry>
+                <entry align="center">6.98</entry>
+                <entry align="center">23.25</entry>
+                <entry align="center">23.25</entry>
+                <entry align="center">23.25</entry>
+                <entry align="center">23.25</entry>
+                <entry align="center">-</entry>
+                <entry align="center">FCC + minor BCC</entry>
+              </row>
+              <row>
+                <entry align="center">Al0.7CoCrFeNi</entry>
+                <entry align="center">14.89</entry>
+                <entry align="center">21.28</entry>
+                <entry align="center">21.28</entry>
+                <entry align="center">21.28</entry>
+                <entry align="center">21.28</entry>
+                <entry align="center">-</entry>
+                <entry align="center">BCC + B2 + FCC</entry>
+              </row>
+              <row>
+                <entry align="center">AlCoCrFeNi (Equimolar)</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">20.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">BCC + B2</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Ingots prepared by vacuum arc melting under high-purity argon atmosphere.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Mechanical properties and density of high-entropy alloys in as-cast condition.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Alloy System</entry>
+                <entry align="center">Vickers Hardness (HV)</entry>
+                <entry align="center">Yield Strength (MPa)</entry>
+                <entry align="center">Compressive Strength (MPa)</entry>
+                <entry align="center">Plastic Strain (%)</entry>
+                <entry align="center">Density (g/cm3)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">CoCrFeNi (Base 4-HEA)</entry>
+                <entry align="center">145</entry>
+                <entry align="center">185</entry>
+                <entry align="center">790</entry>
+                <entry align="center">52.0</entry>
+                <entry align="center">8.25</entry>
+              </row>
+              <row>
+                <entry align="center">CoCrFeMnNi (Cantor Alloy)</entry>
+                <entry align="center">160</entry>
+                <entry align="center">215</entry>
+                <entry align="center">840</entry>
+                <entry align="center">48.5</entry>
+                <entry align="center">8.04</entry>
+              </row>
+              <row>
+                <entry align="center">Al0.3CoCrFeNi</entry>
+                <entry align="center">220</entry>
+                <entry align="center">310</entry>
+                <entry align="center">980</entry>
+                <entry align="center">39.0</entry>
+                <entry align="center">7.78</entry>
+              </row>
+              <row>
+                <entry align="center">Al0.7CoCrFeNi</entry>
+                <entry align="center">380</entry>
+                <entry align="center">780</entry>
+                <entry align="center">1420</entry>
+                <entry align="center">21.5</entry>
+                <entry align="center">7.45</entry>
+              </row>
+              <row>
+                <entry align="center">AlCoCrFeNi (Equimolar)</entry>
+                <entry align="center">510</entry>
+                <entry align="center">1250</entry>
+                <entry align="center">2050</entry>
+                <entry align="center">14.0</entry>
+                <entry align="center">7.15</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Compression testing performed with cylindrical samples of aspect ratio 2:1 at 10^-4 s^-1 strain rate.</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

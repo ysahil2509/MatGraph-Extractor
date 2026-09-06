@@ -1,0 +1,6829 @@
+[
+  {
+    "source": "header",
+    "text": "Alloy System",
+    "tokens": [
+      "Alloy",
+      "System"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Martensite Start Ms (deg C)",
+    "tokens": [
+      "Martensite",
+      "Start",
+      "Ms",
+      "(deg",
+      "C)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Austenite Finish Af (deg C)",
+    "tokens": [
+      "Austenite",
+      "Finish",
+      "Af",
+      "(deg",
+      "C)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Recoverable Strain (%)",
+    "tokens": [
+      "Recoverable",
+      "Strain",
+      "(%)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Plateau Stress (MPa)",
+    "tokens": [
+      "Plateau",
+      "Stress",
+      "(MPa)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Density (g/cm3)",
+    "tokens": [
+      "Density",
+      "(g/cm3)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "tokens": [
+      "Ni50.2Ti49.8",
+      "(Nitinol",
+      "SE508)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Martensite Start Ms (deg C)",
+    "text": "-15.0",
+    "tokens": [
+      "-15.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Austenite Finish Af (deg C)",
+    "text": "12.0",
+    "tokens": [
+      "12.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Recoverable Strain (%)",
+    "text": "8.2",
+    "tokens": [
+      "8.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plateau Stress (MPa)",
+    "text": "420",
+    "tokens": [
+      "420"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "6.45",
+    "tokens": [
+      "6.45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "tokens": [
+      "Ni50Ti45Cu5",
+      "(Ternary",
+      "Nitinol)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Martensite Start Ms (deg C)",
+    "text": "22.0",
+    "tokens": [
+      "22.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Austenite Finish Af (deg C)",
+    "text": "48.0",
+    "tokens": [
+      "48.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Recoverable Strain (%)",
+    "text": "6.5",
+    "tokens": [
+      "6.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plateau Stress (MPa)",
+    "text": "350",
+    "tokens": [
+      "350"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "6.50",
+    "tokens": [
+      "6.50"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "Cu72Al18Ni10 (Cu-based SMA)",
+    "tokens": [
+      "Cu72Al18Ni10",
+      "(Cu-based",
+      "SMA)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Martensite Start Ms (deg C)",
+    "text": "-40.0",
+    "tokens": [
+      "-40.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Austenite Finish Af (deg C)",
+    "text": "-10.0",
+    "tokens": [
+      "-10.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Recoverable Strain (%)",
+    "text": "4.8",
+    "tokens": [
+      "4.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plateau Stress (MPa)",
+    "text": "280",
+    "tokens": [
+      "280"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "7.12",
+    "tokens": [
+      "7.12"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "tokens": [
+      "Ni45Ti50Fe5",
+      "(Low-hysteresis)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Martensite Start Ms (deg C)",
+    "text": "-85.0",
+    "tokens": [
+      "-85.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Austenite Finish Af (deg C)",
+    "text": "-55.0",
+    "tokens": [
+      "-55.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Recoverable Strain (%)",
+    "text": "5.0",
+    "tokens": [
+      "5.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plateau Stress (MPa)",
+    "text": "510",
+    "tokens": [
+      "510"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "6.42",
+    "tokens": [
+      "6.42"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System",
+    "text": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "tokens": [
+      "Ni30Ti50Pd20",
+      "(High-temperature",
+      "SMA)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Martensite Start Ms (deg C)",
+    "text": "180.0",
+    "tokens": [
+      "180.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Austenite Finish Af (deg C)",
+    "text": "215.0",
+    "tokens": [
+      "215.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Recoverable Strain (%)",
+    "text": "3.8",
+    "tokens": [
+      "3.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Plateau Stress (MPa)",
+    "text": "620",
+    "tokens": [
+      "620"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "7.28",
+    "tokens": [
+      "7.28"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ceramic System",
+    "tokens": [
+      "Ceramic",
+      "System"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Dielectric Constant",
+    "tokens": [
+      "Dielectric",
+      "Constant"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Dielectric Loss (tan delta)",
+    "tokens": [
+      "Dielectric",
+      "Loss",
+      "(tan",
+      "delta)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Curie Temperature (deg C)",
+    "tokens": [
+      "Curie",
+      "Temperature",
+      "(deg",
+      "C)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Piezoelectric Coefficient d33 (pC/N)",
+    "tokens": [
+      "Piezoelectric",
+      "Coefficient",
+      "d33",
+      "(pC/N)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Remanent Polarization (uC/cm2)",
+    "tokens": [
+      "Remanent",
+      "Polarization",
+      "(uC/cm2)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic System",
+    "text": "BaTiO3 (BT)",
+    "tokens": [
+      "BaTiO3",
+      "(BT)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Constant",
+    "text": "1800",
+    "tokens": [
+      "1800"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Loss (tan delta)",
+    "text": "0.015",
+    "tokens": [
+      "0.015"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Curie Temperature (deg C)",
+    "text": "120",
+    "tokens": [
+      "120"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Piezoelectric Coefficient d33 (pC/N)",
+    "text": "190",
+    "tokens": [
+      "190"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Remanent Polarization (uC/cm2)",
+    "text": "16.0",
+    "tokens": [
+      "16.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic System",
+    "text": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "tokens": [
+      "Pb(Zr0.52Ti0.48)O3",
+      "(PZT-5H)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Constant",
+    "text": "3400",
+    "tokens": [
+      "3400"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Loss (tan delta)",
+    "text": "0.020",
+    "tokens": [
+      "0.020"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Curie Temperature (deg C)",
+    "text": "230",
+    "tokens": [
+      "230"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Piezoelectric Coefficient d33 (pC/N)",
+    "text": "590",
+    "tokens": [
+      "590"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Remanent Polarization (uC/cm2)",
+    "text": "32.0",
+    "tokens": [
+      "32.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic System",
+    "text": "(K0.5Na0.5)NbO3 (KNN)",
+    "tokens": [
+      "(K0.5Na0.5)NbO3",
+      "(KNN)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Constant",
+    "text": "850",
+    "tokens": [
+      "850"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Loss (tan delta)",
+    "text": "0.035",
+    "tokens": [
+      "0.035"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Curie Temperature (deg C)",
+    "text": "420",
+    "tokens": [
+      "420"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Piezoelectric Coefficient d33 (pC/N)",
+    "text": "160",
+    "tokens": [
+      "160"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Remanent Polarization (uC/cm2)",
+    "text": "22.5",
+    "tokens": [
+      "22.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic System",
+    "text": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "tokens": [
+      "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3",
+      "(BNT-BT)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Constant",
+    "text": "1250",
+    "tokens": [
+      "1250"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Loss (tan delta)",
+    "text": "0.040",
+    "tokens": [
+      "0.040"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Curie Temperature (deg C)",
+    "text": "288",
+    "tokens": [
+      "288"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Piezoelectric Coefficient d33 (pC/N)",
+    "text": "175",
+    "tokens": [
+      "175"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Remanent Polarization (uC/cm2)",
+    "text": "38.0",
+    "tokens": [
+      "38.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ceramic System",
+    "text": "BiFeO3 (BFO)",
+    "tokens": [
+      "BiFeO3",
+      "(BFO)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Constant",
+    "text": "150",
+    "tokens": [
+      "150"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Dielectric Loss (tan delta)",
+    "text": "0.080",
+    "tokens": [
+      "0.080"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Curie Temperature (deg C)",
+    "text": "830",
+    "tokens": [
+      "830"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Piezoelectric Coefficient d33 (pC/N)",
+    "text": "45",
+    "tokens": [
+      "45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Remanent Polarization (uC/cm2)",
+    "text": "65.0",
+    "tokens": [
+      "65.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Alloy System & Temper",
+    "tokens": [
+      "Alloy",
+      "System",
+      "&",
+      "Temper"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Al (wt.%)",
+    "tokens": [
+      "Al",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Cu (wt.%)",
+    "tokens": [
+      "Cu",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Mg (wt.%)",
+    "tokens": [
+      "Mg",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Zn (wt.%)",
+    "tokens": [
+      "Zn",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Li (wt.%)",
+    "tokens": [
+      "Li",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Mn (wt.%)",
+    "tokens": [
+      "Mn",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Zr (wt.%)",
+    "tokens": [
+      "Zr",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System & Temper",
+    "text": "Al 2024-T3",
+    "tokens": [
+      "Al",
+      "2024-T3"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "93.5",
+    "tokens": [
+      "93.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (wt.%)",
+    "text": "4.4",
+    "tokens": [
+      "4.4"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (wt.%)",
+    "text": "1.5",
+    "tokens": [
+      "1.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zn (wt.%)",
+    "text": "0.2",
+    "tokens": [
+      "0.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "0.6",
+    "tokens": [
+      "0.6"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System & Temper",
+    "text": "Al 7075-T6",
+    "tokens": [
+      "Al",
+      "7075-T6"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "90.0",
+    "tokens": [
+      "90.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (wt.%)",
+    "text": "1.6",
+    "tokens": [
+      "1.6"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (wt.%)",
+    "text": "2.5",
+    "tokens": [
+      "2.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zn (wt.%)",
+    "text": "5.6",
+    "tokens": [
+      "5.6"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "0.1",
+    "tokens": [
+      "0.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System & Temper",
+    "text": "Al 6061-T6",
+    "tokens": [
+      "Al",
+      "6061-T6"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "97.5",
+    "tokens": [
+      "97.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (wt.%)",
+    "text": "0.3",
+    "tokens": [
+      "0.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (wt.%)",
+    "text": "1.0",
+    "tokens": [
+      "1.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zn (wt.%)",
+    "text": "0.1",
+    "tokens": [
+      "0.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "0.15",
+    "tokens": [
+      "0.15"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System & Temper",
+    "text": "Al-Li 2195-T8",
+    "tokens": [
+      "Al-Li",
+      "2195-T8"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "94.0",
+    "tokens": [
+      "94.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (wt.%)",
+    "text": "4.0",
+    "tokens": [
+      "4.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (wt.%)",
+    "text": "0.4",
+    "tokens": [
+      "0.4"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zn (wt.%)",
+    "text": "0.1",
+    "tokens": [
+      "0.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "1.0",
+    "tokens": [
+      "1.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "0.1",
+    "tokens": [
+      "0.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "0.11",
+    "tokens": [
+      "0.11"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy System & Temper",
+    "text": "Al 7050-T7451",
+    "tokens": [
+      "Al",
+      "7050-T7451"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "89.0",
+    "tokens": [
+      "89.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (wt.%)",
+    "text": "2.3",
+    "tokens": [
+      "2.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (wt.%)",
+    "text": "2.1",
+    "tokens": [
+      "2.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zn (wt.%)",
+    "text": "6.2",
+    "tokens": [
+      "6.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Li (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (wt.%)",
+    "text": "0.05",
+    "tokens": [
+      "0.05"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "0.12",
+    "tokens": [
+      "0.12"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Material Name",
+    "tokens": [
+      "Material",
+      "Name"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "BaO (mol%)",
+    "tokens": [
+      "BaO",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "TiO2 (mol%)",
+    "tokens": [
+      "TiO2",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "PbO (mol%)",
+    "tokens": [
+      "PbO",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "ZrO2 (mol%)",
+    "tokens": [
+      "ZrO2",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "K2O (mol%)",
+    "tokens": [
+      "K2O",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Na2O (mol%)",
+    "tokens": [
+      "Na2O",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Nb2O5 (mol%)",
+    "tokens": [
+      "Nb2O5",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "BaTiO3 (BT)",
+    "tokens": [
+      "BaTiO3",
+      "(BT)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "BaO (mol%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "TiO2 (mol%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "PbO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nb2O5 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "tokens": [
+      "Pb(Zr0.52Ti0.48)O3",
+      "(PZT-5H)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "BaO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "TiO2 (mol%)",
+    "text": "24.0",
+    "tokens": [
+      "24.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "PbO (mol%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "26.0",
+    "tokens": [
+      "26.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nb2O5 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "(K0.5Na0.5)NbO3 (KNN)",
+    "tokens": [
+      "(K0.5Na0.5)NbO3",
+      "(KNN)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "BaO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "TiO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "PbO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (mol%)",
+    "text": "25.0",
+    "tokens": [
+      "25.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (mol%)",
+    "text": "25.0",
+    "tokens": [
+      "25.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nb2O5 (mol%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "tokens": [
+      "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3",
+      "(BNT-BT)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "BaO (mol%)",
+    "text": "3.0",
+    "tokens": [
+      "3.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "TiO2 (mol%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "PbO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (mol%)",
+    "text": "23.5",
+    "tokens": [
+      "23.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nb2O5 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "BiFeO3 (BFO)",
+    "tokens": [
+      "BiFeO3",
+      "(BFO)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "BaO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "TiO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "PbO (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "ZrO2 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nb2O5 (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Glass Designation",
+    "tokens": [
+      "Glass",
+      "Designation"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Density (g/cm3)",
+    "tokens": [
+      "Density",
+      "(g/cm3)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Glass Transition Tg (deg C)",
+    "tokens": [
+      "Glass",
+      "Transition",
+      "Tg",
+      "(deg",
+      "C)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Thermal Expansion CTE (10^-6 /K)",
+    "tokens": [
+      "Thermal",
+      "Expansion",
+      "CTE",
+      "(10^-6",
+      "/K)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Young's Modulus (GPa)",
+    "tokens": [
+      "Young's",
+      "Modulus",
+      "(GPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Vickers Hardness (GPa)",
+    "tokens": [
+      "Vickers",
+      "Hardness",
+      "(GPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Designation",
+    "text": "45S5 Bioglass",
+    "tokens": [
+      "45S5",
+      "Bioglass"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.73",
+    "tokens": [
+      "2.73"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Transition Tg (deg C)",
+    "text": "535",
+    "tokens": [
+      "535"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "15.1",
+    "tokens": [
+      "15.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Young's Modulus (GPa)",
+    "text": "35.0",
+    "tokens": [
+      "35.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "4.5",
+    "tokens": [
+      "4.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Designation",
+    "text": "13-93 Bioactive Glass",
+    "tokens": [
+      "13-93",
+      "Bioactive",
+      "Glass"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.68",
+    "tokens": [
+      "2.68"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Transition Tg (deg C)",
+    "text": "605",
+    "tokens": [
+      "605"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "12.8",
+    "tokens": [
+      "12.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Young's Modulus (GPa)",
+    "text": "68.0",
+    "tokens": [
+      "68.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "5.8",
+    "tokens": [
+      "5.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Designation",
+    "text": "Borate 01 Glass (B-1)",
+    "tokens": [
+      "Borate",
+      "01",
+      "Glass",
+      "(B-1)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.61",
+    "tokens": [
+      "2.61"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Transition Tg (deg C)",
+    "text": "495",
+    "tokens": [
+      "495"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "14.2",
+    "tokens": [
+      "14.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Young's Modulus (GPa)",
+    "text": "42.0",
+    "tokens": [
+      "42.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "4.1",
+    "tokens": [
+      "4.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Designation",
+    "text": "ICIE16 Silicate Glass",
+    "tokens": [
+      "ICIE16",
+      "Silicate",
+      "Glass"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.78",
+    "tokens": [
+      "2.78"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Transition Tg (deg C)",
+    "text": "560",
+    "tokens": [
+      "560"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "13.5",
+    "tokens": [
+      "13.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Young's Modulus (GPa)",
+    "text": "52.0",
+    "tokens": [
+      "52.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "5.2",
+    "tokens": [
+      "5.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Designation",
+    "text": "Pyrex Borosilicate Glass",
+    "tokens": [
+      "Pyrex",
+      "Borosilicate",
+      "Glass"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.23",
+    "tokens": [
+      "2.23"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Transition Tg (deg C)",
+    "text": "525",
+    "tokens": [
+      "525"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "3.3",
+    "tokens": [
+      "3.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Young's Modulus (GPa)",
+    "text": "64.0",
+    "tokens": [
+      "64.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "5.9",
+    "tokens": [
+      "5.9"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Material Identification",
+    "tokens": [
+      "Material",
+      "Identification"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Seebeck Coefficient (uV/K)",
+    "tokens": [
+      "Seebeck",
+      "Coefficient",
+      "(uV/K)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Electrical Conductivity (S/cm)",
+    "tokens": [
+      "Electrical",
+      "Conductivity",
+      "(S/cm)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Thermal Conductivity (W/mK)",
+    "tokens": [
+      "Thermal",
+      "Conductivity",
+      "(W/mK)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Power Factor (uW/cmK2)",
+    "tokens": [
+      "Power",
+      "Factor",
+      "(uW/cmK2)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Peak Figure of Merit ZT",
+    "tokens": [
+      "Peak",
+      "Figure",
+      "of",
+      "Merit",
+      "ZT"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Identification",
+    "text": "p-type (Bi0.25Sb0.75)2Te3",
+    "tokens": [
+      "p-type",
+      "(Bi0.25Sb0.75)2Te3"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Seebeck Coefficient (uV/K)",
+    "text": "225",
+    "tokens": [
+      "225"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Electrical Conductivity (S/cm)",
+    "text": "980",
+    "tokens": [
+      "980"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Conductivity (W/mK)",
+    "text": "1.20",
+    "tokens": [
+      "1.20"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Power Factor (uW/cmK2)",
+    "text": "49.6",
+    "tokens": [
+      "49.6"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Peak Figure of Merit ZT",
+    "text": "1.25",
+    "tokens": [
+      "1.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Identification",
+    "text": "n-type Bi2(Te0.95Se0.05)3",
+    "tokens": [
+      "n-type",
+      "Bi2(Te0.95Se0.05)3"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Seebeck Coefficient (uV/K)",
+    "text": "-210",
+    "tokens": [
+      "-210"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Electrical Conductivity (S/cm)",
+    "text": "1150",
+    "tokens": [
+      "1150"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Conductivity (W/mK)",
+    "text": "1.35",
+    "tokens": [
+      "1.35"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Power Factor (uW/cmK2)",
+    "text": "50.7",
+    "tokens": [
+      "50.7"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Peak Figure of Merit ZT",
+    "text": "1.10",
+    "tokens": [
+      "1.10"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Identification",
+    "text": "p-type Pb0.98Na0.02Te",
+    "tokens": [
+      "p-type",
+      "Pb0.98Na0.02Te"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Seebeck Coefficient (uV/K)",
+    "text": "240",
+    "tokens": [
+      "240"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Electrical Conductivity (S/cm)",
+    "text": "620",
+    "tokens": [
+      "620"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Conductivity (W/mK)",
+    "text": "1.45",
+    "tokens": [
+      "1.45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Power Factor (uW/cmK2)",
+    "text": "35.7",
+    "tokens": [
+      "35.7"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Peak Figure of Merit ZT",
+    "text": "1.70",
+    "tokens": [
+      "1.70"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Identification",
+    "text": "n-type PbTe-0.02PbI2",
+    "tokens": [
+      "n-type",
+      "PbTe-0.02PbI2"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Seebeck Coefficient (uV/K)",
+    "text": "-195",
+    "tokens": [
+      "-195"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Electrical Conductivity (S/cm)",
+    "text": "850",
+    "tokens": [
+      "850"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Conductivity (W/mK)",
+    "text": "1.60",
+    "tokens": [
+      "1.60"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Power Factor (uW/cmK2)",
+    "text": "32.3",
+    "tokens": [
+      "32.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Peak Figure of Merit ZT",
+    "text": "1.40",
+    "tokens": [
+      "1.40"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Identification",
+    "text": "p-type SnSe single-crystal",
+    "tokens": [
+      "p-type",
+      "SnSe",
+      "single-crystal"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Seebeck Coefficient (uV/K)",
+    "text": "480",
+    "tokens": [
+      "480"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Electrical Conductivity (S/cm)",
+    "text": "45",
+    "tokens": [
+      "45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Conductivity (W/mK)",
+    "text": "0.45",
+    "tokens": [
+      "0.45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Power Factor (uW/cmK2)",
+    "text": "10.4",
+    "tokens": [
+      "10.4"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Peak Figure of Merit ZT",
+    "text": "2.60",
+    "tokens": [
+      "2.60"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Alloy Specification",
+    "tokens": [
+      "Alloy",
+      "Specification"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Density (g/cm3)",
+    "tokens": [
+      "Density",
+      "(g/cm3)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Yield Strength (MPa)",
+    "tokens": [
+      "Yield",
+      "Strength",
+      "(MPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Tensile Strength (MPa)",
+    "tokens": [
+      "Tensile",
+      "Strength",
+      "(MPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Elongation (%)",
+    "tokens": [
+      "Elongation",
+      "(%)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Fracture Toughness K1c (MPa m^0.5)",
+    "tokens": [
+      "Fracture",
+      "Toughness",
+      "K1c",
+      "(MPa",
+      "m^0.5)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Specification",
+    "text": "Al 2024-T3",
+    "tokens": [
+      "Al",
+      "2024-T3"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.78",
+    "tokens": [
+      "2.78"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "345",
+    "tokens": [
+      "345"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tensile Strength (MPa)",
+    "text": "485",
+    "tokens": [
+      "485"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "18.0",
+    "tokens": [
+      "18.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fracture Toughness K1c (MPa m^0.5)",
+    "text": "36.0",
+    "tokens": [
+      "36.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Specification",
+    "text": "Al 7075-T6",
+    "tokens": [
+      "Al",
+      "7075-T6"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.81",
+    "tokens": [
+      "2.81"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "505",
+    "tokens": [
+      "505"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tensile Strength (MPa)",
+    "text": "570",
+    "tokens": [
+      "570"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "11.0",
+    "tokens": [
+      "11.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fracture Toughness K1c (MPa m^0.5)",
+    "text": "29.0",
+    "tokens": [
+      "29.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Specification",
+    "text": "Al 6061-T6",
+    "tokens": [
+      "Al",
+      "6061-T6"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.70",
+    "tokens": [
+      "2.70"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "275",
+    "tokens": [
+      "275"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tensile Strength (MPa)",
+    "text": "310",
+    "tokens": [
+      "310"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "14.0",
+    "tokens": [
+      "14.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fracture Toughness K1c (MPa m^0.5)",
+    "text": "30.0",
+    "tokens": [
+      "30.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Specification",
+    "text": "Al-Li 2195-T8",
+    "tokens": [
+      "Al-Li",
+      "2195-T8"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.71",
+    "tokens": [
+      "2.71"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "565",
+    "tokens": [
+      "565"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tensile Strength (MPa)",
+    "text": "605",
+    "tokens": [
+      "605"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "9.5",
+    "tokens": [
+      "9.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fracture Toughness K1c (MPa m^0.5)",
+    "text": "34.0",
+    "tokens": [
+      "34.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Specification",
+    "text": "Al 7050-T7451",
+    "tokens": [
+      "Al",
+      "7050-T7451"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "2.83",
+    "tokens": [
+      "2.83"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "470",
+    "tokens": [
+      "470"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tensile Strength (MPa)",
+    "text": "525",
+    "tokens": [
+      "525"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "12.0",
+    "tokens": [
+      "12.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fracture Toughness K1c (MPa m^0.5)",
+    "text": "38.5",
+    "tokens": [
+      "38.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "SMA Designation",
+    "tokens": [
+      "SMA",
+      "Designation"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ni (at.%)",
+    "tokens": [
+      "Ni",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ti (at.%)",
+    "tokens": [
+      "Ti",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Cu (at.%)",
+    "tokens": [
+      "Cu",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Al (at.%)",
+    "tokens": [
+      "Al",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Fe (at.%)",
+    "tokens": [
+      "Fe",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Pd (at.%)",
+    "tokens": [
+      "Pd",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SMA Designation",
+    "text": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "tokens": [
+      "Ni50.2Ti49.8",
+      "(Nitinol",
+      "SE508)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "50.2",
+    "tokens": [
+      "50.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (at.%)",
+    "text": "49.8",
+    "tokens": [
+      "49.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pd (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SMA Designation",
+    "text": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "tokens": [
+      "Ni50Ti45Cu5",
+      "(Ternary",
+      "Nitinol)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (at.%)",
+    "text": "45.0",
+    "tokens": [
+      "45.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "5.0",
+    "tokens": [
+      "5.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pd (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SMA Designation",
+    "text": "Cu72Al18Ni10 (Cu-based SMA)",
+    "tokens": [
+      "Cu72Al18Ni10",
+      "(Cu-based",
+      "SMA)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "10.0",
+    "tokens": [
+      "10.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "72.0",
+    "tokens": [
+      "72.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "18.0",
+    "tokens": [
+      "18.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pd (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SMA Designation",
+    "text": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "tokens": [
+      "Ni45Ti50Fe5",
+      "(Low-hysteresis)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "45.0",
+    "tokens": [
+      "45.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (at.%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "5.0",
+    "tokens": [
+      "5.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pd (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SMA Designation",
+    "text": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "tokens": [
+      "Ni30Ti50Pd20",
+      "(High-temperature",
+      "SMA)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "30.0",
+    "tokens": [
+      "30.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (at.%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pd (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Alloy Formulation",
+    "tokens": [
+      "Alloy",
+      "Formulation"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Al (at.%)",
+    "tokens": [
+      "Al",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Co (at.%)",
+    "tokens": [
+      "Co",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Cr (at.%)",
+    "tokens": [
+      "Cr",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Fe (at.%)",
+    "tokens": [
+      "Fe",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ni (at.%)",
+    "tokens": [
+      "Ni",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Mn (at.%)",
+    "tokens": [
+      "Mn",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Crystal Structure",
+    "tokens": [
+      "Crystal",
+      "Structure"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Formulation",
+    "text": "CoCrFeNi (Base 4-HEA)",
+    "tokens": [
+      "CoCrFeNi",
+      "(Base",
+      "4-HEA)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (at.%)",
+    "text": "25.0",
+    "tokens": [
+      "25.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cr (at.%)",
+    "text": "25.0",
+    "tokens": [
+      "25.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "25.0",
+    "tokens": [
+      "25.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "25.0",
+    "tokens": [
+      "25.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Crystal Structure",
+    "text": "Single FCC",
+    "tokens": [
+      "Single",
+      "FCC"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Formulation",
+    "text": "CoCrFeMnNi (Cantor Alloy)",
+    "tokens": [
+      "CoCrFeMnNi",
+      "(Cantor",
+      "Alloy)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cr (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Crystal Structure",
+    "text": "Single FCC",
+    "tokens": [
+      "Single",
+      "FCC"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Formulation",
+    "text": "Al0.3CoCrFeNi",
+    "tokens": [
+      "Al0.3CoCrFeNi"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "6.98",
+    "tokens": [
+      "6.98"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (at.%)",
+    "text": "23.25",
+    "tokens": [
+      "23.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cr (at.%)",
+    "text": "23.25",
+    "tokens": [
+      "23.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "23.25",
+    "tokens": [
+      "23.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "23.25",
+    "tokens": [
+      "23.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Crystal Structure",
+    "text": "FCC + minor BCC",
+    "tokens": [
+      "FCC",
+      "+",
+      "minor",
+      "BCC"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Formulation",
+    "text": "Al0.7CoCrFeNi",
+    "tokens": [
+      "Al0.7CoCrFeNi"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "14.89",
+    "tokens": [
+      "14.89"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (at.%)",
+    "text": "21.28",
+    "tokens": [
+      "21.28"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cr (at.%)",
+    "text": "21.28",
+    "tokens": [
+      "21.28"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "21.28",
+    "tokens": [
+      "21.28"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "21.28",
+    "tokens": [
+      "21.28"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Crystal Structure",
+    "text": "BCC + B2 + FCC",
+    "tokens": [
+      "BCC",
+      "+",
+      "B2",
+      "+",
+      "FCC"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Formulation",
+    "text": "AlCoCrFeNi (Equimolar)",
+    "tokens": [
+      "AlCoCrFeNi",
+      "(Equimolar)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Co (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cr (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ni (at.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mn (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Crystal Structure",
+    "text": "BCC + B2",
+    "tokens": [
+      "BCC",
+      "+",
+      "B2"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Thermoelectric Sample",
+    "tokens": [
+      "Thermoelectric",
+      "Sample"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Bi (mol%)",
+    "tokens": [
+      "Bi",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Sb (mol%)",
+    "tokens": [
+      "Sb",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Te (mol%)",
+    "tokens": [
+      "Te",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Se (mol%)",
+    "tokens": [
+      "Se",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Pb (mol%)",
+    "tokens": [
+      "Pb",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Sn (mol%)",
+    "tokens": [
+      "Sn",
+      "(mol%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermoelectric Sample",
+    "text": "p-type (Bi0.25Sb0.75)2Te3",
+    "tokens": [
+      "p-type",
+      "(Bi0.25Sb0.75)2Te3"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (mol%)",
+    "text": "10.0",
+    "tokens": [
+      "10.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sb (mol%)",
+    "text": "30.0",
+    "tokens": [
+      "30.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Te (mol%)",
+    "text": "60.0",
+    "tokens": [
+      "60.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pb (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermoelectric Sample",
+    "text": "n-type Bi2(Te0.95Se0.05)3",
+    "tokens": [
+      "n-type",
+      "Bi2(Te0.95Se0.05)3"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (mol%)",
+    "text": "40.0",
+    "tokens": [
+      "40.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sb (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Te (mol%)",
+    "text": "57.0",
+    "tokens": [
+      "57.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (mol%)",
+    "text": "3.0",
+    "tokens": [
+      "3.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pb (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermoelectric Sample",
+    "text": "p-type Pb0.98Na0.02Te",
+    "tokens": [
+      "p-type",
+      "Pb0.98Na0.02Te"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sb (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Te (mol%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pb (mol%)",
+    "text": "48.0",
+    "tokens": [
+      "48.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermoelectric Sample",
+    "text": "n-type PbTe-0.02PbI2",
+    "tokens": [
+      "n-type",
+      "PbTe-0.02PbI2"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sb (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Te (mol%)",
+    "text": "49.0",
+    "tokens": [
+      "49.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pb (mol%)",
+    "text": "49.0",
+    "tokens": [
+      "49.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermoelectric Sample",
+    "text": "p-type SnSe single-crystal",
+    "tokens": [
+      "p-type",
+      "SnSe",
+      "single-crystal"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sb (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Te (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Pb (mol%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (mol%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Material Name",
+    "tokens": [
+      "Material",
+      "Name"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ionic Conductivity at 800C (S/cm)",
+    "tokens": [
+      "Ionic",
+      "Conductivity",
+      "at",
+      "800C",
+      "(S/cm)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Activation Energy (eV)",
+    "tokens": [
+      "Activation",
+      "Energy",
+      "(eV)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Thermal Expansion CTE (10^-6 /K)",
+    "tokens": [
+      "Thermal",
+      "Expansion",
+      "CTE",
+      "(10^-6",
+      "/K)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Relative Density (%)",
+    "tokens": [
+      "Relative",
+      "Density",
+      "(%)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Vickers Hardness (GPa)",
+    "tokens": [
+      "Vickers",
+      "Hardness",
+      "(GPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "tokens": [
+      "8YSZ",
+      "(8",
+      "mol%",
+      "Y2O3-ZrO2)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ionic Conductivity at 800C (S/cm)",
+    "text": "0.100",
+    "tokens": [
+      "0.100"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Activation Energy (eV)",
+    "text": "0.92",
+    "tokens": [
+      "0.92"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "10.5",
+    "tokens": [
+      "10.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Relative Density (%)",
+    "text": "98.5",
+    "tokens": [
+      "98.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "12.5",
+    "tokens": [
+      "12.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "10CGO (Ce0.9Gd0.1O1.95)",
+    "tokens": [
+      "10CGO",
+      "(Ce0.9Gd0.1O1.95)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ionic Conductivity at 800C (S/cm)",
+    "text": "0.180",
+    "tokens": [
+      "0.180"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Activation Energy (eV)",
+    "text": "0.76",
+    "tokens": [
+      "0.76"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "12.2",
+    "tokens": [
+      "12.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Relative Density (%)",
+    "text": "97.8",
+    "tokens": [
+      "97.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "9.2",
+    "tokens": [
+      "9.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "Ni-8YSZ Anode Cermet (50:50)",
+    "tokens": [
+      "Ni-8YSZ",
+      "Anode",
+      "Cermet",
+      "(50:50)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ionic Conductivity at 800C (S/cm)",
+    "text": "0.045",
+    "tokens": [
+      "0.045"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Activation Energy (eV)",
+    "text": "1.10",
+    "tokens": [
+      "1.10"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "12.8",
+    "tokens": [
+      "12.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Relative Density (%)",
+    "text": "94.2",
+    "tokens": [
+      "94.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "8.0",
+    "tokens": [
+      "8.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "tokens": [
+      "LSGM",
+      "(La0.8Sr0.2Ga0.8Mg0.2O3)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ionic Conductivity at 800C (S/cm)",
+    "text": "0.170",
+    "tokens": [
+      "0.170"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Activation Energy (eV)",
+    "text": "0.85",
+    "tokens": [
+      "0.85"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "11.4",
+    "tokens": [
+      "11.4"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Relative Density (%)",
+    "text": "96.5",
+    "tokens": [
+      "96.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "10.8",
+    "tokens": [
+      "10.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Material Name",
+    "text": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "tokens": [
+      "LSCF",
+      "(La0.6Sr0.4Co0.2Fe0.8O3)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ionic Conductivity at 800C (S/cm)",
+    "text": "0.030",
+    "tokens": [
+      "0.030"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Activation Energy (eV)",
+    "text": "1.25",
+    "tokens": [
+      "1.25"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Thermal Expansion CTE (10^-6 /K)",
+    "text": "15.3",
+    "tokens": [
+      "15.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Relative Density (%)",
+    "text": "95.0",
+    "tokens": [
+      "95.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Vickers Hardness (GPa)",
+    "text": "7.5",
+    "tokens": [
+      "7.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Superconductor Phase",
+    "tokens": [
+      "Superconductor",
+      "Phase"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Y (at.%)",
+    "tokens": [
+      "Y",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ba (at.%)",
+    "tokens": [
+      "Ba",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Cu (at.%)",
+    "tokens": [
+      "Cu",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Bi (at.%)",
+    "tokens": [
+      "Bi",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Sr (at.%)",
+    "tokens": [
+      "Sr",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ca (at.%)",
+    "tokens": [
+      "Ca",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Mg (at.%)",
+    "tokens": [
+      "Mg",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "B (at.%)",
+    "tokens": [
+      "B",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Fe (at.%)",
+    "tokens": [
+      "Fe",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Se (at.%)",
+    "tokens": [
+      "Se",
+      "(at.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Superconductor Phase",
+    "text": "YBa2Cu3O7-delta (YBCO-123)",
+    "tokens": [
+      "YBa2Cu3O7-delta",
+      "(YBCO-123)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y (at.%)",
+    "text": "7.7",
+    "tokens": [
+      "7.7"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ba (at.%)",
+    "text": "15.4",
+    "tokens": [
+      "15.4"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "23.1",
+    "tokens": [
+      "23.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sr (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ca (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Superconductor Phase",
+    "text": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "tokens": [
+      "Bi2Sr2Ca2Cu3O10",
+      "(Bi-2223)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ba (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "15.8",
+    "tokens": [
+      "15.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (at.%)",
+    "text": "10.5",
+    "tokens": [
+      "10.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sr (at.%)",
+    "text": "10.5",
+    "tokens": [
+      "10.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ca (at.%)",
+    "text": "10.5",
+    "tokens": [
+      "10.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Superconductor Phase",
+    "text": "MgB2 (Magnesium Diboride)",
+    "tokens": [
+      "MgB2",
+      "(Magnesium",
+      "Diboride)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ba (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sr (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ca (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (at.%)",
+    "text": "33.3",
+    "tokens": [
+      "33.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B (at.%)",
+    "text": "66.7",
+    "tokens": [
+      "66.7"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Superconductor Phase",
+    "text": "FeSe (Iron Selenide)",
+    "tokens": [
+      "FeSe",
+      "(Iron",
+      "Selenide)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ba (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sr (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ca (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (at.%)",
+    "text": "50.0",
+    "tokens": [
+      "50.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Superconductor Phase",
+    "text": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "tokens": [
+      "Bi2Sr2CaCu2O8",
+      "(Bi-2212)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Y (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ba (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cu (at.%)",
+    "text": "13.3",
+    "tokens": [
+      "13.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Bi (at.%)",
+    "text": "13.3",
+    "tokens": [
+      "13.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sr (at.%)",
+    "text": "13.3",
+    "tokens": [
+      "13.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ca (at.%)",
+    "text": "6.7",
+    "tokens": [
+      "6.7"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mg (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Se (at.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Alloy Name",
+    "tokens": [
+      "Alloy",
+      "Name"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Density (g/cm3)",
+    "tokens": [
+      "Density",
+      "(g/cm3)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Yield Strength (MPa)",
+    "tokens": [
+      "Yield",
+      "Strength",
+      "(MPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ultimate Tensile Strength (MPa)",
+    "tokens": [
+      "Ultimate",
+      "Tensile",
+      "Strength",
+      "(MPa)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Elongation (%)",
+    "tokens": [
+      "Elongation",
+      "(%)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Hardness (HV)",
+    "tokens": [
+      "Hardness",
+      "(HV)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Name",
+    "text": "Ti-6Al-4V (Grade 5)",
+    "tokens": [
+      "Ti-6Al-4V",
+      "(Grade",
+      "5)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "4.43",
+    "tokens": [
+      "4.43"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "880",
+    "tokens": [
+      "880"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ultimate Tensile Strength (MPa)",
+    "text": "950",
+    "tokens": [
+      "950"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "14.0",
+    "tokens": [
+      "14.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Hardness (HV)",
+    "text": "340",
+    "tokens": [
+      "340"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Name",
+    "text": "Ti-6Al-2Sn-4Zr-2Mo",
+    "tokens": [
+      "Ti-6Al-2Sn-4Zr-2Mo"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "4.54",
+    "tokens": [
+      "4.54"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "990",
+    "tokens": [
+      "990"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ultimate Tensile Strength (MPa)",
+    "text": "1050",
+    "tokens": [
+      "1050"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "13.0",
+    "tokens": [
+      "13.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Hardness (HV)",
+    "text": "365",
+    "tokens": [
+      "365"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Name",
+    "text": "Ti-10V-2Fe-3Al",
+    "tokens": [
+      "Ti-10V-2Fe-3Al"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "4.65",
+    "tokens": [
+      "4.65"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "1100",
+    "tokens": [
+      "1100"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ultimate Tensile Strength (MPa)",
+    "text": "1180",
+    "tokens": [
+      "1180"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "10.5",
+    "tokens": [
+      "10.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Hardness (HV)",
+    "text": "390",
+    "tokens": [
+      "390"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Name",
+    "text": "Ti-5Al-2.5Sn (Grade 6)",
+    "tokens": [
+      "Ti-5Al-2.5Sn",
+      "(Grade",
+      "6)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "4.48",
+    "tokens": [
+      "4.48"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "820",
+    "tokens": [
+      "820"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ultimate Tensile Strength (MPa)",
+    "text": "890",
+    "tokens": [
+      "890"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "16.0",
+    "tokens": [
+      "16.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Hardness (HV)",
+    "text": "310",
+    "tokens": [
+      "310"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Name",
+    "text": "Ti-15V-3Cr-3Sn-3Al",
+    "tokens": [
+      "Ti-15V-3Cr-3Sn-3Al"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Density (g/cm3)",
+    "text": "4.76",
+    "tokens": [
+      "4.76"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Yield Strength (MPa)",
+    "text": "1020",
+    "tokens": [
+      "1020"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ultimate Tensile Strength (MPa)",
+    "text": "1110",
+    "tokens": [
+      "1110"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Elongation (%)",
+    "text": "11.0",
+    "tokens": [
+      "11.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Hardness (HV)",
+    "text": "375",
+    "tokens": [
+      "375"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Compound Name",
+    "tokens": [
+      "Compound",
+      "Name"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Critical Temp Tc (K)",
+    "tokens": [
+      "Critical",
+      "Temp",
+      "Tc",
+      "(K)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Upper Critical Field Hc2 (Tesla)",
+    "tokens": [
+      "Upper",
+      "Critical",
+      "Field",
+      "Hc2",
+      "(Tesla)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Critical Current Density Jc (MA/cm2)",
+    "tokens": [
+      "Critical",
+      "Current",
+      "Density",
+      "Jc",
+      "(MA/cm2)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Coherence Length xi (nm)",
+    "tokens": [
+      "Coherence",
+      "Length",
+      "xi",
+      "(nm)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Penetration Depth lambda (nm)",
+    "tokens": [
+      "Penetration",
+      "Depth",
+      "lambda",
+      "(nm)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compound Name",
+    "text": "YBa2Cu3O7-delta (YBCO-123)",
+    "tokens": [
+      "YBa2Cu3O7-delta",
+      "(YBCO-123)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Temp Tc (K)",
+    "text": "92.0",
+    "tokens": [
+      "92.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Upper Critical Field Hc2 (Tesla)",
+    "text": "120",
+    "tokens": [
+      "120"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Current Density Jc (MA/cm2)",
+    "text": "3.5",
+    "tokens": [
+      "3.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Coherence Length xi (nm)",
+    "text": "1.5",
+    "tokens": [
+      "1.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Penetration Depth lambda (nm)",
+    "text": "140",
+    "tokens": [
+      "140"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compound Name",
+    "text": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "tokens": [
+      "Bi2Sr2Ca2Cu3O10",
+      "(Bi-2223)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Temp Tc (K)",
+    "text": "110.0",
+    "tokens": [
+      "110.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Upper Critical Field Hc2 (Tesla)",
+    "text": "100",
+    "tokens": [
+      "100"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Current Density Jc (MA/cm2)",
+    "text": "2.1",
+    "tokens": [
+      "2.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Coherence Length xi (nm)",
+    "text": "1.3",
+    "tokens": [
+      "1.3"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Penetration Depth lambda (nm)",
+    "text": "200",
+    "tokens": [
+      "200"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compound Name",
+    "text": "MgB2 (Magnesium Diboride)",
+    "tokens": [
+      "MgB2",
+      "(Magnesium",
+      "Diboride)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Temp Tc (K)",
+    "text": "39.0",
+    "tokens": [
+      "39.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Upper Critical Field Hc2 (Tesla)",
+    "text": "40",
+    "tokens": [
+      "40"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Current Density Jc (MA/cm2)",
+    "text": "10.0",
+    "tokens": [
+      "10.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Coherence Length xi (nm)",
+    "text": "5.2",
+    "tokens": [
+      "5.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Penetration Depth lambda (nm)",
+    "text": "85",
+    "tokens": [
+      "85"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compound Name",
+    "text": "FeSe (Iron Selenide)",
+    "tokens": [
+      "FeSe",
+      "(Iron",
+      "Selenide)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Temp Tc (K)",
+    "text": "8.5",
+    "tokens": [
+      "8.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Upper Critical Field Hc2 (Tesla)",
+    "text": "16",
+    "tokens": [
+      "16"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Current Density Jc (MA/cm2)",
+    "text": "0.5",
+    "tokens": [
+      "0.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Coherence Length xi (nm)",
+    "text": "4.0",
+    "tokens": [
+      "4.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Penetration Depth lambda (nm)",
+    "text": "390",
+    "tokens": [
+      "390"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Compound Name",
+    "text": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "tokens": [
+      "Bi2Sr2CaCu2O8",
+      "(Bi-2212)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Temp Tc (K)",
+    "text": "85.0",
+    "tokens": [
+      "85.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Upper Critical Field Hc2 (Tesla)",
+    "text": "90",
+    "tokens": [
+      "90"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Critical Current Density Jc (MA/cm2)",
+    "text": "1.8",
+    "tokens": [
+      "1.8"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Coherence Length xi (nm)",
+    "text": "1.6",
+    "tokens": [
+      "1.6"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Penetration Depth lambda (nm)",
+    "text": "220",
+    "tokens": [
+      "220"
+    ],
+    "tags": [
+      "O"
+    ]
+  }
+]

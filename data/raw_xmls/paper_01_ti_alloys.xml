@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.msea.2023.144890</ce:doi>
+    <ce:pii>S092150932300210X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Microstructural evolution and mechanical properties of advanced alpha-beta titanium alloys for aerospace applications</ce:title>
+    <ce:abstract>
+      <ce:simple-para>The mechanical performance of titanium alloys heavily relies on elemental composition and heat treatment conditions. This study investigates the tensile properties, hardness, and density of various alpha, alpha-beta, and near-beta titanium alloys.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Microstructural evolution and mechanical properties of advanced alpha-beta titanium alloys for aerospace applications. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Chemical nominal composition (wt.%) of investigated titanium alloys.</ce:caption>
+          <tgroup cols="8">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <colspec colname="col8" colnum="8" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Alloy Designation</entry>
+                <entry align="center">Ti (wt.%)</entry>
+                <entry align="center">Al (wt.%)</entry>
+                <entry align="center">V (wt.%)</entry>
+                <entry align="center">Mo (wt.%)</entry>
+                <entry align="center">Fe (wt.%)</entry>
+                <entry align="center">Sn (wt.%)</entry>
+                <entry align="center">Zr (wt.%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">Ti-6Al-4V (Grade 5)</entry>
+                <entry align="center">89.0</entry>
+                <entry align="center">6.2</entry>
+                <entry align="center">4.1</entry>
+                <entry align="center">-</entry>
+                <entry align="center">0.2</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-6Al-2Sn-4Zr-2Mo</entry>
+                <entry align="center">86.0</entry>
+                <entry align="center">6.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">2.0</entry>
+                <entry align="center">0.1</entry>
+                <entry align="center">2.0</entry>
+                <entry align="center">4.0</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-10V-2Fe-3Al</entry>
+                <entry align="center">85.0</entry>
+                <entry align="center">3.0</entry>
+                <entry align="center">10.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">2.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-5Al-2.5Sn (Grade 6)</entry>
+                <entry align="center">92.5</entry>
+                <entry align="center">5.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">0.2</entry>
+                <entry align="center">2.5</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-15V-3Cr-3Sn-3Al</entry>
+                <entry align="center">76.0</entry>
+                <entry align="center">3.0</entry>
+                <entry align="center">15.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">0.2</entry>
+                <entry align="center">3.0</entry>
+                <entry align="center">-</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Balance is Ti in all alloy compositions. Impurities (O, N, C, H, Fe) remain below 0.15 wt.%.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Room-temperature mechanical properties and density of investigated titanium alloys.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Alloy Name</entry>
+                <entry align="center">Density (g/cm3)</entry>
+                <entry align="center">Yield Strength (MPa)</entry>
+                <entry align="center">Ultimate Tensile Strength (MPa)</entry>
+                <entry align="center">Elongation (%)</entry>
+                <entry align="center">Hardness (HV)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">Ti-6Al-4V (Grade 5)</entry>
+                <entry align="center">4.43</entry>
+                <entry align="center">880</entry>
+                <entry align="center">950</entry>
+                <entry align="center">14.0</entry>
+                <entry align="center">340</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-6Al-2Sn-4Zr-2Mo</entry>
+                <entry align="center">4.54</entry>
+                <entry align="center">990</entry>
+                <entry align="center">1050</entry>
+                <entry align="center">13.0</entry>
+                <entry align="center">365</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-10V-2Fe-3Al</entry>
+                <entry align="center">4.65</entry>
+                <entry align="center">1100</entry>
+                <entry align="center">1180</entry>
+                <entry align="center">10.5</entry>
+                <entry align="center">390</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-5Al-2.5Sn (Grade 6)</entry>
+                <entry align="center">4.48</entry>
+                <entry align="center">820</entry>
+                <entry align="center">890</entry>
+                <entry align="center">16.0</entry>
+                <entry align="center">310</entry>
+              </row>
+              <row>
+                <entry align="center">Ti-15V-3Cr-3Sn-3Al</entry>
+                <entry align="center">4.76</entry>
+                <entry align="center">1020</entry>
+                <entry align="center">1110</entry>
+                <entry align="center">11.0</entry>
+                <entry align="center">375</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Tensile tests conducted at strain rate of 10^-3 s^-1. Hardness measured using Vickers indenter (HV30).</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

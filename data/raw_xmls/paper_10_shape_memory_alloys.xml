@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.intermet.2023.107932</ce:doi>
+    <ce:pii>S096697952300088X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Phase transformation temperatures, superelastic recovery strain, and plateau stress in binary and ternary shape memory alloys</ce:title>
+    <ce:abstract>
+      <ce:simple-para>Shape memory alloys (SMAs) exploit thermoelastic martensitic transformations for actuation and biomedical stents. Here, we analyze elemental atomic ratios, transformation temperatures (Ms, Mf, As, Af), and maximum recoverable superelastic strain in Nitinol and Cu-based systems.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Phase transformation temperatures, superelastic recovery strain, and plateau stress in binary and ternary shape memory alloys. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Nominal elemental composition (at.%) of investigated shape memory alloys.</ce:caption>
+          <tgroup cols="7">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">SMA Designation</entry>
+                <entry align="center">Ni (at.%)</entry>
+                <entry align="center">Ti (at.%)</entry>
+                <entry align="center">Cu (at.%)</entry>
+                <entry align="center">Al (at.%)</entry>
+                <entry align="center">Fe (at.%)</entry>
+                <entry align="center">Pd (at.%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">Ni50.2Ti49.8 (Nitinol SE508)</entry>
+                <entry align="center">50.2</entry>
+                <entry align="center">49.8</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Ni50Ti45Cu5 (Ternary Nitinol)</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">45.0</entry>
+                <entry align="center">5.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Cu72Al18Ni10 (Cu-based SMA)</entry>
+                <entry align="center">10.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">72.0</entry>
+                <entry align="center">18.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Ni45Ti50Fe5 (Low-hysteresis)</entry>
+                <entry align="center">45.0</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">5.0</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Ni30Ti50Pd20 (High-temperature SMA)</entry>
+                <entry align="center">30.0</entry>
+                <entry align="center">50.0</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">20.0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Alloys cast in induction skull melting furnace under purified argon.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Martensitic transformation temperatures, superelastic recoverable strain, and transformation plateau stress.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Alloy System</entry>
+                <entry align="center">Martensite Start Ms (deg C)</entry>
+                <entry align="center">Austenite Finish Af (deg C)</entry>
+                <entry align="center">Recoverable Strain (%)</entry>
+                <entry align="center">Plateau Stress (MPa)</entry>
+                <entry align="center">Density (g/cm3)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">Ni50.2Ti49.8 (Nitinol SE508)</entry>
+                <entry align="center">-15.0</entry>
+                <entry align="center">12.0</entry>
+                <entry align="center">8.2</entry>
+                <entry align="center">420</entry>
+                <entry align="center">6.45</entry>
+              </row>
+              <row>
+                <entry align="center">Ni50Ti45Cu5 (Ternary Nitinol)</entry>
+                <entry align="center">22.0</entry>
+                <entry align="center">48.0</entry>
+                <entry align="center">6.5</entry>
+                <entry align="center">350</entry>
+                <entry align="center">6.50</entry>
+              </row>
+              <row>
+                <entry align="center">Cu72Al18Ni10 (Cu-based SMA)</entry>
+                <entry align="center">-40.0</entry>
+                <entry align="center">-10.0</entry>
+                <entry align="center">4.8</entry>
+                <entry align="center">280</entry>
+                <entry align="center">7.12</entry>
+              </row>
+              <row>
+                <entry align="center">Ni45Ti50Fe5 (Low-hysteresis)</entry>
+                <entry align="center">-85.0</entry>
+                <entry align="center">-55.0</entry>
+                <entry align="center">5.0</entry>
+                <entry align="center">510</entry>
+                <entry align="center">6.42</entry>
+              </row>
+              <row>
+                <entry align="center">Ni30Ti50Pd20 (High-temperature SMA)</entry>
+                <entry align="center">180.0</entry>
+                <entry align="center">215.0</entry>
+                <entry align="center">3.8</entry>
+                <entry align="center">620</entry>
+                <entry align="center">7.28</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Transformation temperatures measured via DSC at 10 K/min. Superelastic strain recorded under tensile loading at Af + 15 deg C.</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

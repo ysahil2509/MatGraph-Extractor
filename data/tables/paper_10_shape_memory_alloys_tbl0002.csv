@@ -1,0 +1,6 @@
+Alloy System,Martensite Start Ms (deg C),Austenite Finish Af (deg C),Recoverable Strain (%),Plateau Stress (MPa),Density (g/cm3)
+Ni50.2Ti49.8 (Nitinol SE508),-15.0,12.0,8.2,420,6.45
+Ni50Ti45Cu5 (Ternary Nitinol),22.0,48.0,6.5,350,6.50
+Cu72Al18Ni10 (Cu-based SMA),-40.0,-10.0,4.8,280,7.12
+Ni45Ti50Fe5 (Low-hysteresis),-85.0,-55.0,5.0,510,6.42
+Ni30Ti50Pd20 (High-temperature SMA),180.0,215.0,3.8,620,7.28

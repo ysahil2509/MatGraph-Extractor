@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  # Streamlit Frontend Web Platform
+  matgraph-ui:
+    build: .
+    container_name: matgraph_streamlit_ui
+    ports:
+      - "8501:8501"
+    environment:
+      - ELSEVIER_API_KEY=${ELSEVIER_API_KEY:-}
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    command: ["streamlit", "run", "app/streamlit_app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+
+  # FastAPI REST Microservice
+  matgraph-api:
+    build: .
+    container_name: matgraph_fastapi_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - ELSEVIER_API_KEY=${ELSEVIER_API_KEY:-}
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    command: ["uvicorn", "app.api:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -1,0 +1,6 @@
+Material Identification,Seebeck Coefficient (uV/K),Electrical Conductivity (S/cm),Thermal Conductivity (W/mK),Power Factor (uW/cmK2),Peak Figure of Merit ZT
+p-type (Bi0.25Sb0.75)2Te3,225,980,1.20,49.6,1.25
+n-type Bi2(Te0.95Se0.05)3,-210,1150,1.35,50.7,1.10
+p-type Pb0.98Na0.02Te,240,620,1.45,35.7,1.70
+n-type PbTe-0.02PbI2,-195,850,1.60,32.3,1.40
+p-type SnSe single-crystal,480,45,0.45,10.4,2.60

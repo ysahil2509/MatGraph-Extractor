@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.ensm.2023.102844</ce:doi>
+    <ce:pii>S240582972300451X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Comparative electrochemical analysis and energy density evaluation of transition metal oxide cathode materials for lithium-ion batteries</ce:title>
+    <ce:abstract>
+      <ce:simple-para>Layered and olivine structured cathode materials exhibit distinct electrochemical operational characteristics. Here, we systematically compile the stoichiometry, specific discharge capacity, operating voltage, and energy density of leading lithium cathode chemistries.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Comparative electrochemical analysis and energy density evaluation of transition metal oxide cathode materials for lithium-ion batteries. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Stoichiometric composition and elemental mass fractions of representative lithium battery cathodes.</ce:caption>
+          <tgroup cols="8">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <colspec colname="col8" colnum="8" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Cathode Material</entry>
+                <entry align="center">Li (wt.%)</entry>
+                <entry align="center">Co (wt.%)</entry>
+                <entry align="center">Ni (wt.%)</entry>
+                <entry align="center">Mn (wt.%)</entry>
+                <entry align="center">Fe (wt.%)</entry>
+                <entry align="center">P (wt.%)</entry>
+                <entry align="center">O (wt.%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">LiCoO2 (LCO)</entry>
+                <entry align="center">7.09</entry>
+                <entry align="center">60.22</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">32.69</entry>
+              </row>
+              <row>
+                <entry align="center">LiFePO4 (LFP)</entry>
+                <entry align="center">4.40</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">35.39</entry>
+                <entry align="center">19.63</entry>
+                <entry align="center">40.58</entry>
+              </row>
+              <row>
+                <entry align="center">LiNi0.8Co0.15Al0.05O2 (NCA)</entry>
+                <entry align="center">7.25</entry>
+                <entry align="center">9.24</entry>
+                <entry align="center">49.12</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">33.45</entry>
+              </row>
+              <row>
+                <entry align="center">LiNi1/3Mn1/3Co1/3O2 (NMC111)</entry>
+                <entry align="center">7.19</entry>
+                <entry align="center">20.37</entry>
+                <entry align="center">20.29</entry>
+                <entry align="center">18.99</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">33.16</entry>
+              </row>
+              <row>
+                <entry align="center">LiMn2O4 (LMO)</entry>
+                <entry align="center">3.84</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">60.77</entry>
+                <entry align="center">-</entry>
+                <entry align="center">-</entry>
+                <entry align="center">35.39</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Compositions verified via ICP-OES spectroscopy with accuracy +/- 0.5%.</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Electrochemical performance parameters and energy density of lithium cathode materials.</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Cathode Formula</entry>
+                <entry align="center">Specific Capacity (mAh/g)</entry>
+                <entry align="center">Nominal Voltage (V)</entry>
+                <entry align="center">Energy Density (Wh/kg)</entry>
+                <entry align="center">Cycle Retention (%)</entry>
+                <entry align="center">Tap Density (g/cm3)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">LiCoO2 (LCO)</entry>
+                <entry align="center">160</entry>
+                <entry align="center">3.90</entry>
+                <entry align="center">624</entry>
+                <entry align="center">92.0</entry>
+                <entry align="center">2.80</entry>
+              </row>
+              <row>
+                <entry align="center">LiFePO4 (LFP)</entry>
+                <entry align="center">165</entry>
+                <entry align="center">3.45</entry>
+                <entry align="center">569</entry>
+                <entry align="center">98.5</entry>
+                <entry align="center">1.30</entry>
+              </row>
+              <row>
+                <entry align="center">LiNi0.8Co0.15Al0.05O2 (NCA)</entry>
+                <entry align="center">200</entry>
+                <entry align="center">3.75</entry>
+                <entry align="center">750</entry>
+                <entry align="center">88.0</entry>
+                <entry align="center">2.60</entry>
+              </row>
+              <row>
+                <entry align="center">LiNi1/3Mn1/3Co1/3O2 (NMC111)</entry>
+                <entry align="center">160</entry>
+                <entry align="center">3.80</entry>
+                <entry align="center">608</entry>
+                <entry align="center">94.0</entry>
+                <entry align="center">2.40</entry>
+              </row>
+              <row>
+                <entry align="center">LiMn2O4 (LMO)</entry>
+                <entry align="center">120</entry>
+                <entry align="center">4.05</entry>
+                <entry align="center">486</entry>
+                <entry align="center">82.0</entry>
+                <entry align="center">2.10</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Tested in 2032 coin cells against metallic Lithium counter electrode between 2.5V and 4.3V vs Li/Li+ at 0.1C rate.</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

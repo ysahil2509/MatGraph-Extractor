@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <item-info>
+    <ce:doi>10.1016/j.matdes.2023.111820</ce:doi>
+    <ce:pii>S026412752300249X</ce:pii>
+  </item-info>
+  <head>
+    <ce:title>Alloy chemistry, temper state, and fracture toughness in high-strength aerospace aluminum alloys</ce:title>
+    <ce:abstract>
+      <ce:simple-para>Precipitation-hardened aluminum alloys serve as standard airframe structural materials. We report the alloying element concentrations (Cu, Mg, Zn, Li, Zr) and corresponding yield strength, ultimate tensile strength, and fracture toughness across 2xxx, 7xxx, and Al-Li systems.</ce:simple-para>
+    </ce:abstract>
+  </head>
+  <body>
+    <ce:sections>
+      <ce:section>
+        <ce:section-title>1. Introduction and Experimental Methodology</ce:section-title>
+        <ce:para>Comprehensive characterization and material property tables were compiled for Alloy chemistry, temper state, and fracture toughness in high-strength aerospace aluminum alloys. High-precision compositional analysis was performed alongside mechanical, electrical, and thermal property testing.</ce:para>
+        <ce:table id="tbl0001" frame="topbot">
+          <ce:label>Table 1</ce:label>
+          <ce:caption>Nominal alloying composition limits (wt.%) of structural aerospace aluminum alloys.</ce:caption>
+          <tgroup cols="8">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <colspec colname="col7" colnum="7" colwidth="*"/>
+            <colspec colname="col8" colnum="8" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Alloy System &amp; Temper</entry>
+                <entry align="center">Al (wt.%)</entry>
+                <entry align="center">Cu (wt.%)</entry>
+                <entry align="center">Mg (wt.%)</entry>
+                <entry align="center">Zn (wt.%)</entry>
+                <entry align="center">Li (wt.%)</entry>
+                <entry align="center">Mn (wt.%)</entry>
+                <entry align="center">Zr (wt.%)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">Al 2024-T3</entry>
+                <entry align="center">93.5</entry>
+                <entry align="center">4.4</entry>
+                <entry align="center">1.5</entry>
+                <entry align="center">0.2</entry>
+                <entry align="center">-</entry>
+                <entry align="center">0.6</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Al 7075-T6</entry>
+                <entry align="center">90.0</entry>
+                <entry align="center">1.6</entry>
+                <entry align="center">2.5</entry>
+                <entry align="center">5.6</entry>
+                <entry align="center">-</entry>
+                <entry align="center">0.1</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Al 6061-T6</entry>
+                <entry align="center">97.5</entry>
+                <entry align="center">0.3</entry>
+                <entry align="center">1.0</entry>
+                <entry align="center">0.1</entry>
+                <entry align="center">-</entry>
+                <entry align="center">0.15</entry>
+                <entry align="center">-</entry>
+              </row>
+              <row>
+                <entry align="center">Al-Li 2195-T8</entry>
+                <entry align="center">94.0</entry>
+                <entry align="center">4.0</entry>
+                <entry align="center">0.4</entry>
+                <entry align="center">0.1</entry>
+                <entry align="center">1.0</entry>
+                <entry align="center">0.1</entry>
+                <entry align="center">0.11</entry>
+              </row>
+              <row>
+                <entry align="center">Al 7050-T7451</entry>
+                <entry align="center">89.0</entry>
+                <entry align="center">2.3</entry>
+                <entry align="center">2.1</entry>
+                <entry align="center">6.2</entry>
+                <entry align="center">-</entry>
+                <entry align="center">0.05</entry>
+                <entry align="center">0.12</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Aluminum forms the matrix balance. Maximum limits specified for Fe (0.12%) and Si (0.10%).</ce:table-footnote>
+        </ce:table>
+        <ce:table id="tbl0002" frame="topbot">
+          <ce:label>Table 2</ce:label>
+          <ce:caption>Mechanical tensile properties, density, and fracture toughness (K1c).</ce:caption>
+          <tgroup cols="6">
+            <colspec colname="col1" colnum="1" colwidth="*"/>
+            <colspec colname="col2" colnum="2" colwidth="*"/>
+            <colspec colname="col3" colnum="3" colwidth="*"/>
+            <colspec colname="col4" colnum="4" colwidth="*"/>
+            <colspec colname="col5" colnum="5" colwidth="*"/>
+            <colspec colname="col6" colnum="6" colwidth="*"/>
+            <thead>
+              <row>
+                <entry align="center">Alloy Specification</entry>
+                <entry align="center">Density (g/cm3)</entry>
+                <entry align="center">Yield Strength (MPa)</entry>
+                <entry align="center">Tensile Strength (MPa)</entry>
+                <entry align="center">Elongation (%)</entry>
+                <entry align="center">Fracture Toughness K1c (MPa m^0.5)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry align="center">Al 2024-T3</entry>
+                <entry align="center">2.78</entry>
+                <entry align="center">345</entry>
+                <entry align="center">485</entry>
+                <entry align="center">18.0</entry>
+                <entry align="center">36.0</entry>
+              </row>
+              <row>
+                <entry align="center">Al 7075-T6</entry>
+                <entry align="center">2.81</entry>
+                <entry align="center">505</entry>
+                <entry align="center">570</entry>
+                <entry align="center">11.0</entry>
+                <entry align="center">29.0</entry>
+              </row>
+              <row>
+                <entry align="center">Al 6061-T6</entry>
+                <entry align="center">2.70</entry>
+                <entry align="center">275</entry>
+                <entry align="center">310</entry>
+                <entry align="center">14.0</entry>
+                <entry align="center">30.0</entry>
+              </row>
+              <row>
+                <entry align="center">Al-Li 2195-T8</entry>
+                <entry align="center">2.71</entry>
+                <entry align="center">565</entry>
+                <entry align="center">605</entry>
+                <entry align="center">9.5</entry>
+                <entry align="center">34.0</entry>
+              </row>
+              <row>
+                <entry align="center">Al 7050-T7451</entry>
+                <entry align="center">2.83</entry>
+                <entry align="center">470</entry>
+                <entry align="center">525</entry>
+                <entry align="center">12.0</entry>
+                <entry align="center">38.5</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <ce:table-footnote>Tested in longitudinal (L) direction at room temperature in accordance with ASTM E8.</ce:table-footnote>
+        </ce:table>
+      </ce:section>
+    </ce:sections>
+  </body>
+</article>

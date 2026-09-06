@@ -1,0 +1,1524 @@
+[
+  {
+    "source": "header",
+    "text": "Glass Code",
+    "tokens": [
+      "Glass",
+      "Code"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "SiO2 (wt.%)",
+    "tokens": [
+      "SiO2",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Na2O (wt.%)",
+    "tokens": [
+      "Na2O",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "CaO (wt.%)",
+    "tokens": [
+      "CaO",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "P2O5 (wt.%)",
+    "tokens": [
+      "P2O5",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "B2O3 (wt.%)",
+    "tokens": [
+      "B2O3",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "MgO (wt.%)",
+    "tokens": [
+      "MgO",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "K2O (wt.%)",
+    "tokens": [
+      "K2O",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Code",
+    "text": "45S5 Bioglass",
+    "tokens": [
+      "45S5",
+      "Bioglass"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SiO2 (wt.%)",
+    "text": "45.0",
+    "tokens": [
+      "45.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (wt.%)",
+    "text": "24.5",
+    "tokens": [
+      "24.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CaO (wt.%)",
+    "text": "24.5",
+    "tokens": [
+      "24.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P2O5 (wt.%)",
+    "text": "6.0",
+    "tokens": [
+      "6.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B2O3 (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "MgO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Code",
+    "text": "13-93 Bioactive Glass",
+    "tokens": [
+      "13-93",
+      "Bioactive",
+      "Glass"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SiO2 (wt.%)",
+    "text": "53.0",
+    "tokens": [
+      "53.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (wt.%)",
+    "text": "6.0",
+    "tokens": [
+      "6.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CaO (wt.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P2O5 (wt.%)",
+    "text": "4.0",
+    "tokens": [
+      "4.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B2O3 (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "MgO (wt.%)",
+    "text": "5.0",
+    "tokens": [
+      "5.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (wt.%)",
+    "text": "12.0",
+    "tokens": [
+      "12.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Code",
+    "text": "Borate 01 Glass (B-1)",
+    "tokens": [
+      "Borate",
+      "01",
+      "Glass",
+      "(B-1)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SiO2 (wt.%)",
+    "text": "15.0",
+    "tokens": [
+      "15.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (wt.%)",
+    "text": "15.0",
+    "tokens": [
+      "15.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CaO (wt.%)",
+    "text": "20.0",
+    "tokens": [
+      "20.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P2O5 (wt.%)",
+    "text": "4.0",
+    "tokens": [
+      "4.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B2O3 (wt.%)",
+    "text": "46.0",
+    "tokens": [
+      "46.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "MgO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Code",
+    "text": "ICIE16 Silicate Glass",
+    "tokens": [
+      "ICIE16",
+      "Silicate",
+      "Glass"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SiO2 (wt.%)",
+    "text": "48.0",
+    "tokens": [
+      "48.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (wt.%)",
+    "text": "12.0",
+    "tokens": [
+      "12.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CaO (wt.%)",
+    "text": "32.0",
+    "tokens": [
+      "32.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P2O5 (wt.%)",
+    "text": "3.0",
+    "tokens": [
+      "3.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B2O3 (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "MgO (wt.%)",
+    "text": "5.0",
+    "tokens": [
+      "5.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Glass Code",
+    "text": "Pyrex Borosilicate Glass",
+    "tokens": [
+      "Pyrex",
+      "Borosilicate",
+      "Glass"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "SiO2 (wt.%)",
+    "text": "81.0",
+    "tokens": [
+      "81.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Na2O (wt.%)",
+    "text": "4.0",
+    "tokens": [
+      "4.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "CaO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "P2O5 (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "B2O3 (wt.%)",
+    "text": "13.0",
+    "tokens": [
+      "13.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "MgO (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "K2O (wt.%)",
+    "text": "2.0",
+    "tokens": [
+      "2.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Alloy Designation",
+    "tokens": [
+      "Alloy",
+      "Designation"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Ti (wt.%)",
+    "tokens": [
+      "Ti",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Al (wt.%)",
+    "tokens": [
+      "Al",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "V (wt.%)",
+    "tokens": [
+      "V",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Mo (wt.%)",
+    "tokens": [
+      "Mo",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Fe (wt.%)",
+    "tokens": [
+      "Fe",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Sn (wt.%)",
+    "tokens": [
+      "Sn",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Zr (wt.%)",
+    "tokens": [
+      "Zr",
+      "(wt.%)"
+    ],
+    "tags": [
+      "B-COMP",
+      "I-COMP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Designation",
+    "text": "Ti-6Al-4V (Grade 5)",
+    "tokens": [
+      "Ti-6Al-4V",
+      "(Grade",
+      "5)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (wt.%)",
+    "text": "89.0",
+    "tokens": [
+      "89.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "6.2",
+    "tokens": [
+      "6.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "V (wt.%)",
+    "text": "4.1",
+    "tokens": [
+      "4.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mo (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "0.2",
+    "tokens": [
+      "0.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Designation",
+    "text": "Ti-6Al-2Sn-4Zr-2Mo",
+    "tokens": [
+      "Ti-6Al-2Sn-4Zr-2Mo"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (wt.%)",
+    "text": "86.0",
+    "tokens": [
+      "86.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "6.0",
+    "tokens": [
+      "6.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "V (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mo (wt.%)",
+    "text": "2.0",
+    "tokens": [
+      "2.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "0.1",
+    "tokens": [
+      "0.1"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (wt.%)",
+    "text": "2.0",
+    "tokens": [
+      "2.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "4.0",
+    "tokens": [
+      "4.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Designation",
+    "text": "Ti-10V-2Fe-3Al",
+    "tokens": [
+      "Ti-10V-2Fe-3Al"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (wt.%)",
+    "text": "85.0",
+    "tokens": [
+      "85.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "3.0",
+    "tokens": [
+      "3.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "V (wt.%)",
+    "text": "10.0",
+    "tokens": [
+      "10.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mo (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "2.0",
+    "tokens": [
+      "2.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Designation",
+    "text": "Ti-5Al-2.5Sn (Grade 6)",
+    "tokens": [
+      "Ti-5Al-2.5Sn",
+      "(Grade",
+      "6)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (wt.%)",
+    "text": "92.5",
+    "tokens": [
+      "92.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "5.0",
+    "tokens": [
+      "5.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "V (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mo (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "0.2",
+    "tokens": [
+      "0.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (wt.%)",
+    "text": "2.5",
+    "tokens": [
+      "2.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Alloy Designation",
+    "text": "Ti-15V-3Cr-3Sn-3Al",
+    "tokens": [
+      "Ti-15V-3Cr-3Sn-3Al"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Ti (wt.%)",
+    "text": "76.0",
+    "tokens": [
+      "76.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Al (wt.%)",
+    "text": "3.0",
+    "tokens": [
+      "3.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "V (wt.%)",
+    "text": "15.0",
+    "tokens": [
+      "15.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Mo (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Fe (wt.%)",
+    "text": "0.2",
+    "tokens": [
+      "0.2"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Sn (wt.%)",
+    "text": "3.0",
+    "tokens": [
+      "3.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Zr (wt.%)",
+    "text": "-",
+    "tokens": [
+      "-"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Cathode Formula",
+    "tokens": [
+      "Cathode",
+      "Formula"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Specific Capacity (mAh/g)",
+    "tokens": [
+      "Specific",
+      "Capacity",
+      "(mAh/g)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Nominal Voltage (V)",
+    "tokens": [
+      "Nominal",
+      "Voltage",
+      "(V)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Energy Density (Wh/kg)",
+    "tokens": [
+      "Energy",
+      "Density",
+      "(Wh/kg)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Cycle Retention (%)",
+    "tokens": [
+      "Cycle",
+      "Retention",
+      "(%)"
+    ],
+    "tags": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "header",
+    "text": "Tap Density (g/cm3)",
+    "tokens": [
+      "Tap",
+      "Density",
+      "(g/cm3)"
+    ],
+    "tags": [
+      "B-PROP",
+      "I-PROP",
+      "I-PROP"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Formula",
+    "text": "LiCoO2 (LCO)",
+    "tokens": [
+      "LiCoO2",
+      "(LCO)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Specific Capacity (mAh/g)",
+    "text": "160",
+    "tokens": [
+      "160"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nominal Voltage (V)",
+    "text": "3.90",
+    "tokens": [
+      "3.90"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Energy Density (Wh/kg)",
+    "text": "624",
+    "tokens": [
+      "624"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cycle Retention (%)",
+    "text": "92.0",
+    "tokens": [
+      "92.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tap Density (g/cm3)",
+    "text": "2.80",
+    "tokens": [
+      "2.80"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Formula",
+    "text": "LiFePO4 (LFP)",
+    "tokens": [
+      "LiFePO4",
+      "(LFP)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Specific Capacity (mAh/g)",
+    "text": "165",
+    "tokens": [
+      "165"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nominal Voltage (V)",
+    "text": "3.45",
+    "tokens": [
+      "3.45"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Energy Density (Wh/kg)",
+    "text": "569",
+    "tokens": [
+      "569"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cycle Retention (%)",
+    "text": "98.5",
+    "tokens": [
+      "98.5"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tap Density (g/cm3)",
+    "text": "1.30",
+    "tokens": [
+      "1.30"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Formula",
+    "text": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "tokens": [
+      "LiNi0.8Co0.15Al0.05O2",
+      "(NCA)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Specific Capacity (mAh/g)",
+    "text": "200",
+    "tokens": [
+      "200"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nominal Voltage (V)",
+    "text": "3.75",
+    "tokens": [
+      "3.75"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Energy Density (Wh/kg)",
+    "text": "750",
+    "tokens": [
+      "750"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cycle Retention (%)",
+    "text": "88.0",
+    "tokens": [
+      "88.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tap Density (g/cm3)",
+    "text": "2.60",
+    "tokens": [
+      "2.60"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Formula",
+    "text": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "tokens": [
+      "LiNi1/3Mn1/3Co1/3O2",
+      "(NMC111)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Specific Capacity (mAh/g)",
+    "text": "160",
+    "tokens": [
+      "160"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nominal Voltage (V)",
+    "text": "3.80",
+    "tokens": [
+      "3.80"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Energy Density (Wh/kg)",
+    "text": "608",
+    "tokens": [
+      "608"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cycle Retention (%)",
+    "text": "94.0",
+    "tokens": [
+      "94.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tap Density (g/cm3)",
+    "text": "2.40",
+    "tokens": [
+      "2.40"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cathode Formula",
+    "text": "LiMn2O4 (LMO)",
+    "tokens": [
+      "LiMn2O4",
+      "(LMO)"
+    ],
+    "tags": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Specific Capacity (mAh/g)",
+    "text": "120",
+    "tokens": [
+      "120"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Nominal Voltage (V)",
+    "text": "4.05",
+    "tokens": [
+      "4.05"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Energy Density (Wh/kg)",
+    "text": "486",
+    "tokens": [
+      "486"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Cycle Retention (%)",
+    "text": "82.0",
+    "tokens": [
+      "82.0"
+    ],
+    "tags": [
+      "O"
+    ]
+  },
+  {
+    "source": "cell",
+    "header": "Tap Density (g/cm3)",
+    "text": "2.10",
+    "tokens": [
+      "2.10"
+    ],
+    "tags": [
+      "O"
+    ]
+  }
+]

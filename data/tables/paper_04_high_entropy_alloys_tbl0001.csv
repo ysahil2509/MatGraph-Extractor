@@ -1,0 +1,6 @@
+Alloy Formulation,Al (at.%),Co (at.%),Cr (at.%),Fe (at.%),Ni (at.%),Mn (at.%),Crystal Structure
+CoCrFeNi (Base 4-HEA),-,25.0,25.0,25.0,25.0,-,Single FCC
+CoCrFeMnNi (Cantor Alloy),-,20.0,20.0,20.0,20.0,20.0,Single FCC
+Al0.3CoCrFeNi,6.98,23.25,23.25,23.25,23.25,-,FCC + minor BCC
+Al0.7CoCrFeNi,14.89,21.28,21.28,21.28,21.28,-,BCC + B2 + FCC
+AlCoCrFeNi (Equimolar),20.0,20.0,20.0,20.0,20.0,-,BCC + B2

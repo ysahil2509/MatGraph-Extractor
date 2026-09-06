@@ -1,0 +1,18 @@
+{
+  "Total Papers Processed": 10,
+  "Paper Processing Success Rate (%)": 100.0,
+  "Total Tables Detected": 20,
+  "Tables Successfully Extracted": 20,
+  "Table Extraction Success Rate (%)": 100.0,
+  "Unique Materials Discovered": 50,
+  "Unique Components / Oxides": 49,
+  "Unique Properties Profiled": 32,
+  "Total Composition Entries": 205,
+  "Total Property Measurements": 255,
+  "Linked Knowledge Triples": 255,
+  "Numeric Property Value Ratio (%)": 98.43,
+  "Unit Completeness Ratio (%)": 98.04,
+  "Total Pipeline Execution Time (s)": 0.051,
+  "Avg Processing Time Per Paper (s)": 0.005,
+  "Avg Processing Time Per Table (s)": 0.003
+}

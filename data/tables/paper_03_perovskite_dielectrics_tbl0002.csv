@@ -1,0 +1,6 @@
+Ceramic System,Dielectric Constant,Dielectric Loss (tan delta),Curie Temperature (deg C),Piezoelectric Coefficient d33 (pC/N),Remanent Polarization (uC/cm2)
+BaTiO3 (BT),1800,0.015,120,190,16.0
+Pb(Zr0.52Ti0.48)O3 (PZT-5H),3400,0.020,230,590,32.0
+(K0.5Na0.5)NbO3 (KNN),850,0.035,420,160,22.5
+0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT),1250,0.040,288,175,38.0
+BiFeO3 (BFO),150,0.080,830,45,65.0

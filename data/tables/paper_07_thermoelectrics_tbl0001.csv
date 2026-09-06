@@ -1,0 +1,6 @@
+Thermoelectric Sample,Bi (mol%),Sb (mol%),Te (mol%),Se (mol%),Pb (mol%),Sn (mol%)
+p-type (Bi0.25Sb0.75)2Te3,10.0,30.0,60.0,-,-,-
+n-type Bi2(Te0.95Se0.05)3,40.0,-,57.0,3.0,-,-
+p-type Pb0.98Na0.02Te,-,-,50.0,-,48.0,-
+n-type PbTe-0.02PbI2,-,-,49.0,-,49.0,-
+p-type SnSe single-crystal,-,-,-,-,-,50.0

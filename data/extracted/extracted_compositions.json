@@ -1,0 +1,2052 @@
+[
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-4V (Grade 5)",
+    "component": "Ti",
+    "percentage": 89.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-4V (Grade 5)",
+    "component": "Al",
+    "percentage": 6.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-4V (Grade 5)",
+    "component": "V",
+    "percentage": 4.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-4V (Grade 5)",
+    "component": "Fe",
+    "percentage": 0.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-2Sn-4Zr-2Mo",
+    "component": "Ti",
+    "percentage": 86.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-2Sn-4Zr-2Mo",
+    "component": "Al",
+    "percentage": 6.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-2Sn-4Zr-2Mo",
+    "component": "Mo",
+    "percentage": 2.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-2Sn-4Zr-2Mo",
+    "component": "Fe",
+    "percentage": 0.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-2Sn-4Zr-2Mo",
+    "component": "Sn",
+    "percentage": 2.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-6Al-2Sn-4Zr-2Mo",
+    "component": "Zr",
+    "percentage": 4.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-10V-2Fe-3Al",
+    "component": "Ti",
+    "percentage": 85.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-10V-2Fe-3Al",
+    "component": "Al",
+    "percentage": 3.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-10V-2Fe-3Al",
+    "component": "V",
+    "percentage": 10.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-10V-2Fe-3Al",
+    "component": "Fe",
+    "percentage": 2.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-5Al-2.5Sn (Grade 6)",
+    "component": "Ti",
+    "percentage": 92.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-5Al-2.5Sn (Grade 6)",
+    "component": "Al",
+    "percentage": 5.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-5Al-2.5Sn (Grade 6)",
+    "component": "Fe",
+    "percentage": 0.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-5Al-2.5Sn (Grade 6)",
+    "component": "Sn",
+    "percentage": 2.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-15V-3Cr-3Sn-3Al",
+    "component": "Ti",
+    "percentage": 76.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-15V-3Cr-3Sn-3Al",
+    "component": "Al",
+    "percentage": 3.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-15V-3Cr-3Sn-3Al",
+    "component": "V",
+    "percentage": 15.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-15V-3Cr-3Sn-3Al",
+    "component": "Fe",
+    "percentage": 0.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_01_ti_alloys",
+    "doi": "10.1016/j.msea.2023.144890",
+    "table_id": "tbl0001",
+    "material_name": "Ti-15V-3Cr-3Sn-3Al",
+    "component": "Sn",
+    "percentage": 3.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiCoO2 (LCO)",
+    "component": "Li",
+    "percentage": 7.09,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiCoO2 (LCO)",
+    "component": "Co",
+    "percentage": 60.22,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiCoO2 (LCO)",
+    "component": "O",
+    "percentage": 32.69,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiFePO4 (LFP)",
+    "component": "Li",
+    "percentage": 4.4,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiFePO4 (LFP)",
+    "component": "Fe",
+    "percentage": 35.39,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiFePO4 (LFP)",
+    "component": "P",
+    "percentage": 19.63,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiFePO4 (LFP)",
+    "component": "O",
+    "percentage": 40.58,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "component": "Li",
+    "percentage": 7.25,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "component": "Co",
+    "percentage": 9.24,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "component": "Ni",
+    "percentage": 49.12,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi0.8Co0.15Al0.05O2 (NCA)",
+    "component": "O",
+    "percentage": 33.45,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "component": "Li",
+    "percentage": 7.19,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "component": "Co",
+    "percentage": 20.37,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "component": "Ni",
+    "percentage": 20.29,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "component": "Mn",
+    "percentage": 18.99,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiNi1/3Mn1/3Co1/3O2 (NMC111)",
+    "component": "O",
+    "percentage": 33.16,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiMn2O4 (LMO)",
+    "component": "Li",
+    "percentage": 3.84,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiMn2O4 (LMO)",
+    "component": "Mn",
+    "percentage": 60.77,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_02_battery_cathodes",
+    "doi": "10.1016/j.ensm.2023.102844",
+    "table_id": "tbl0001",
+    "material_name": "LiMn2O4 (LMO)",
+    "component": "O",
+    "percentage": 35.39,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "BaTiO3 (BT)",
+    "component": "BaO",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "BaTiO3 (BT)",
+    "component": "TiO2",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "component": "TiO2",
+    "percentage": 24.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "component": "PbO",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "Pb(Zr0.52Ti0.48)O3 (PZT-5H)",
+    "component": "ZrO2",
+    "percentage": 26.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "(K0.5Na0.5)NbO3 (KNN)",
+    "component": "K2O",
+    "percentage": 25.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "(K0.5Na0.5)NbO3 (KNN)",
+    "component": "Na2O",
+    "percentage": 25.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "(K0.5Na0.5)NbO3 (KNN)",
+    "component": "Nb2O5",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "component": "BaO",
+    "percentage": 3.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "component": "TiO2",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_03_perovskite_dielectrics",
+    "doi": "10.1016/j.jeurceramsoc.2023.05.012",
+    "table_id": "tbl0001",
+    "material_name": "0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT)",
+    "component": "Na2O",
+    "percentage": 23.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeNi (Base 4-HEA)",
+    "component": "Co",
+    "percentage": 25.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeNi (Base 4-HEA)",
+    "component": "Cr",
+    "percentage": 25.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeNi (Base 4-HEA)",
+    "component": "Fe",
+    "percentage": 25.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeNi (Base 4-HEA)",
+    "component": "Ni",
+    "percentage": 25.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeMnNi (Cantor Alloy)",
+    "component": "Co",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeMnNi (Cantor Alloy)",
+    "component": "Cr",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeMnNi (Cantor Alloy)",
+    "component": "Fe",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeMnNi (Cantor Alloy)",
+    "component": "Ni",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "CoCrFeMnNi (Cantor Alloy)",
+    "component": "Mn",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.3CoCrFeNi",
+    "component": "Al",
+    "percentage": 6.98,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.3CoCrFeNi",
+    "component": "Co",
+    "percentage": 23.25,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.3CoCrFeNi",
+    "component": "Cr",
+    "percentage": 23.25,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.3CoCrFeNi",
+    "component": "Fe",
+    "percentage": 23.25,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.3CoCrFeNi",
+    "component": "Ni",
+    "percentage": 23.25,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.7CoCrFeNi",
+    "component": "Al",
+    "percentage": 14.89,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.7CoCrFeNi",
+    "component": "Co",
+    "percentage": 21.28,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.7CoCrFeNi",
+    "component": "Cr",
+    "percentage": 21.28,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.7CoCrFeNi",
+    "component": "Fe",
+    "percentage": 21.28,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "Al0.7CoCrFeNi",
+    "component": "Ni",
+    "percentage": 21.28,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "AlCoCrFeNi (Equimolar)",
+    "component": "Al",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "AlCoCrFeNi (Equimolar)",
+    "component": "Co",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "AlCoCrFeNi (Equimolar)",
+    "component": "Cr",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "AlCoCrFeNi (Equimolar)",
+    "component": "Fe",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_04_high_entropy_alloys",
+    "doi": "10.1016/j.actamat.2023.118942",
+    "table_id": "tbl0001",
+    "material_name": "AlCoCrFeNi (Equimolar)",
+    "component": "Ni",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "45S5 Bioglass",
+    "component": "SiO2",
+    "percentage": 45.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "45S5 Bioglass",
+    "component": "Na2O",
+    "percentage": 24.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "45S5 Bioglass",
+    "component": "CaO",
+    "percentage": 24.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "45S5 Bioglass",
+    "component": "P2O5",
+    "percentage": 6.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "SiO2",
+    "percentage": 53.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "Na2O",
+    "percentage": 6.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "CaO",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "P2O5",
+    "percentage": 4.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "MgO",
+    "percentage": 5.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "K2O",
+    "percentage": 12.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Borate 01 Glass (B-1)",
+    "component": "SiO2",
+    "percentage": 15.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Borate 01 Glass (B-1)",
+    "component": "Na2O",
+    "percentage": 15.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Borate 01 Glass (B-1)",
+    "component": "CaO",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Borate 01 Glass (B-1)",
+    "component": "P2O5",
+    "percentage": 4.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Borate 01 Glass (B-1)",
+    "component": "B2O3",
+    "percentage": 46.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "ICIE16 Silicate Glass",
+    "component": "SiO2",
+    "percentage": 48.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "ICIE16 Silicate Glass",
+    "component": "Na2O",
+    "percentage": 12.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "ICIE16 Silicate Glass",
+    "component": "CaO",
+    "percentage": 32.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "ICIE16 Silicate Glass",
+    "component": "P2O5",
+    "percentage": 3.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "ICIE16 Silicate Glass",
+    "component": "MgO",
+    "percentage": 5.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Pyrex Borosilicate Glass",
+    "component": "SiO2",
+    "percentage": 81.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Pyrex Borosilicate Glass",
+    "component": "Na2O",
+    "percentage": 4.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Pyrex Borosilicate Glass",
+    "component": "B2O3",
+    "percentage": 13.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0001",
+    "material_name": "Pyrex Borosilicate Glass",
+    "component": "K2O",
+    "percentage": 2.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "45S5 Bioglass",
+    "component": "C",
+    "percentage": 535.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "45S5 Bioglass",
+    "component": "K",
+    "percentage": 15.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "C",
+    "percentage": 605.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "13-93 Bioactive Glass",
+    "component": "K",
+    "percentage": 12.8,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "Borate 01 Glass (B-1)",
+    "component": "C",
+    "percentage": 495.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "Borate 01 Glass (B-1)",
+    "component": "K",
+    "percentage": 14.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "ICIE16 Silicate Glass",
+    "component": "C",
+    "percentage": 560.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "ICIE16 Silicate Glass",
+    "component": "K",
+    "percentage": 13.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "Pyrex Borosilicate Glass",
+    "component": "C",
+    "percentage": 525.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_05_bioactive_glasses",
+    "doi": "10.1016/j.jnoncrysol.2023.122119",
+    "table_id": "tbl0002",
+    "material_name": "Pyrex Borosilicate Glass",
+    "component": "K",
+    "percentage": 3.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "YBa2Cu3O7-delta (YBCO-123)",
+    "component": "Y",
+    "percentage": 7.7,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "YBa2Cu3O7-delta (YBCO-123)",
+    "component": "Ba",
+    "percentage": 15.4,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "YBa2Cu3O7-delta (YBCO-123)",
+    "component": "Cu",
+    "percentage": 23.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "component": "Cu",
+    "percentage": 15.8,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "component": "Bi",
+    "percentage": 10.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "component": "Sr",
+    "percentage": 10.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "component": "Ca",
+    "percentage": 10.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "MgB2 (Magnesium Diboride)",
+    "component": "Mg",
+    "percentage": 33.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "MgB2 (Magnesium Diboride)",
+    "component": "B",
+    "percentage": 66.7,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "FeSe (Iron Selenide)",
+    "component": "Fe",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "FeSe (Iron Selenide)",
+    "component": "Se",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "component": "Cu",
+    "percentage": 13.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "component": "Bi",
+    "percentage": 13.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "component": "Sr",
+    "percentage": 13.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0001",
+    "material_name": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "component": "Ca",
+    "percentage": 6.7,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0002",
+    "material_name": "YBa2Cu3O7-delta (YBCO-123)",
+    "component": "Tc",
+    "percentage": 92.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0002",
+    "material_name": "Bi2Sr2Ca2Cu3O10 (Bi-2223)",
+    "component": "Tc",
+    "percentage": 110.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0002",
+    "material_name": "MgB2 (Magnesium Diboride)",
+    "component": "Tc",
+    "percentage": 39.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0002",
+    "material_name": "FeSe (Iron Selenide)",
+    "component": "Tc",
+    "percentage": 8.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_06_superconductors",
+    "doi": "10.1016/j.physc.2023.1354180",
+    "table_id": "tbl0002",
+    "material_name": "Bi2Sr2CaCu2O8 (Bi-2212)",
+    "component": "Tc",
+    "percentage": 85.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "p-type (Bi0.25Sb0.75)2Te3",
+    "component": "Bi",
+    "percentage": 10.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "p-type (Bi0.25Sb0.75)2Te3",
+    "component": "Sb",
+    "percentage": 30.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "p-type (Bi0.25Sb0.75)2Te3",
+    "component": "Te",
+    "percentage": 60.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "n-type Bi2(Te0.95Se0.05)3",
+    "component": "Bi",
+    "percentage": 40.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "n-type Bi2(Te0.95Se0.05)3",
+    "component": "Te",
+    "percentage": 57.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "n-type Bi2(Te0.95Se0.05)3",
+    "component": "Se",
+    "percentage": 3.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "p-type Pb0.98Na0.02Te",
+    "component": "Te",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "p-type Pb0.98Na0.02Te",
+    "component": "Pb",
+    "percentage": 48.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "n-type PbTe-0.02PbI2",
+    "component": "Te",
+    "percentage": 49.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "n-type PbTe-0.02PbI2",
+    "component": "Pb",
+    "percentage": 49.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_07_thermoelectrics",
+    "doi": "10.1016/j.nanoen.2023.108711",
+    "table_id": "tbl0001",
+    "material_name": "p-type SnSe single-crystal",
+    "component": "Sn",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 2024-T3",
+    "component": "Al",
+    "percentage": 93.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 2024-T3",
+    "component": "Cu",
+    "percentage": 4.4,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 2024-T3",
+    "component": "Mg",
+    "percentage": 1.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 2024-T3",
+    "component": "Zn",
+    "percentage": 0.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 2024-T3",
+    "component": "Mn",
+    "percentage": 0.6,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7075-T6",
+    "component": "Al",
+    "percentage": 90.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7075-T6",
+    "component": "Cu",
+    "percentage": 1.6,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7075-T6",
+    "component": "Mg",
+    "percentage": 2.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7075-T6",
+    "component": "Zn",
+    "percentage": 5.6,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7075-T6",
+    "component": "Mn",
+    "percentage": 0.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 6061-T6",
+    "component": "Al",
+    "percentage": 97.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 6061-T6",
+    "component": "Cu",
+    "percentage": 0.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 6061-T6",
+    "component": "Mg",
+    "percentage": 1.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 6061-T6",
+    "component": "Zn",
+    "percentage": 0.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 6061-T6",
+    "component": "Mn",
+    "percentage": 0.15,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al-Li 2195-T8",
+    "component": "Al",
+    "percentage": 94.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al-Li 2195-T8",
+    "component": "Cu",
+    "percentage": 4.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al-Li 2195-T8",
+    "component": "Mg",
+    "percentage": 0.4,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al-Li 2195-T8",
+    "component": "Zn",
+    "percentage": 0.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al-Li 2195-T8",
+    "component": "Li",
+    "percentage": 1.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al-Li 2195-T8",
+    "component": "Mn",
+    "percentage": 0.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al-Li 2195-T8",
+    "component": "Zr",
+    "percentage": 0.11,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7050-T7451",
+    "component": "Al",
+    "percentage": 89.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7050-T7451",
+    "component": "Cu",
+    "percentage": 2.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7050-T7451",
+    "component": "Mg",
+    "percentage": 2.1,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7050-T7451",
+    "component": "Zn",
+    "percentage": 6.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7050-T7451",
+    "component": "Mn",
+    "percentage": 0.05,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_08_aerospace_aluminum",
+    "doi": "10.1016/j.matdes.2023.111820",
+    "table_id": "tbl0001",
+    "material_name": "Al 7050-T7451",
+    "component": "Zr",
+    "percentage": 0.12,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "component": "ZrO2",
+    "percentage": 92.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "component": "Y2O3",
+    "percentage": 8.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "10CGO (Ce0.9Gd0.1O1.95)",
+    "component": "CeO2",
+    "percentage": 90.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "10CGO (Ce0.9Gd0.1O1.95)",
+    "component": "Gd2O3",
+    "percentage": 10.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "Ni-8YSZ Anode Cermet (50:50)",
+    "component": "ZrO2",
+    "percentage": 46.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "Ni-8YSZ Anode Cermet (50:50)",
+    "component": "Y2O3",
+    "percentage": 4.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "Ni-8YSZ Anode Cermet (50:50)",
+    "component": "NiO",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "component": "La2O3",
+    "percentage": 40.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "component": "SrO",
+    "percentage": 10.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "component": "La2O3",
+    "percentage": 30.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0001",
+    "material_name": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "component": "SrO",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0002",
+    "material_name": "8YSZ (8 mol% Y2O3-ZrO2)",
+    "component": "K",
+    "percentage": 10.5,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0002",
+    "material_name": "10CGO (Ce0.9Gd0.1O1.95)",
+    "component": "K",
+    "percentage": 12.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0002",
+    "material_name": "Ni-8YSZ Anode Cermet (50:50)",
+    "component": "K",
+    "percentage": 12.8,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0002",
+    "material_name": "LSGM (La0.8Sr0.2Ga0.8Mg0.2O3)",
+    "component": "K",
+    "percentage": 11.4,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_09_sofc_electrolytes",
+    "doi": "10.1016/j.ssi.2023.116240",
+    "table_id": "tbl0002",
+    "material_name": "LSCF (La0.6Sr0.4Co0.2Fe0.8O3)",
+    "component": "K",
+    "percentage": 15.3,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "component": "Ni",
+    "percentage": 50.2,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "component": "Ti",
+    "percentage": 49.8,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "component": "Ni",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "component": "Ti",
+    "percentage": 45.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "component": "Cu",
+    "percentage": 5.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Cu72Al18Ni10 (Cu-based SMA)",
+    "component": "Ni",
+    "percentage": 10.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Cu72Al18Ni10 (Cu-based SMA)",
+    "component": "Cu",
+    "percentage": 72.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Cu72Al18Ni10 (Cu-based SMA)",
+    "component": "Al",
+    "percentage": 18.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "component": "Ni",
+    "percentage": 45.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "component": "Ti",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni45Ti50Fe5 (Low-hysteresis)",
+    "component": "Fe",
+    "percentage": 5.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "component": "Ni",
+    "percentage": 30.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "component": "Ti",
+    "percentage": 50.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0001",
+    "material_name": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "component": "Pd",
+    "percentage": 20.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0002",
+    "material_name": "Ni50.2Ti49.8 (Nitinol SE508)",
+    "component": "C",
+    "percentage": 12.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0002",
+    "material_name": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "component": "C",
+    "percentage": 22.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0002",
+    "material_name": "Ni50Ti45Cu5 (Ternary Nitinol)",
+    "component": "C",
+    "percentage": 48.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0002",
+    "material_name": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "component": "C",
+    "percentage": 180.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  },
+  {
+    "paper_id": "paper_10_shape_memory_alloys",
+    "doi": "10.1016/j.intermet.2023.107932",
+    "table_id": "tbl0002",
+    "material_name": "Ni30Ti50Pd20 (High-temperature SMA)",
+    "component": "C",
+    "percentage": 215.0,
+    "unit": "wt.%",
+    "confidence": 0.95
+  }
+]

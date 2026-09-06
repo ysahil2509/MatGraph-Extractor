@@ -1,0 +1,6 @@
+Material Name,BaO (mol%),TiO2 (mol%),PbO (mol%),ZrO2 (mol%),K2O (mol%),Na2O (mol%),Nb2O5 (mol%)
+BaTiO3 (BT),50.0,50.0,-,-,-,-,-
+Pb(Zr0.52Ti0.48)O3 (PZT-5H),-,24.0,50.0,26.0,-,-,-
+(K0.5Na0.5)NbO3 (KNN),-,-,-,-,25.0,25.0,50.0
+0.94(Bi0.5Na0.5)TiO3-0.06BaTiO3 (BNT-BT),3.0,50.0,-,-,-,23.5,-
+BiFeO3 (BFO),-,-,-,-,-,-,-
